@@ -1,0 +1,1177 @@
+{
+  "userId": "adir-duchan",
+  "authorName": "Adir Duchan (ההוא מהזה)",
+  "totalPosts": 305,
+  "originalPosts": 293,
+  "repostsFiltered": 12,
+  "generatedAt": "2025-07-10T12:49:03.930Z",
+  "topPosts": [
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 233400,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 739,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:C4D05AQEve_wRuxANFw",
+                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4D05AQEve_wRuxANFw/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1638790491852?e=1752757200&v=beta&t=cYWsQD4lBz-ybN0r4ROfiNwmzPR03JsKaocrF0USuI8",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": ""
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4D05AQEve_wRuxANFw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1638790578963?e=1752757200&v=beta&t=nTSBK8SgeU0t78BNjLBaDPX-NJa9awrW5V_XndTQZ34",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 573456,
+              "height": 720
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4D05AQEve_wRuxANFw/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1638790574852?e=1752757200&v=beta&t=oSjy-vXkBSA3As3EWnE9AqtS078BUHdBznumSfTdjsg",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 479738,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:C4D05AQEve_wRuxANFw",
+          "provider": "UGC",
+          "aspectRatio": 1,
+          "media": "urn:li:digitalmediaAsset:C4D05AQEve_wRuxANFw",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1596000,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/C4D05AQEve_wRuxANFw/BAQiizi5cU?e=1752757200&v=beta&t=rnWWNT38yWG6Ii-FgldKwwUniVdHY02sJhEXw8ZeFmM",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "76bHjEhjRfUz2DIfFz7kmA=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:6873585935263518720",
+      "url": "https://www.linkedin.com/posts/adir-duchan_hiring-recruiting-jobs-activity-6873585935263518720-oA0p?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "3yr",
+      "shareUrn": "urn:li:ugcPost:6873585508904132609",
+      "text": "איך לראיין מתכנתים\n.\n.\n.\n.\n#hiring #recruiting #jobs #interviewexperience #interviewing \n#softwareengineers #softwaredevelopers",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 291,
+      "numLikes": 8665,
+      "numComments": 921,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "y3FJn+aRSjWh5UWmeuztlQ==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1638790592018,
+      "postedAtISO": "2021-12-06T11:36:32.018Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 12883,
+      "engagementBreakdown": {
+        "likes": 8665,
+        "comments": 921,
+        "shares": 291,
+        "totalEngagementScore": 12883
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 214600,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 720,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:C4D05AQE1N1oLaGEd-g",
+                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4D05AQE1N1oLaGEd-g/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1658734718054?e=1752757200&v=beta&t=upkCFMQv7M61hp4xy8NgjD-HbwKrccqSYctCFKN1kvo",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": ""
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4D05AQE1N1oLaGEd-g/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1658734909874?e=1752757200&v=beta&t=E-seubRhAXk1WCQTeap2VFZmhFWWE7cqEx_vLwLQtqg",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 706490,
+              "height": 720
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4D05AQE1N1oLaGEd-g/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1658734900057?e=1752757200&v=beta&t=Rklwxg3JkKcwWLT0X_9zjJFXT0ZHQi2xacmM2r9-6PA",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 589823,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:C4D05AQE1N1oLaGEd-g",
+          "provider": "UGC",
+          "aspectRatio": 1,
+          "media": "urn:li:digitalmediaAsset:C4D05AQE1N1oLaGEd-g",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1596000,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/C4D05AQE1N1oLaGEd-g/BAgKHVkZ2S0i5h0GA?e=1752757200&v=beta&t=vbXZ9BAS5dW5AKWCiuE_lpcZJI22G9lncN8XP7XFgUQ",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "sdn6jIsq6a2aYOhsiF9H4w=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:6957238524068683776",
+      "url": "https://www.linkedin.com/posts/adir-duchan_hightech-product-softwaredevelopers-activity-6957238524068683776-azAd?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "2yr",
+      "shareUrn": "urn:li:ugcPost:6957237650588098561",
+      "text": "פוסטמורטם לצוות של אלוהים\n.\n.\n.\n.\n#hightech #product #softwaredevelopers",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 195,
+      "numLikes": 5609,
+      "numComments": 446,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "y3FJn+aRSjWh5UWmeuztlQ==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1658734923379,
+      "postedAtISO": "2022-07-25T07:42:03.379Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 7922,
+      "engagementBreakdown": {
+        "likes": 5609,
+        "comments": 446,
+        "shares": 195,
+        "totalEngagementScore": 7922
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 169933,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 720,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:C4D05AQGYJJ1_YldRGQ",
+                "fileIdentifyingUrlPathSegment": "high/videocover-high/0/1673859214142?e=1752757200&v=beta&t=Hof0rKmBRNeKIxzWXjpnj0tjZx3K5T26VAS3PSvJriE",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 360,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:C4D05AQGYJJ1_YldRGQ",
+                "fileIdentifyingUrlPathSegment": "low/videocover-low/0/1673859214248?e=1752757200&v=beta&t=FKzeqpQ3Biq0BuDt2j59kI2WFqKpvgMTEQQHffbLpg4",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D05AQGYJJ1_YldRGQ/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4D05AQGYJJ1_YldRGQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1673859246633?e=1752757200&v=beta&t=fTEd765Yqc6ajuE6ixkE-dwCy2UzU5ipXRuxwAKwl0A",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 607564,
+              "height": 720
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4D05AQGYJJ1_YldRGQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1673859249599?e=1752757200&v=beta&t=mLAPB00pXClTZpnmhBIe-rPnbCKhKUZEzg842-msjWs",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 507970,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:C4D05AQGYJJ1_YldRGQ",
+          "provider": "UGC",
+          "aspectRatio": 1,
+          "media": "urn:li:digitalmediaAsset:C4D05AQGYJJ1_YldRGQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1596000,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/C4D05AQGYJJ1_YldRGQ/BAQWzuDIPc?e=1752757200&v=beta&t=qREx7GDaRkQzr6_lsfp8v-j49F3T2YB4wlWgN61t4cg",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "ZMNlpdprc+Y9WfZjLNfypg=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7020674612413837312",
+      "url": "https://www.linkedin.com/posts/adir-duchan_openai-chatgpt-gpt-activity-7020674612413837312-YDzv?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "2yr",
+      "shareUrn": "urn:li:ugcPost:7020674014759010304",
+      "text": "GPT - נקמת הג׳בטה\n #openai #chatgpt #gpt #ai #softwareengineer #product #uxui",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 164,
+      "numLikes": 5763,
+      "numComments": 411,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "fTh6HTnnSD6a6FDr9wyZYA==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1673859265426,
+      "postedAtISO": "2023-01-16T08:54:25.426Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 7816,
+      "engagementBreakdown": {
+        "likes": 5763,
+        "comments": 411,
+        "shares": 164,
+        "totalEngagementScore": 7816
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 126566,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 691,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:C4D05AQGvpn6DTbaPOA",
+                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4D05AQGvpn6DTbaPOA/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1626862112424?e=1752757200&v=beta&t=J90w-OfMGhaurP4_lSqN8LOUDsZZyiLOF5p0F6lFJ6c",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": ""
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4D05AQGvpn6DTbaPOA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1626862568959?e=1752757200&v=beta&t=2c8ITnAac5-hCq3wODbJb3X4beJMQj3BJWUUwM0sSGw",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 482216,
+              "height": 720
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4D05AQGvpn6DTbaPOA/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1626862568037?e=1752757200&v=beta&t=9k-bZ-ikt6ELCCEY46casRaKowfvMjQsvrV7EOF5A9E",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 404255,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:C4D05AQGvpn6DTbaPOA",
+          "provider": "UGC",
+          "aspectRatio": 1,
+          "media": "urn:li:digitalmediaAsset:C4D05AQGvpn6DTbaPOA",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1596000,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/C4D05AQGvpn6DTbaPOA/BAQUHSim34?e=1752757200&v=beta&t=aQyOkx3GsjnNVKT_BefpUJLeMOUacrdxAkdRUXd-1bo",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "yZxYkPZxK19KumwtEj2VuQ=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:6823556200613875712",
+      "url": "https://www.linkedin.com/posts/adir-duchan_hiring-recruiting-jobs-activity-6823556200613875712-GbQE?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "3yr",
+      "shareUrn": "urn:li:ugcPost:6823554240263294976",
+      "text": "איך לגייס טאלנטים בהייטק\n#hiring #recruiting #jobs \n#product #softwareengineers #softwaredevelopers",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 172,
+      "numLikes": 4233,
+      "numComments": 622,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "iSD7pRokTgy2L7ngtrkB0Q==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1626862573770,
+      "postedAtISO": "2021-07-21T10:16:13.770Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 6959,
+      "engagementBreakdown": {
+        "likes": 4233,
+        "comments": 622,
+        "shares": 172,
+        "totalEngagementScore": 6959
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 191433,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 404,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQElXp3cpf27fQ",
+                "fileIdentifyingUrlPathSegment": "high/videocover-high/0/1728926878763?e=1752757200&v=beta&t=bxfm5pQbS8Uk2tagJ7ko_Vy9INMQB2LqZ0NPk0k-URE",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 202,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQElXp3cpf27fQ",
+                "fileIdentifyingUrlPathSegment": "low/videocover-low/0/1728926878805?e=1752757200&v=beta&t=2g5CwzxUaB67WLYlh8HP6xCTgINUEUn0WkRcgHTCYEo",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQElXp3cpf27fQ/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQElXp3cpf27fQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1728926920458?e=1752757200&v=beta&t=txF2OAFMtN6mvqXK-f1HzlN2G32oZW_3VbbKMH1ZjsU",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 549961,
+              "height": 1280
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQElXp3cpf27fQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1728926916828?e=1752757200&v=beta&t=YcwYgXi1V5lVxYUF4pjMWwGRvCRAvUHnQaBwEZ95ets",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 417828,
+              "height": 1138
+            }
+          ],
+          "transcripts": [
+            {
+              "captionFormat": "WEBVTT",
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "captionFile": "https://dms.licdn.com/playlist/vid/v2/D4D05AQElXp3cpf27fQ/video-auto-caption-webvtt-acs-singleton/video-auto-caption-webvtt-acs-singleton/0/1728926971635?e=1752757200&v=beta&t=NO2y7T6ac6EHhmErMYJerBHCHOdzi2wV2a9TemWXjMQ",
+              "isAutogenerated": true
+            },
+            {
+              "captionFormat": "SRT",
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "captionFile": "https://dms.licdn.com/playlist/vid/v2/D4D05AQElXp3cpf27fQ/video-auto-caption-srt-acs-singleton/video-auto-caption-srt-acs-singleton/0/1728926971629?e=1752757200&v=beta&t=3cBsHFPc_RADrR5uFTyBAdSaDWzzFey8irwrFVpvhNA",
+              "isAutogenerated": true
+            }
+          ],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQElXp3cpf27fQ",
+          "provider": "UGC",
+          "aspectRatio": 0.5625,
+          "media": "urn:li:digitalmediaAsset:D4D05AQElXp3cpf27fQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 343070,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQElXp3cpf27fQ/BAgiAwddXe4_dELmA?e=1752757200&v=beta&t=Ovgv7ZNOU9hwH3LJZ7pybkgatoKvKTMkeCTLxHXCxEw",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 343070,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4D05AQElXp3cpf27fQ/BAgiAwddXe4_dELmA?e=1752757200&v=beta&t=BKaCcuLhl-vAxEmd_5A9qA0UWq2fwZvV6Rbcp9H2yPw",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "NnXb2TxfX2C7L6niHnMsfA=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7251645269463760896",
+      "url": "https://www.linkedin.com/posts/adir-duchan_standwithukraine-standwithisrael-israel-activity-7251645269463760896-gRH-?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "8mo",
+      "shareUrn": "urn:li:ugcPost:7251644883130609664",
+      "text": "WOW WOW WOW What a speech! 👏 👏\n\nI just stood and slow clapped!\n\nWe need more people like this guy 🫡\n\n\"𝐈𝐫𝐚𝐧 𝐢𝐬 𝐛𝐨𝐦𝐛𝐢𝐧𝐠 𝐈𝐬𝐫𝐚𝐞𝐥 🇮🇱 , 𝐑𝐮𝐬𝐬𝐢𝐚 𝐢𝐬 𝐛𝐨𝐦𝐛𝐢𝐧𝐠 𝐔𝐤𝐫𝐚𝐢𝐧𝐞. 🇺🇦\"\n\nThat simple.\n\nJust one guy with common sense. That's all it takes.\n\nThis is the Ukrainian MP 𝐎𝐥𝐞𝐤𝐬𝐢𝐲 𝐆𝐨𝐧𝐜𝐡𝐚𝐫𝐞𝐧𝐤𝐨, who stood alone in that assembly and exposed the cowardice of those who keep debating while our people, Ukrainian and Israeli civilians. Doctors, engineers and students are busy fighting on the battlefields.\n\nWe are fighting battles that once needed entire coalitions.\n\n== \n\nIsrael is condemned on every platform, and Ukraine is left begging for the weapons it needs to defend itself, fighting other nations' wars while they sit back and watch.\n\nWhen will you in Europe and America realize that we’re the last line of defense? Civilization is at stake, and Goncharenko’s message is as clear as it gets: \"𝐄𝐯𝐢𝐥 𝐬𝐡𝐨𝐮𝐥𝐝 𝐛𝐞 𝐝𝐞𝐬𝐭𝐫𝐨𝐲𝐞𝐝, 𝐧𝐨𝐭 𝐝𝐞𝐛𝐚𝐭𝐞𝐝.\" \n\n- Adir\n\n//\n\n#StandWithUkraine #StandWithIsrael #Israel #Ukraine #BringThemHomeNow",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 475,
+      "numLikes": 2668,
+      "numComments": 360,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "WIde2dahRLqpcw4vYYSprg==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1728926961294,
+      "postedAtISO": "2024-10-14T17:29:21.294Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 6123,
+      "engagementBreakdown": {
+        "likes": 2668,
+        "comments": 360,
+        "shares": 475,
+        "totalEngagementScore": 6123
+      }
+    },
+    {
+      "type": "image",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQHziEqHAAjPdQ/feedshare-shrink_1280/B4DZUsZbkCHwAk-/0/1740206620863?e=1755129600&v=beta&t=ir0JdJ4XpsplfS1c3NnUe_AxTE9vZi8EfAqz7mHmsp0"
+      ],
+      "isRepost": false,
+      "urn": "urn:li:activity:7298955596035203072",
+      "url": "https://www.linkedin.com/posts/adir-duchan_bibas-bringthemhomenow-bibas-activity-7298955596035203072-tC0a?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "4mo",
+      "shareUrn": "urn:li:share:7298955594579767296",
+      "text": "\"I want the entire world to know what they did to my family.\"\n\nFor 484 days, Yarden Bibas waited.\n\nWaited in darkness.\nWaited underground.\nWaited after being beaten, dragged through Gaza, bleeding from the head.\n\nOn October 7, they took him.\nOn October 7, they took his wife, Shiri.\nOn October 7, they took his sons-Ariel, just 4 years old, and Kfir, only 9 months.\n\nA Gazan family claimed them.\nAs hostages. As prizes.\n\nAnd Yarden waited.\n\nHe waited in a tunnel.\nHe waited for news.\nHe waited for the deal that would bring his family home.\n\nThen, at last, they exchanged him.\n\n\"Where’s Shiri? Where are my boys?\"\n\"They're still there,\" he was told.\nAnd Yarden waited.\nAnd prayed.\n\nOn Thursday, they came home.\n\nIn coffins.\n\nGazans celebrated the event. Cheered and sang songs, as they handed over the lifeless body of a 9-month-old baby to the Red Cross.\n\nYarden watched them on TV.\n\nThe coffins were moved to forensics.\n\nDNA confirmed his children were there.\n\nBut the mother, wasn’t his wife.\n\nThey placed a stranger’s body in her place. To mock him, one last time.\n\nIn their lives, they separated little boys from their father, and in their deaths, they separated them from their mother.\n\nAnd Yarden waited.\n\nFor the cause of death.\n\nForensics came back,\n\nThey were strangled.\n\nNot a weapon. Not explosion.\n\nBare hands.\n\nA 9 months old, a 4 year old, and their mother.\n\nThe people who took them alive, strangled them alive, and to cover their tracks, mutilated the bodies.\n\nAnd Yarden waited.\n\nFor forensics to finish.\n\nAnd then finally said,\n\n\"I want the entire world to know what they did to my family.\"\n\"I want the entire world to know what they did to my family.\"\n\"I want the entire world to know what they did to my family.\"\n\n--\n\nWe hear you, Yarden.\nAnd we won’t let the world look away.\nIt's the least we can do .\n\nShare this to everyone.\nFill every corner of the feed today with #Bibas.\n\n#BringThemHomeNow #Bibas #Israel #StandWithUs",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 597,
+      "numLikes": 1878,
+      "numComments": 293,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "pHu4ejDHQGGUDdqjaMTEMA==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1740206622132,
+      "postedAtISO": "2025-02-22T06:43:42.132Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 5742,
+      "engagementBreakdown": {
+        "likes": 1878,
+        "comments": 293,
+        "shares": 597,
+        "totalEngagementScore": 5742
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 170633,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 717,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:C4E05AQEW02Hvqr-81A",
+                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4E05AQEW02Hvqr-81A/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1643108018828?e=1752757200&v=beta&t=NqpcA8wqG-t-i1vKHJRwIibH4VmjSx4DrEoS4qfJwWg",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": ""
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4E05AQEW02Hvqr-81A/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1643108106807?e=1752757200&v=beta&t=s8aEOv6twsk88gdiB72whwCJ8c5amnknnqItwDcRTrE",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 542041,
+              "height": 720
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/C4E05AQEW02Hvqr-81A/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1643108097538?e=1752757200&v=beta&t=utwOX8etY-6JaSfGdqYMQiuW4StulGD8FmKyUXCx8ok",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 453034,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:C4E05AQEW02Hvqr-81A",
+          "provider": "UGC",
+          "aspectRatio": 1,
+          "media": "urn:li:digitalmediaAsset:C4E05AQEW02Hvqr-81A",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1596000,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/C4E05AQEW02Hvqr-81A/BAQ7WtYr0k?e=1752757200&v=beta&t=LbSY1w8HuSnnag1GbzVEy1RTFk0DIKSSqXsI7JB7JrU",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "X2ramgE6PS3FJhc2iMrM/g=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:6891694968721719296",
+      "url": "https://www.linkedin.com/posts/adir-duchan_hiring-hightech-product-activity-6891694968721719296-BJBy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "3yr",
+      "shareUrn": "urn:li:ugcPost:6891694527023763456",
+      "text": ":כתבות על ההיי-טק בי לייק\n.\n.\n.\n.\n#hiring #hightech #product #softwaredevelopers",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 98,
+      "numLikes": 4199,
+      "numComments": 295,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "y3FJn+aRSjWh5UWmeuztlQ==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1643108122044,
+      "postedAtISO": "2022-01-25T10:55:22.044Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 5574,
+      "engagementBreakdown": {
+        "likes": 4199,
+        "comments": 295,
+        "shares": 98,
+        "totalEngagementScore": 5574
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 193433,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 720,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQHS0BJ9nxn4LQ",
+                "fileIdentifyingUrlPathSegment": "high/videocover-high/0/1689486660167?e=1752757200&v=beta&t=XHMp4qmvPbTZA29MqPTCHmQ7gZYqTdtwBpgJbnslV_U",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 360,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQHS0BJ9nxn4LQ",
+                "fileIdentifyingUrlPathSegment": "low/videocover-low/0/1689486657532?e=1752757200&v=beta&t=XJMQLU919HiPjiE-DvLVMvM5LWRS7iQdmt7rbb_MBaI",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHS0BJ9nxn4LQ/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHS0BJ9nxn4LQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1689486702088?e=1752757200&v=beta&t=99bFdjlZPgGF4YMFnM0gyABOcdNQePMNrKprHoA0lho",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 621221,
+              "height": 720
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHS0BJ9nxn4LQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1689486700586?e=1752757200&v=beta&t=CkbFz6tPMIbOGXrVwR4L5b5_YZ4wcq4oa9aYzynCb0I",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 518294,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQHS0BJ9nxn4LQ",
+          "provider": "UGC",
+          "aspectRatio": 1,
+          "media": "urn:li:digitalmediaAsset:D4D05AQHS0BJ9nxn4LQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 973840,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHS0BJ9nxn4LQ/BAQN8-rwYI?e=1752757200&v=beta&t=mQAH-uDRoz2qmLT1ttkm6SfOBW4pECY3gS4Kve33qrY",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "6rsM27TJT6msZVkKJR96uQ=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7086221382937657344",
+      "url": "https://www.linkedin.com/posts/adir-duchan_openai-chatgpt-gpt-activity-7086221382937657344-cjEN?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "1yr",
+      "shareUrn": "urn:li:ugcPost:7086220109505077248",
+      "text": "המשבר בהייטק מחריף\n.\n.\n#openai #chatgpt #gpt #ai #softwareengineer #product #uxui",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 106,
+      "numLikes": 4268,
+      "numComments": 232,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "fTh6HTnnSD6a6FDr9wyZYA==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1689486833319,
+      "postedAtISO": "2023-07-16T05:53:53.319Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 5494,
+      "engagementBreakdown": {
+        "likes": 4268,
+        "comments": 232,
+        "shares": 106,
+        "totalEngagementScore": 5494
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 197566,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 360,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQFnlXtSliDUGw",
+                "fileIdentifyingUrlPathSegment": "low/B4DZfttn7HGsCI-/0/1752039942962?e=1752757200&v=beta&t=IUXy1cwyg9vIDa4hPDZ6-dI_sTgZafujSFipSLFVXfs",
+                "expiresAt": 1752757200000,
+                "height": 360
+              },
+              {
+                "width": 720,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQFnlXtSliDUGw",
+                "fileIdentifyingUrlPathSegment": "high/B4DZfttn7HGsCM-/0/1752039944972?e=1752757200&v=beta&t=aqniATXdFWjv6RurY5fV-ILVFGiPHna0bVtnikCzJp8",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFnlXtSliDUGw/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFnlXtSliDUGw/mp4-720p-30fp-crf28/B4DZfttn7HGsB0-/0/1752039956494?e=1752757200&v=beta&t=nNQgGWnFAaFIiaJN78qp6vRGdZGOb33QR6fnmps9U5U",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 467840,
+              "height": 720
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFnlXtSliDUGw/mp4-640p-30fp-crf28/B4DZfttn7HGsBw-/0/1752039959081?e=1752757200&v=beta&t=owJyyFJqa7bDC64S2bGiQfSAbdaTUb-2L8-IF-IIJRA",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 341333,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQFnlXtSliDUGw",
+          "provider": "UGC",
+          "aspectRatio": 1,
+          "media": "urn:li:digitalmediaAsset:D4D05AQFnlXtSliDUGw",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 758342,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFnlXtSliDUGw/BAgz0Ir7y59seP_NGj0?e=1752757200&v=beta&t=KXkMTTbFCB3788wWvimTL7CF3IgEcjBjqpwOQY3brRs",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 758342,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4D05AQFnlXtSliDUGw/BAgz0Ir7y59seP_NGj0?e=1752757200&v=beta&t=3kEV-KwpbQRbp1NMfNWZwgnQdquWCr3cyBMFsFbxQoI",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "1dihHJInwQNXf/v6f4mNRQ=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7348588231048757248",
+      "url": "https://www.linkedin.com/posts/adir-duchan_mcp-claude-agents-activity-7348588231048757248-hKTI?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "1d",
+      "shareUrn": "urn:li:ugcPost:7348587751962828800",
+      "text": "תשאל את הסוכן שלי #MCP #Claude #Agents #n8n",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 114,
+      "numLikes": 3797,
+      "numComments": 315,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "ZaJhcFoxRTqcuZ9JdNN0Gw==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1752039964449,
+      "postedAtISO": "2025-07-09T05:46:04.449Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 5312,
+      "engagementBreakdown": {
+        "likes": 3797,
+        "comments": 315,
+        "shares": 114,
+        "totalEngagementScore": 5312
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 58466,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 721,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQFBwgRsHuB3DQ",
+                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4E05AQFBwgRsHuB3DQ/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1714375067721?e=1752757200&v=beta&t=BvIWiG0acNEVNPcXZEtdRdvRXTqd-D-hmgE4rcE8k98",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": ""
+          },
+          "progressiveStreams": [
+            {
+              "width": 720,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFBwgRsHuB3DQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1714375103784?e=1752757200&v=beta&t=QxoqXylGcC8QLT_gkQrIYznTEM4LxxWXs9xgWlZtsZI",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 578418,
+              "height": 720
+            },
+            {
+              "width": 640,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFBwgRsHuB3DQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1714375102903?e=1752757200&v=beta&t=gQoopVYql__q91qWSsS8E12rivDYnkTxqJbBQNz3Vsk",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 424002,
+              "height": 640
+            }
+          ],
+          "transcripts": [
+            {
+              "captionFormat": "WEBVTT",
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "captionFile": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFBwgRsHuB3DQ/video-auto-caption-webvtt-acs-singleton/video-auto-caption-webvtt-acs-singleton/0/1714375110432?e=1752757200&v=beta&t=k1rKpn4Sm4n25YoWK1T7HAHM_xsGliDroEraMT9J6uI",
+              "isAutogenerated": true
+            },
+            {
+              "captionFormat": "SRT",
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "captionFile": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFBwgRsHuB3DQ/video-auto-caption-srt-acs-singleton/video-auto-caption-srt-acs-singleton/0/1714375110427?e=1752757200&v=beta&t=ngjbaGUvcVWVxtARdHDlWTBNqT6IG2aots_jPwhYSnc",
+              "isAutogenerated": true
+            }
+          ],
+          "entityUrn": "urn:li:digitalmediaAsset:D4E05AQFBwgRsHuB3DQ",
+          "provider": "UGC",
+          "aspectRatio": 1,
+          "media": "urn:li:digitalmediaAsset:D4E05AQFBwgRsHuB3DQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 558736,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4E05AQFBwgRsHuB3DQ/BAQViwuFfKk?e=1752757200&v=beta&t=9bhUSgtIwaEV1wDrXQ5dpT7H0RayztmFMnRUNnqDpVI",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "uVqfZ5Gh7AohWG7fwzT8mw=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7190610375472488449",
+      "url": "https://www.linkedin.com/posts/adir-duchan_standwithus-bringthemhomenow-activity-7190610375472488449-isjH?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "1yr",
+      "shareUrn": "urn:li:ugcPost:7190610173709758465",
+      "text": "A poet in London took the mic and made a call - to \"𝐧𝐨𝐫𝐦𝐚𝐥𝐢𝐳𝐞 𝐭𝐡𝐞 𝐦𝐚𝐬𝐬𝐚𝐜𝐫𝐞𝐬 𝐚𝐬 𝐭𝐡𝐞 𝐬𝐭𝐚𝐭𝐮𝐬 𝐪𝐮𝐨.\" And the crowd cheered him on. This is the accepted norm in Western society now.\n\nWhat was once fringe - vicious anti-Jewish and anti-Zionist hatred has gone mainstream. Blood libels like \"genocide\" and \"child murderers\" are spread as truth across US campuses. The the same age-old libels depicting Jews as blood-sucking vampires.\n\nThe Western world seems to have lost its moral compass, especially when Jews are the target. Everything is upside down - bad is good and good is bad.\n\nBut be not mistaken.\n\nThe Jewish people have endured far worse throughout history.\nAnd we will keep fighting for our justice and truth to be heard.\nGood will conquer this latest resurgence of the oldest bigotry against the Jewish people.\n\nWe will not be defeated by these forces of hatred.\n\nNot again. Never again.\n\nShare this. #standwithus #bringthemhomenow",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 397,
+      "numLikes": 1871,
+      "numComments": 171,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Adir",
+        "lastName": "Duchan (ההוא מהזה)",
+        "occupation": "Senior AI Engineer @ Elementor",
+        "id": "198203318",
+        "publicId": "adir-duchan",
+        "trackingId": "qko9PihHTfKqYzEbRqz6aA==",
+        "profileId": "ACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQEfOJ_W7vpBxA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735155438212?e=1757548800&v=beta&t=4j28fxMe03gL4mPfXGG84NUk-do9Wwd0NFkVCrwD09c"
+      },
+      "authorProfileId": "adir-duchan",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH0XlMXZESjOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722365105014?e=1757548800&v=beta&t=tSC8-LtxBURiRBAulqyUBazEivrQNaoDdyStd8-Oi-0",
+      "authorType": "Person",
+      "authorHeadline": "Senior AI Engineer @ Elementor",
+      "authorName": "Adir Duchan (ההוא מהזה)",
+      "authorProfileUrl": "https://www.linkedin.com/in/adir-duchan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvQV7YB_vImAOBMLaIXSERs9lCOT0SO_DI",
+      "authorUrn": "urn:li:member:198203318",
+      "postedAtTimestamp": 1714375108593,
+      "postedAtISO": "2024-04-29T07:18:28.593Z",
+      "inputUrl": "https://www.linkedin.com/in/adir-duchan/",
+      "engagementScore": 4369,
+      "engagementBreakdown": {
+        "likes": 1871,
+        "comments": 171,
+        "shares": 397,
+        "totalEngagementScore": 4369
+      }
+    }
+  ]
+}

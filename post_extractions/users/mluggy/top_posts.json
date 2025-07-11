@@ -1,0 +1,1146 @@
+{
+  "userId": "mluggy",
+  "authorName": "Michael Lugassy",
+  "totalPosts": 116,
+  "originalPosts": 109,
+  "repostsFiltered": 7,
+  "generatedAt": "2025-07-10T12:49:03.953Z",
+  "topPosts": [
+    {
+      "type": "image",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D5622AQHOYc2nbEGTWw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716486331357?e=1755129600&v=beta&t=EdUQfElwMP4d9sAukDlK2j5aADagVxAe-UZpwEeQ-R8"
+      ],
+      "isRepost": false,
+      "urn": "urn:li:activity:7199465491743084544",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%90%D7%9D-%D7%90%D7%AA%D7%9D-%D7%9E%D7%97%D7%A4%D7%A9%D7%99%D7%9D-%D7%A2%D7%91%D7%95%D7%93%D7%94-%D7%9B%D7%9E%D7%95%D7%A0%D7%99-%D7%95%D7%97%D7%A9%D7%95%D7%91-%D7%9C%D7%9B%D7%9D-%D7%9C%D7%A2%D7%91%D7%95%D7%93-activity-7199465491743084544-CNZX?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "1yr",
+      "shareUrn": "urn:li:share:7199465491021651969",
+      "text": "אם אתם מחפשים עבודה (כמוני) וחשוב לכם לעבוד מאוד קרוב לבית (לא כמוני), יצרתי מפה אינטראקטיבית לחיפוש עבודה ברמת הרחוב: https://lnkd.in/gipaghvt\n\nמשתמש בדאטה ציבורי מרשם החברות, BingAPI לאתרים, OpenAI לתיאורים, OpenStreetMap למיקומים, Sharp לתמונות ו-GeoJSON למיפוי.\n\nעד כה מיקמתי 4,775 חברות טק ישראליות/בינלאומיות (!) אם מצאתם טעות או שהחברה שלכם חסרה, ניתן לעדכן אותה בקוד-פתוח (גיטהאב): https://lnkd.in/ege_NChW\n\nבהצלחה למחפשים!",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 78,
+      "numLikes": 2932,
+      "numComments": 248,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "HePx/28KRVqmi3jyxwQokg==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1716486332832,
+      "postedAtISO": "2024-05-23T17:45:32.832Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 4066,
+      "engagementBreakdown": {
+        "likes": 2932,
+        "comments": 248,
+        "shares": 78,
+        "totalEngagementScore": 4066
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 11700,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 792,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQFHJD0bCZXlFA",
+                "fileIdentifyingUrlPathSegment": "high/videocover-high/0/1723402107706?e=1752757200&v=beta&t=PPhrb4jPNsJW-HfSo2EaD-LWpK6_VFlLD6QnMPC2nX8",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 396,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQFHJD0bCZXlFA",
+                "fileIdentifyingUrlPathSegment": "low/videocover-low/0/1723402107768?e=1752757200&v=beta&t=2Mcn6_7Bk-FYqsbOPW0oxPaOM_ssrtp5U2-_A7i67OM",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFHJD0bCZXlFA/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 792,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFHJD0bCZXlFA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1723402116593?e=1752757200&v=beta&t=fH9mCkGjTGXaJ9dMrBerqz6dQ2xX25NplZ77Q5KRe4A",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 412424,
+              "height": 720
+            },
+            {
+              "width": 704,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFHJD0bCZXlFA/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1723402116220?e=1752757200&v=beta&t=83wC1QqPT6sGMT5BiCmUi5Sk5-c6zDlEXdDcGz4048Q",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 312795,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4E05AQFHJD0bCZXlFA",
+          "provider": "UGC",
+          "aspectRatio": 1.1,
+          "media": "urn:li:digitalmediaAsset:D4E05AQFHJD0bCZXlFA",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 293656,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4E05AQFHJD0bCZXlFA/BAQsUPujDzf?e=1752757200&v=beta&t=Zsbx4X5dPBXj_NH-wbcmZ9KCR07eOf8-eV1HaVdqh_k",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "AVyAtEXQK95KfO2ELRa3Gg=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7228472420918054913",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%91%D7%92%D7%99%D7%A8%D7%A1%D7%94-2-%D7%A9%D7%9C-%D7%9E%D7%A4%D7%AA-%D7%94%D7%98%D7%A7-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A0%D7%99%D7%A1%D7%99%D7%AA%D7%99-%D7%9C%D7%94%D7%91%D7%99%D7%9F-%D7%9E%D7%99-activity-7228472420918054913-Rocu?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "10mo",
+      "shareUrn": "urn:li:ugcPost:7228472313304797184",
+      "text": "בגירסה 2 של מפת הטק בישראל ניסיתי להבין מי באמת מגייס.\n\nיצרתי זחלנים ייעודיים ל-4 מערכות ATS מובילות (breezy, greenhouse, comeet ו-lever) וזחלן נוסף לטאב המשרות של 5,000 חברות בלינקדאין.\n\nלמה ATS? כי זה הכלי החשוב בארגון לניהול משרות. הוא זה ששולח לכם את המיילים המעצבנים וקובע פגישות.\nלמה לינקדאין? כי חברות משלמות להופיע שם.\n\nמשרה שלא נמצאת באחד מהם, לדעתי, לא באמת קיימת או שלא ממהרים לאייש אותה.\n\nהתוצאה היא כ-10,000 משרות כולל תיאור מהחצי שנה האחרונה, ו-5,000 משרות מהחודש האחרון, אותן סיווגתי חצי-אוטומטית ל-20 תפקידים מרכזיים בטק (מפיתוח תוכנה/חומרה, דרך ניהול ועד ל-HR ו-Legal).\n\nהסיווג לקח שעות. 1,500 תיאורי משרה הופיעו רק פעם אחת, אפילו OpenAI התבלבל והתייאש. מה הרעיון של חברות להמציא תפקידים?\n\nמה שיצא בסוף זה מפה נוספת לכל תפקיד, שמציגה את כל החברות שמגייסות ולינק לעמוד משרה: https://maphub.net/mluggy\n\nאני עובד על אוטומציה, ומתכנן שהמפות כולן יעודכנו אחת לשבוע (כנראה חמישי).\n\nלבינתיים, אם החברה שלך חסרה או לא מעודכנת, אפשר לשלוח שינויים בגיטהאב והם יחולו על כל המפות: https://lnkd.in/ege_NChW\n\nבהצלחה למחפשים ❤️",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 42,
+      "numLikes": 1828,
+      "numComments": 266,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "E//T3XtET7eVYzn8ZGZzaQ==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1723402123670,
+      "postedAtISO": "2024-08-11T18:48:43.670Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 2836,
+      "engagementBreakdown": {
+        "likes": 1828,
+        "comments": 266,
+        "shares": 42,
+        "totalEngagementScore": 2836
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 17466,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQGlsk8qvT3N0A",
+                "fileIdentifyingUrlPathSegment": "high/videocover-high/0/1724585202337?e=1752757200&v=beta&t=XSqobv5Gy2390gkyhHETqFkR7XkvFgDRkkSWmvRXDp8",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQGlsk8qvT3N0A",
+                "fileIdentifyingUrlPathSegment": "low/videocover-low/0/1724585202257?e=1752757200&v=beta&t=clYkEnDlE1QvKAMlx-GrBPVfww0k-3qkNYy2N_vJQw8",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E05AQGlsk8qvT3N0A/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGlsk8qvT3N0A/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1724585208614?e=1752757200&v=beta&t=APxxhBzP0F9onDHUJT5tL0v0wMfmfOO3Nts5EeO9-_c",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 1173431,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGlsk8qvT3N0A/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1724585210378?e=1752757200&v=beta&t=xYL7dkF3zKAo5kBvfCm6qidufjp8lg0zsY2fA-xBtOM",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 948825,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4E05AQGlsk8qvT3N0A",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4E05AQGlsk8qvT3N0A",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 4867340,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4E05AQGlsk8qvT3N0A/BAQ0erojUuc?e=1752757200&v=beta&t=8CxJgA29SGUfUQb18ft5zAS_iivVG7bfsNSa8WU_jew",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "cWT6c3l5znZOb8IqkEKTsA=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7233434763586342912",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%91%D7%92%D7%99%D7%A8%D7%A1%D7%94-3-%D7%A9%D7%9C-%D7%9E%D7%A4%D7%AA-%D7%94%D7%98%D7%A7-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%94%D7%95%D7%A1%D7%A4%D7%AA%D7%99-%D7%90%D7%AA-%D7%9B%D7%9C-%D7%94%D7%A4%D7%99%D7%93%D7%91%D7%A7%D7%99%D7%9D-activity-7233434763586342912-ZBEL?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "10mo",
+      "shareUrn": "urn:li:ugcPost:7233434570279251968",
+      "text": "בגירסה 3 של מפת הטק בישראל הוספתי את כל הפידבקים שלכם (כמעט):\n\n1. אפשרות להוריד את כל המשרות בקבצי CSV דרך גיטהאב!\n2. פילטור לפי דרג/תת-תפקיד (סטודנט, ארכיטקט, מנהל, בכירים)\n3. הצגת תאריך עדכון לכל משרה ומחיקה אם היא ישנה מחודש\n4. סימון גוון לפי עדכניות המשרות (כחול כהה לחדשות, בהיר-לבן לישנות)\n5. חברה עם כמה משרדים תציג את המשרה במיקום הנכון (מקווה)\n6. סיווג ענפי מוצלח בהרבה הודות למילון חדש ומערכת scoring\n7. אוטומציה ל-80% מהפרוייקט\n\nמצאתם עבודה בזכות המפה? ספרו/קנו לי שווארמה!\nעובדים כבר? בדקו אם החברה שלכם מעודכנת\n\nמפת הטק המלאה: https://lnkd.in/gipaghvt\nמפות משרות לפי ענף: https://maphub.net/mluggy\nפרוייקט גיטאהב: https://lnkd.in/ege_NChW\n\nבהצלחה למחפשים 💙",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 31,
+      "numLikes": 1094,
+      "numComments": 102,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "E//T3XtET7eVYzn8ZGZzaQ==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1724585238358,
+      "postedAtISO": "2024-08-25T11:27:18.358Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 1555,
+      "engagementBreakdown": {
+        "likes": 1094,
+        "comments": 102,
+        "shares": 31,
+        "totalEngagementScore": 1555
+      }
+    },
+    {
+      "type": "text",
+      "isRepost": false,
+      "urn": "urn:li:activity:7306096974301155328",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%A2%D7%AA%D7%99%D7%93%D7%95%D7%AA-wix-%D7%AA%D7%A8%D7%9B%D7%95%D7%A9-%D7%90%D7%AA-base44-%D7%A9%D7%9C-maor-shlomo-activity-7306096974301155328-krlo?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "3mo",
+      "shareUrn": "urn:li:share:7306096973244231682",
+      "text": "עתידות: Wix תרכוש את Base44 של Maor Shlomo מה שיהפוך את מאור לעשיר מאוד ואת המוצר של וויקס למוצלח במיוחד.\n\nאני לא יודע כמה זמן לקח למאור לפתח את זה, אבל זה מסוג הפרוייקטים שבוצעו ע״י מישהו ש-lived it through, לא רק את genAI, שאותו אנחנו לומדים יחד כולם, אלא את האינטרנט.\n\nיש בו הכל. cta מעולה בדף הבית וחווית freemium שהיא וואו. עקביות, וניקיון ב-UI. עורך side-by-side עם instant preview בדסקטופ ומובייל. המלצות פרומפט אוטומטיות, בילינג ומד שימוש, אפשרות להוריד את הפרוייקט או לערוך קבצים, גישה לדאטהבייס וטבלאות שנוצרו, אנליטיקס, ניהול משתמשים ופיבלוש לעולם עם או בלי דומיין משלך.\n\nהכל עובד כל כך טוב כי base44 הוא BAAS - בקאנד כשירות שבו התשתית והשירותים הוחלטו עבורך. דאטהבייס, סרבר ואוטנטיקציה שמוחבאים ממך כך שתתרכז בעיקר בפרונט. והפרונט - ריאקט/JSX שאמנם נכתב לא רע בכל פרומפט, אבל העיצוב שלו - Tailwind פשטני ויותר מורכב לקיסטום.\n\nאבל משהו אחר בולט ב-base44, וזו הדרך שהוא יוצק תוכן/AI לאתר שנוצר ב-AI. בעוד כלים אחרים מוסרים לכם דף סטטי שמציג חומר סטטי, בייס משאיר אותו דינמי. אפשר לנהל את הדפים עם טבלאות ב-backoffice והם פתוחים להשתמש ב-AI בעצמם כדי להשיג עוד תוכן. הדפים בבייס אינם אתרים, אלא אפליקציות, וזה הבדל משמעותי.\n\nאז למה וויקס?\n1- כי וויקס בנוי לעולם הישן וכמו המון מוצרים, ניסו לשים לו ליפסטיק של AI במקום לחשוב מחדש\n2- מעבר למוצר שהוא ברובו client יותר משהוא server\n3- לוויקס מאגר templates, icons ותמונות שיעבדו מעולה\n4- עלות הפרומפטים תלך ותגדל ומישהו צריך לממן את זה\n5- וויקס מעולים בהפצה וב-upsell, בעוד כלים כמו בייס באים והולכים\n\nבהצלחה ❤️",
+      "attributes": [
+        {
+          "start": 8,
+          "length": 3,
+          "type": "COMPANY_NAME",
+          "company": {
+            "name": "Wix",
+            "universalName": "wix-com",
+            "trackingId": "SD6TEsh1S12tBvicAAxxKg==",
+            "active": true,
+            "showcase": false,
+            "entityUrn": "urn:li:fs_miniCompany:97250",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQExWRTQnb6XSA/company-logo_400_400/B4DZfE4XuuG8AY-/0/1751354801489/wix_com_logo?e=1757548800&v=beta&t=hUGhqQhrG4RfxNfnk4xVVJbK7lBA3Aix9oe2JxDy_5w"
+          }
+        },
+        {
+          "start": 21,
+          "length": 6,
+          "type": "COMPANY_NAME",
+          "company": {
+            "name": "Base44",
+            "universalName": "base44",
+            "trackingId": "9FiszJWxRhO+uLFgHvAtJA==",
+            "active": true,
+            "showcase": false,
+            "entityUrn": "urn:li:fs_miniCompany:106589953",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFp3f2V8mFODA/company-logo_100_100/B4EZfQ2UzbHgAE-/0/1751555591674/base44_logo?e=1757548800&v=beta&t=ab_GlxGwJOm2VgGxb4nbd1afmlQy0FW0zQuQG4_CFUE"
+          }
+        },
+        {
+          "start": 31,
+          "length": 11,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Maor",
+            "lastName": "Shlomo",
+            "occupation": "Founder at Base44 | Prev: CEO and Co-Founder at Explorium | Forbes 30 under 30",
+            "id": "587478680",
+            "publicId": "maor-shlomo-1088b4144",
+            "trackingId": "DFaecK6qReWwVQcQZWWjLQ==",
+            "profileId": "ACoAACMENpgBGwUGplVJjYeSf-PwJsDkOG-pocY",
+            "picture": "https://media.licdn.com/dms/image/v2/D4D03AQEWt2Q5YchlJQ/profile-displayphoto-shrink_100_100/B4DZUUtnR8HAAU-/0/1739809257026?e=1757548800&v=beta&t=5AjwbgnGlUJr5KN_oPyudWlMqflMWUIlbTkf13-U6Ic",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF0Hb5BFBriAA/profile-displaybackgroundimage-shrink_350_1400/B4DZXCVZX9HIAY-/0/1742722145013?e=1757548800&v=beta&t=UOyx5FVip5kV4aKZPwBBEPXneoRTgodog2bobSDIGh4"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 5,
+      "numLikes": 711,
+      "numComments": 102,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "ypty23sUQMmZvz/zMaS2Ag==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1741909259391,
+      "postedAtISO": "2025-03-13T23:40:59.391Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 1042,
+      "engagementBreakdown": {
+        "likes": 711,
+        "comments": 102,
+        "shares": 5,
+        "totalEngagementScore": 1042
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 13400,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQHF_DNHklMmDQ",
+                "fileIdentifyingUrlPathSegment": "high/B4EZSd2EC_GwBs-/0/1737814992574?e=1752757200&v=beta&t=HB4hwO5MX0oMWaB2En59zMzXDHs-6mLvgUc2TcnTqyg",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQHF_DNHklMmDQ",
+                "fileIdentifyingUrlPathSegment": "low/B4EZSd2EC_GwCM-/0/1737814992612?e=1752757200&v=beta&t=rV0w8Y5tg7_ZlRIdD1z5bhehpbDwKeiQj3yB9aLkCf0",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHF_DNHklMmDQ/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHF_DNHklMmDQ/mp4-720p-30fp-crf28/B4EZSd2EC_GwBg-/0/1737814994764?e=1752757200&v=beta&t=rB384iXzEnAXe571Yuz3shbB6UBQqjKEtat7fueV_ms",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 1027643,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHF_DNHklMmDQ/mp4-640p-30fp-crf28/B4EZSd2EC_GwBc-/0/1737814994089?e=1752757200&v=beta&t=DXauK7WOGohq-G6uep75rZ52ztfwR197GH3B8tQGLH4",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 818185,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4E05AQHF_DNHklMmDQ",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4E05AQHF_DNHklMmDQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 559140,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4E05AQHF_DNHklMmDQ/BAQy0b77F8?e=1752757200&v=beta&t=cd4nRm4FrQi5QlVhFfJ7n7BGEsSE9loqD9BZUQXdbnU",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 559140,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4E05AQHF_DNHklMmDQ/BAQy0b77F8?e=1752757200&v=beta&t=EujAeeOuvsPKGCX8eEq5LjxTJ5gvBTydLPMd2t3-McI",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "t82VD81XWEwY7yWCFg7Z8w=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7288924393945071616",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%A0%D7%99%D7%A1%D7%99%D7%AA%D7%99-%D7%9C%D7%91%D7%93%D7%95%D7%A7-%D7%90%D7%99%D7%96%D7%94-%D7%9E%D7%95%D7%93%D7%9C-%D7%A9%D7%A4%D7%94-%D7%92%D7%93%D7%95%D7%9C-%D7%94%D7%9B%D7%99-%D7%98%D7%95%D7%91-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA-activity-7288924393945071616-qHk-?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "5mo",
+      "shareUrn": "urn:li:ugcPost:7288924335321329664",
+      "text": "ניסיתי לבדוק איזה מודל שפה גדול הכי טוב בעברית. סרקתי 58 מדורים של \"20 שאלות\" שפורסמו בעיתון הארץ בין ה-3 לנובמבר 2023 עד 24 לינואר 2025. הרצתי אותם על 8 מודלים פופולריים. כל מודל התבקש לענות על כל 1,160 השאלות, ללא הגבלת זמן, עם הגבלת אורך של עד 2 משפטים. מודל נוסף נתן ציון של 0, 0.5 או נקודה שלמה אל מול התשובה המקורית. התוצאות לפניכם.\n\nכל התהליך עלה $50 ולקח 6 שעות לפתח, שעתיים להריץ ושעה לנתח.\n\nאם אתם בונים סייען אישי, כדאי לקחת בחשבון:\n\nעלויות: מ-0.01 ועד $15 למיליון קלטים ו-0.3 עד $60 למיליון פלטים. מיליון בעברית זה בערך 700,000 מילים או 3,000 דפים משורבטים.\nזמני תגובה: המודלים ״החושבים״ יכולים לקחת 10-15 שניות עד לפלט הראשון.\n\nניתן להפחית עלויות בחצי ע״י batching (אם כי התשובה תיקח גם כמה דקות).\nניתן להפחית עלויות ב-90% עם caching (התשובה תחזור מיד אך רק לקלטים שהמודל כבר ראה בעבר).\n\nומהן השאלות שאף מודל לא הצליח לענות עליהן? בתגובות.\n\nארכיון השאלות באדיבות קבוצת הפייסבוק: https://lnkd.in/e9ethypE",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 3,
+      "numLikes": 656,
+      "numComments": 60,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "ypty23sUQMmZvz/zMaS2Ag==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1737814997183,
+      "postedAtISO": "2025-01-25T14:23:17.183Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 851,
+      "engagementBreakdown": {
+        "likes": 656,
+        "comments": 60,
+        "shares": 3,
+        "totalEngagementScore": 851
+      }
+    },
+    {
+      "type": "image",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D4E22AQH4WFWX-9KhAw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719182386813?e=1755129600&v=beta&t=ofJNig-pr4n9n9ch5sYeJIupKptSTyfUgg0dTXyQHO8"
+      ],
+      "isRepost": false,
+      "urn": "urn:li:activity:7205999873744089088",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%A2%D7%99%D7%91%D7%93%D7%AA%D7%99-%D7%9B%D7%9E%D7%94-%D7%90%D7%9C%D7%A4%D7%99-%D7%9E%D7%A9%D7%9B%D7%95%D7%A8%D7%95%D7%AA-%D7%98%D7%A7-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A9%D7%9E%D7%A6%D7%90%D7%AA%D7%99-activity-7205999873744089088-IOhY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "1yr",
+      "shareUrn": "urn:li:share:7205999872884228097",
+      "text": "עיבדתי כמה אלפי משכורות טק בישראל שמצאתי ברשת לכדי 4 מודלים, גם כדי לדעת כמה לבקש וגם להבין את המשקלים העיקריים להבדלי שכר.\n\nסטאק טכנולוגי: nodejs לזחלנים, ניקוי וקיבוץ הדאטה, bigml לבניה ואופיטמיזציה של המודלים, pmml לניוד שלהם ו-javascript לחיזוי.\n\nhttps://lnkd.in/e-q_fYdd",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 4,
+      "numLikes": 492,
+      "numComments": 102,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "HePx/28KRVqmi3jyxwQokg==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1718044250904,
+      "postedAtISO": "2024-06-10T18:30:50.904Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 818,
+      "engagementBreakdown": {
+        "likes": 492,
+        "comments": 102,
+        "shares": 4,
+        "totalEngagementScore": 818
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 25300,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 1328,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQE5cC9JBl0qmw",
+                "fileIdentifyingUrlPathSegment": "high/videocover-high/0/1728217837630?e=1752757200&v=beta&t=JKPo5SiPDl2CLKS9DD0HqkPqFPC9pRTzQnSmv90ZENY",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 664,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQE5cC9JBl0qmw",
+                "fileIdentifyingUrlPathSegment": "low/videocover-low/0/1728217837698?e=1752757200&v=beta&t=gWmFsJjbJ1eX7fWhzf9zCaHBHCXGAkGJ8UHt5SQYUdU",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E05AQE5cC9JBl0qmw/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1330,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE5cC9JBl0qmw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1728217848078?e=1752757200&v=beta&t=NGzkDqK0kcxN3Az6AlPcKY9anL6kfuNLE6L57yPK7ms",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 930688,
+              "height": 720
+            },
+            {
+              "width": 1182,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE5cC9JBl0qmw/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1728217847307?e=1752757200&v=beta&t=jvHL0OJ7walK3Y_wK138G8CY8WW9UGI1Ob2ubiuzAyE",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 738063,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4E05AQE5cC9JBl0qmw",
+          "provider": "UGC",
+          "aspectRatio": 1.8461539,
+          "media": "urn:li:digitalmediaAsset:D4E05AQE5cC9JBl0qmw",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 2530205,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4E05AQE5cC9JBl0qmw/BAQxviQpH3r?e=1752757200&v=beta&t=1oaf9mQFXzGHwe_nDvHdueJoiDJDqI_qilaatiHDyWU",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "G9eZ/1d5ig1lS0UWgLaHaA=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7248671116574044160",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%94%D7%AA%D7%97%D7%9C%D7%AA%D7%99-%D7%9C%D7%A6%D7%A8%D7%95%D7%9A-%D7%90%D7%AA-%D7%94%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%A9%D7%9C%D7%99-%D7%91%D7%95%D7%95%D7%A1%D7%98%D7%90%D7%A4-%D7%A2%D7%9D-%D7%A1%D7%A7%D7%A8%D7%99%D7%A4%D7%98-activity-7248671116574044160-AzZa?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "9mo",
+      "shareUrn": "urn:li:ugcPost:7248670935786909696",
+      "text": "התחלתי לצרוך את החדשות שלי בווסטאפ, עם סקריפט שרץ כל יום, שואב ומתקצר כתבות לפי נושאים.\n\nלא הסתפקתי רק בכותרות, רציתי טקסט מלא כדי להוציא מכל כתבה תובנות אוטומטית.\n\nידעתי שיהיה מייאש לקרוא הכל, אז יצרתי פרק פודקאסט יומי, בעברית, שאפשר להקשיב לו באוטו.\n\nאתגר 1 היה לסנן כתבות שהן אשכרה רלוונטיות. חיפוש לפי מילות מפתח בכותרת לא נותן מספיק כיסוי וחיפוש בגוף הכתבה מחזיר המון דברים לא קשורים. הפיתרון: חיפוש עמוק עם השוואת וקטורים של כל כתבה מול הווקטורים של כמה ערכי ויקיפדיה שסימנתי כקשורים לערוץ.\n\nאתגר 2 היה לסנן כתבות דומות ממקורות שונים שכבר השמעתי. גם כאן, השוואה וקטורית של הכותרות הצליחה להעיף כפילויות.\n\nאתגר 3 היה למצוא פרומפט ומודל שיכול להפוך כמות גדולה של טקסט לפודקאסט. NotebookLM עושה את זה מצויין אבל בלי עברית ובלי API, אז נעזרתי בתיאור משימה מכאן https://lnkd.in/eV-qfeKH וגוגל gemini.\n\nאתגר 4 היה לעבד מקטעי פלט שונים שנוצרו מאותו הפרומפט (דיאלוג, שאלות, תובנות ותקציר פרק). ביקשתי מהמודל לענות בסכמת JSON מורכבת והוא דבק בה מעולה.\n\nמכאן זה זרם - הפיכת טקסט לקובץ mp3 באמצעות OpenAI, הוספת אינטרו, שם מצחיק למנחים ושליחה של הפרק לקבוצה של העבודה, שם ניתן להגיב ובקרוב לשאול ו״לדבר עם החדשות״.\n\nלא רציתי לפספס סיפורים, אז הרצתי את הסקריפט חודש אחורה ויש לי עכשיו עשרות פרקים לפקקים.\n\nאם בא לכם להתרשם, יש כבר שני פודקאסטים אוטומטים לחלוטין:\n\nבאנגלית, ספוטיפיי: https://lnkd.in/e9hDMZq2 ואפל: https://lnkd.in/ecPcKFjH\n\nבעברית, ספוטיפיי: https://lnkd.in/eXi7PpRC ואפל: https://lnkd.in/eE4WwJ3U",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 5,
+      "numLikes": 492,
+      "numComments": 67,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "KA7tllhhQn6FVYC4Lakcvw==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1728217867988,
+      "postedAtISO": "2024-10-06T12:31:07.988Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 718,
+      "engagementBreakdown": {
+        "likes": 492,
+        "comments": 67,
+        "shares": 5,
+        "totalEngagementScore": 718
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 23166,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQG15Vhzpr8C_A",
+                "fileIdentifyingUrlPathSegment": "low/B4EZQJEKoSHACU-/0/1735318882129?e=1752757200&v=beta&t=zepAtDfHqce2ZGJWnJhgM60Wi8ILt8nMzuOnAvrmTH4",
+                "expiresAt": 1752757200000,
+                "height": 360
+              },
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQG15Vhzpr8C_A",
+                "fileIdentifyingUrlPathSegment": "high/B4EZQJEKoSHABw-/0/1735318882166?e=1752757200&v=beta&t=JOsWK47cqsLbs8uJaQUCM11uwIRnaY_vxT7h2tlu0sQ",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E05AQG15Vhzpr8C_A/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG15Vhzpr8C_A/mp4-720p-30fp-crf28/B4EZQJEKoSHABk-/0/1735318883571?e=1752757200&v=beta&t=qBwdgqjivqCou6nc2yt0KW60yyui2Vzx5AtSZbcTfUk",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 465612,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG15Vhzpr8C_A/mp4-640p-30fp-crf28/B4EZQJEKoSHABg-/0/1735318883092?e=1752757200&v=beta&t=FmMkLTg-rWAOxipcgEW8Ra7WDoHD_nSBQ9We62qLB5M",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 363429,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4E05AQG15Vhzpr8C_A",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4E05AQG15Vhzpr8C_A",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 383004,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4E05AQG15Vhzpr8C_A/BAQQ-jvCXQ?e=1752757200&v=beta&t=PyR0E_N-bKxkcS0inVzPZ8y6lWZyvSVqR2IaN101j9I",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 383004,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4E05AQG15Vhzpr8C_A/BAQQ-jvCXQ?e=1752757200&v=beta&t=ey6zlCTjtmexYtOL8JmF6nGxQMWyZfdeh78ZMpqIT-A",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "ABkl9fSiDPHdecd8znb2WQ=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7278454978216620032",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%9B%D7%95%D7%9C%D7%9D-%D7%99%D7%95%D7%93%D7%A2%D7%99%D7%9D-%D7%90%D7%AA-%D7%94%D7%91%D7%A8%D7%95%D7%98%D7%95-%D7%95%D7%94%D7%A0%D7%98%D7%95-%D7%A9%D7%9C%D7%94%D7%9D-%D7%90%D7%91%D7%9C-%D7%9E%D7%94-activity-7278454978216620032-SwdA?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "6mo",
+      "shareUrn": "urn:li:ugcPost:7278454898893942784",
+      "text": "כולם יודעים את הברוטו והנטו שלהם, אבל מה עם הטרה? פיתחתי מחשבון שכר שמראה כמה מהברוטו חזר אליך או לשארים במקרה פרישה, נכות או מוות.\n\nניתן לראות בקלות איך התעקשות על הפקדות מעל התקרה ושברי אחוזים בדמי ניהול משפיעים מאוד על החסכון בפרישה.\n\nאחרי שנים כעצמאי/בעל שליטה שנותן לרו״ח לטפל בהכל, הופתעתי מרמת הסיבוך שנכנסת לכל שנה כשאתה עובד, פורש ואפילו נפטר.\n\nהמשימה כולה מתוארת במסמך הזה: https://lnkd.in/er_j8rQw\n\nניסיתי בשלב מסוים לתת אותה במלואה ל-AI והוא נחנק או נתן חישובים לא עדכניים. הוא כן עזר ב-UI והתאמה למובייל.\n\nהתוצאה היא גירסה ראשונה שמותאמת למדרגות טרום עידן הגזרות, רצה בדפדפן בלבד, לא שולחת שום נתון לשרת מלבד צפיות (אפשר לראות את קוד המקור שכולו ב-JavaScript).\n\nhttps://lnkd.in/e_c5mYtT\n\nכמה תובנות:\n\n3 ילדים יכולים לחסוך מס של רבע מיליון ש״ח עד הפרישה + 134 אלף ש״ח בקצבאות\nהיישוב הכי מזכה בארץ יחסוך לך מס של 51,816 ש״ח בשנה\nאם תישאר בחברה אחת 10 שנים דמי ההבראה יוכפלו ל-4,180 ש״ח בשנה\nנשים מקבלות 8% פחות פנסיה לחודש, אבל יותר סה״כ כי הן חיות מלא\nחושב שיורד לך המון כשכיר? חכה שתשמע כמה המעסיק שלך מפריש",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 6,
+      "numLikes": 434,
+      "numComments": 52,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "txAQ9+TPQBqOyC1W5dQN5Q==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1735318893961,
+      "postedAtISO": "2024-12-27T17:01:33.961Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 620,
+      "engagementBreakdown": {
+        "likes": 434,
+        "comments": 52,
+        "shares": 6,
+        "totalEngagementScore": 620
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 39000,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 574,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQElUMr5Ly9HnQ",
+                "fileIdentifyingUrlPathSegment": "low/B4EZQt78qhGYCQ-/0/1735937482664?e=1752757200&v=beta&t=rElohKOTjQ73U_pG7cJlh-mnjZxVk5MCWScX6FiyepI",
+                "expiresAt": 1752757200000,
+                "height": 360
+              },
+              {
+                "width": 1148,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4E05AQElUMr5Ly9HnQ",
+                "fileIdentifyingUrlPathSegment": "high/B4EZQt78qhGYBs-/0/1735937482687?e=1752757200&v=beta&t=ncM0ANsjUfOeO4LThdcgfFbUolX9rqm7LYEdrHW_uPk",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E05AQElUMr5Ly9HnQ/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1150,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQElUMr5Ly9HnQ/mp4-720p-30fp-crf28/B4EZQt78qhGYBg-/0/1735937484764?e=1752757200&v=beta&t=eXm1bAWq_LdFXV3DL2MpMUJyOjnEPKdOiyW6GFiHGQs",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 365512,
+              "height": 720
+            },
+            {
+              "width": 1022,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQElUMr5Ly9HnQ/mp4-640p-30fp-crf28/B4EZQt78qhGYBc-/0/1735937485094?e=1752757200&v=beta&t=NxpoyR9ng1ovVZUhz74UIOzFSa_K0NmvbDW8oV2Kmk4",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 292908,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4E05AQElUMr5Ly9HnQ",
+          "provider": "UGC",
+          "aspectRatio": 1.5970149,
+          "media": "urn:li:digitalmediaAsset:D4E05AQElUMr5Ly9HnQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 304354,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4E05AQElUMr5Ly9HnQ/BAg5-JIYHeEAM5TWA?e=1752757200&v=beta&t=3CK14OlkhofKQC0cL6B6gM45xLXzvTHD0wTP8t0P8EY",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 304354,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4E05AQElUMr5Ly9HnQ/BAg5-JIYHeEAM5TWA?e=1752757200&v=beta&t=JJgO04MqEDDCJe_exEHRzCUsIf-HxFsbVR1ZbxjTqk4",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "1a+W+NWUxpmDXPYuxV6MHA=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7281049575891644418",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%94-captcha-%D7%9E%D7%AA-%D7%95%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%9E%D7%93%D7%A8%D7%9A-%D7%90%D7%97%D7%AA-%D7%90%D7%9D-%D7%94%D7%93%D7%90%D7%98%D7%94-%D7%A9%D7%9C%D7%9A-activity-7281049575891644418-0ucs?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "6mo",
+      "shareUrn": "urn:li:ugcPost:7281049506710708225",
+      "text": "ה-captcha מת, וביותר מדרך אחת. אם הדאטה שלך מעניין מספיק, מישהו ישלם מספיק או יתאמץ מספיק כדי לעבור אותו.\n\nהדרך הקלה ביותר היא פשוט לא לקבל captcha. להשתמש בשירות שמגריל לך כתובות ip ביתיות, מתחלפות, ולהתחפש לדפדפן רגיל ככל האפשר.\n\nדרך נוספת היא פשוט לתת את ה-captcha למישהו אחר. סדנאות יזע בעולם שלישי מוכנות לקבל ב-api או בתוסף את ה-challenge שלך ויפתרו אותו בשניות תמורת 1-5$ ל-1,000 פיצוחים.\n\nוהכי כיף, לתת ל-AI לפתור captcha בראייה ממוחשבת.\n\nלקחתי את yad2 (אתר קשוח, ובצדק) שמשתמש ב-hCaptcha (חידון קשוח, רב-שלבי שמג׳נרט בעצמו תמונות ב-AI).\n\nהגעתי ל-75% פיצוח (בעצם 100%, כי הוא נותן עוד ועוד הזדמנויות) בעלות של $0.002763 לאתגר.\n\nאני לא מעודד את השימוש ולא מתכוון לחלוק את הקוד, אבל כן ממליץ לכל אתר שעדיין מוטרד מ-scraping לשקול:\n\n1. הסתרה של כל תוכן מעניין תחת משתמש וסיסמא (לינקדאין וטוויטר עושים את זה)\n2. חיזוק מנגנוני ההגנה, בעיקר מאפיינים ביומטרים והתנהגותיים\n3. פתיחת API מוגבל בחינם או רחב במחיר סביר\n4. פתיחת האתר לכולם ובחינם, תוך השקעה ב-caching ואכיפת רישיון שימוש",
+      "attributes": [
+        {
+          "start": 456,
+          "length": 4,
+          "type": "COMPANY_NAME",
+          "company": {
+            "name": "yad2",
+            "universalName": "yad2",
+            "trackingId": "VXtrP4crTRmWH1DFnMD2eQ==",
+            "active": true,
+            "showcase": false,
+            "entityUrn": "urn:li:fs_miniCompany:1138085",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGFXNO0qtF4rw/company-logo_200_200/company-logo_200_200/0/1705239871714/yad2_logo?e=1757548800&v=beta&t=pv_VJVUIdX7K-DAifnvocgbjZo8c_QBiy2crA3fSCE4"
+          }
+        },
+        {
+          "start": 488,
+          "length": 8,
+          "type": "COMPANY_NAME",
+          "company": {
+            "name": "hCaptcha",
+            "universalName": "hcaptcha",
+            "trackingId": "BEnZsxHUTvO97RowmnzP6Q==",
+            "active": true,
+            "showcase": false,
+            "entityUrn": "urn:li:fs_miniCompany:18870788",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEMaOY4MTyCuQ/company-logo_200_200/company-logo_200_200/0/1630591525357/hcaptcha_logo?e=1757548800&v=beta&t=3_ipehL_Ekoyfk2OBuUdZbya_1gK1DasmWlgi3xb9xA"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 3,
+      "numLikes": 441,
+      "numComments": 35,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "txAQ9+TPQBqOyC1W5dQN5Q==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1735937494252,
+      "postedAtISO": "2025-01-03T20:51:34.252Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 561,
+      "engagementBreakdown": {
+        "likes": 441,
+        "comments": 35,
+        "shares": 3,
+        "totalEngagementScore": 561
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 20700,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D5605AQGMxUp00yYGuQ",
+                "fileIdentifyingUrlPathSegment": "high/videocover-high/0/1732304421246?e=1752757200&v=beta&t=7NxXqlncsWCGCF1YEn-WZH18ESXG6EGxPFKaL4dtwb4",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D5605AQGMxUp00yYGuQ",
+                "fileIdentifyingUrlPathSegment": "low/videocover-low/0/1732304422580?e=1752757200&v=beta&t=fWnNIPKTDX5bkzeX8jUj-h4uAeq6Uk3zS5ib8ootfnc",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D5605AQGMxUp00yYGuQ/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGMxUp00yYGuQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1732304429352?e=1752757200&v=beta&t=57izoUcKxxuqLWad4hEb-aQmpTi3HeJZSE-sHLTfzUc",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 604854,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGMxUp00yYGuQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1732304429882?e=1752757200&v=beta&t=MOxVHEnR80Y7c5rQdKVl0nw4-piCyvQtOL-qV5KuL_g",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 467105,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D5605AQGMxUp00yYGuQ",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D5605AQGMxUp00yYGuQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1596000,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D5605AQGMxUp00yYGuQ/BAQ74pNQt4d?e=1752757200&v=beta&t=jlKQYxFcLeG061rm8vNStEY1jnt8ptXuJt-Vh5dnCfo",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 1596000,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D5605AQGMxUp00yYGuQ/BAQ74pNQt4d?e=1752757200&v=beta&t=aX_NXTxYVZilLK5zxGENFI68Fefne1wqcsrV4iPGzzk",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "zoUgxipOZVNF4UgThiMkfw=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7265811407105855488",
+      "url": "https://www.linkedin.com/posts/mluggy_%D7%90%D7%9D-%D7%9C%D7%94%D7%90%D7%9E%D7%99%D7%9F-%D7%9C%D7%A1%D7%A7%D7%A8%D7%99%D7%9D-%D7%9B%D7%95%D7%9C%D7%9D-%D7%A8%D7%95%D7%A6%D7%99%D7%9D-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%91%D7%90%D7%95%D7%AA%D7%9F-activity-7265811407105855488-Au64?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "7mo",
+      "shareUrn": "urn:li:ugcPost:7265811320149549056",
+      "text": "אם להאמין לסקרים, כולם רוצים לעבוד באותן 50 חברות טק. אבל מאיפה הם באים ולאן הם עוזבים?\n\nניתחתי את מהלך הקריירה של 14,959 אנשים שעלו בחיפוש של אותם חברות, למשל מיקרוסופט. פילטרתי את אלו שעבדו רק במיקרוסופט וחישבתי את הזמן החציוני בחברה שקדמה למיקרוסופט והזמן החציוני שבילו במיקרוסופט לפני העזיבה (אם עזבו). הזנתי למערכת גרפים וסידרתי כך שהמרחק בין חברות מתאר זמן שהייה ועובי הקו מתאר את שכיחות המעבר.\n\nאם יש לכם חברה שמעניינת אתכם (עדיף מהרשימה של duns), שלחו לי חברה שמעניינת אתכם (עדיף מהרשימה של duns) ואנסה להפיק לכם דו״ח.\n\nניתוח: JavaScript\nגרפים: visjs.org\nהשראה: Forter (שמגייסת כמובן: https://lnkd.in/gg6sB6ZH)",
+      "attributes": [
+        {
+          "start": 570,
+          "length": 6,
+          "type": "COMPANY_NAME",
+          "company": {
+            "name": "Forter",
+            "universalName": "forter",
+            "trackingId": "vOkj6mLYQAu/v56ML+0nZg==",
+            "active": true,
+            "showcase": false,
+            "entityUrn": "urn:li:fs_miniCompany:5071248",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHabx_8zYVgCw/company-logo_200_200/company-logo_200_200/0/1706041062591/forter_logo?e=1757548800&v=beta&t=h0khf07A-qR1nwbknluXpDZYDi6pA1se2Th6nxy3Nk8"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 4,
+      "numLikes": 366,
+      "numComments": 46,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Michael",
+        "lastName": "Lugassy",
+        "occupation": "Principal Engineer at Forter",
+        "id": "3616796",
+        "publicId": "mluggy",
+        "trackingId": "txAQ9+TPQBqOyC1W5dQN5Q==",
+        "profileId": "ACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4E16AQG1M8USRQWxow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727107407326?e=1757548800&v=beta&t=gf4_wkYD2oWbR0E9jJVlAT4PQN92Z-PRxqAVpbuyqaQ"
+      },
+      "authorProfileId": "mluggy",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHIvepn3mp-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678054704147?e=1757548800&v=beta&t=hxP131dMitvdMAlNWobIcyZ793EcAJQf2PZ7bURAKFI",
+      "authorType": "Person",
+      "authorHeadline": "Principal Engineer at Forter",
+      "authorName": "Michael Lugassy",
+      "authorProfileUrl": "https://www.linkedin.com/in/mluggy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA3MBwBXAfb9QuPugyTtVNCNPvHurCMGNk",
+      "authorUrn": "urn:li:member:3616796",
+      "postedAtTimestamp": 1732304431702,
+      "postedAtISO": "2024-11-22T19:40:31.702Z",
+      "inputUrl": "https://www.linkedin.com/in/mluggy/",
+      "engagementScore": 524,
+      "engagementBreakdown": {
+        "likes": 366,
+        "comments": 46,
+        "shares": 4,
+        "totalEngagementScore": 524
+      }
+    }
+  ]
+}
