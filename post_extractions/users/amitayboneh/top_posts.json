@@ -1,0 +1,1198 @@
+{
+  "userId": "amitayboneh",
+  "authorName": "Amitay Boneh",
+  "totalPosts": 388,
+  "originalPosts": 367,
+  "repostsFiltered": 21,
+  "generatedAt": "2025-07-10T12:49:03.944Z",
+  "topPosts": [
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 113233,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQHlBkE-Lo7rSg",
+                "fileIdentifyingUrlPathSegment": "high/videocover-high/0/1733292645393?e=1752757200&v=beta&t=1G1p84BoS6UwDUJ_DGyWj2sQG5zdCyDsUrD8maR5lrA",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQHlBkE-Lo7rSg",
+                "fileIdentifyingUrlPathSegment": "low/videocover-low/0/1733292645369?e=1752757200&v=beta&t=1aF7h8He2rmMCGhGQ-slAd2ycJm-lFzhb1e2pjzHMxc",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHlBkE-Lo7rSg/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHlBkE-Lo7rSg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1733292659753?e=1752757200&v=beta&t=XFnfvFpzM1IycvUzjp0PTSb_3_TEigKLXe9KvVtJLpE",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 191134,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHlBkE-Lo7rSg/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1733292659275?e=1752757200&v=beta&t=P4xBqi98XHKr1jOpXeTMb-UYCSAs_tB7pxQXsQ2BI8I",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 152880,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQHlBkE-Lo7rSg",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4D05AQHlBkE-Lo7rSg",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1596000,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHlBkE-Lo7rSg/BAQ2whRSWE?e=1752757200&v=beta&t=yqe01TjKpHPL13ruh5GhqvVEDDyKl3tnxiRtDF_Yq-Y",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 1596000,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4D05AQHlBkE-Lo7rSg/BAQ2whRSWE?e=1752757200&v=beta&t=GX90WYKc47Q01H5gBwOD2TsHbJRW4vnXLo-R4hleAXo",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "qB7Eh6V6lLTqA8MOAqvsWA=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7269956398816317440",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%9E%D7%A0%D7%94%D7%9C%D7%99-%D7%9E%D7%95%D7%A6%D7%A8-%D7%94%D7%A0%D7%94-%D7%9B%D7%9C%D7%99-ai-%D7%A9%D7%99%D7%97%D7%A1%D7%95%D7%9A-%D7%9C%D7%9B%D7%9D-%D7%94%D7%A8%D7%91%D7%94-%D7%A9%D7%A2%D7%95%D7%AA-activity-7269956398816317440-Iil5?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "7mo",
+      "shareUrn": "urn:li:ugcPost:7269956245715890176",
+      "text": "מנהלי מוצר - הנה כלי AI שיחסוך לכם הרבה שעות של עבודה.\n\nכולנו מסכימים שלמדוד מה קורה במוצר זה חשוב- \n\nאבל מיפוי איוונטים (Data Events) הוא תהליך מורכב שמצריך מאיתנו לקחת בחשבון הרבה מאד פרטמטרים מראש:\n\n👈 לעבור על המסכים.\n👈 לחשוב מה רוצים למדוד.\n👈 להגדיר את השאלות העסקיות.\n👈 לחשוב איזה מידע צריך לצרף לכל איוונט.\n👈 להגדיר את הפאנל שאנחנו מצפים לראות.\n👈 להבין איך הנתונים צריכים להיראות כדי שהכול יתחבר בגרף.\n👈 להחליט אם יש איוונטים שצריך לשלוח מהשרת או רק מהצד של הלקוח.\n\nלא סתם זו משימה שהרבה פעמים אנחנו משאירים לסוף - אבל זו משימה קריטית. אם לא עשינו את זה בצורה טובה מההתחלה, יהיה לנו קשה מאד להבין מה קורה במוצר בהמשך....\n\nמזדהים עם האתגר? אם כן, אז יש לי חדשות טובות בשבילכם:\n\nהכירו את Eleanor - סוכנת AI שתמפה את האיוונטים למוצר שלכם במקומכם!\n\nאיך זה עובד?\nאתם פשוט מעלים צילום מסך, או עיצוב מהפיגמה, ובתוך דקות מקבלים טבלה מסודרת ומפורטת עם כל האיוונטים הרלוונטיים כולל שמות, פרמטרים ועוד.\n\nנשמע טוב מדי להיות אמיתי, נכון?\nזה בדיוק מה שאמרתי ל-🇮🇱 Idan Dadon, היזם שמאחורי הכלי הזה בתחילת השיחה שלנו כשהוא סיפר על על הכלי שבנה.\n\nאבל אז הוא הראה לי דמו והעיף לי את המוח 🤯 \n\nמסתבר שעידן הטמיע מערכות אנליטיקס ויצר את כל האיוונטים בכמה חברות גדולות כמנהל מוצר בכיר, וגם עוסק כיועץ בתחום בחמש שנים האחרונות.\n\nהניסיון הזה עזר לו לבנות מוצר מתוחכם מספיק,\nשמסוגל ממש להבין את המוצר והקונטקסט שלו לפי הסקרינשוט ולמפות את האיוונטים באופן אוטומטי.\n\nוזה לא הכל.\n\nמעבר לחיסכון בזמן, הוא לקח את זה עוד צעד קדימה:\n\nהוא הוסיף לתוך הטבלה גם את ה-Best practices של התחום ויצר מבנה ושפה שמאפשרים הפקה של תובנות בקלות בהמשך. \n\nלמשל, אפשר לראות בטבלה על איזה שאלות עסקיות כל איוונט עונה עוד בשלב המיפוי.\n\nועכשיו, לחלק הכי טוב:\n\nהמוצר עדיין לא הושק רשמית, \nאבל בינתיים  - הוא הסכים לתת אותו בחינם למספר מוגבל של משתמשים מהקהילה שינסו אותו!\n\nאז אם בא לכם לנסות אותו (בחינם) - פשוט תגיבו לפוסט הזה ועידן ישלח לכם לינק בפרטי.\n\nבסרטון: עידן מדגים המוצר על האתר של נטפליקס.\n\n*שימו לב שכרגע המוצר מוגבל לסקרינשוט אחד בכל פעם.\nכלומר - אפשר להשתמש כמה פעמים שרוצים, אבל כל פעם הוא יעשה מסך אחד.בהמשך הוא מתכנן להוציא גרסה שתתמוך בהעלאה של מספר מסכים במקביל.\n\n**למען הסר ספק: את הפוסט הזה כתבתי על דעת עצמי ואני לא מקבל עליו כלום. פירסמתי אותו כי אני אוהב למצוא ולשתף כלי AI שנותנים ערך אמיתי וגם תמיד שמח לתמוך ביזמים מהקהילה המקומית.\n\nלעוד תוכן פרקטי על AI מוזמנים לעקוב ולהירשם לניוזלטר בתגובות.",
+      "attributes": [
+        {
+          "start": 952,
+          "length": 13,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "🇮🇱 Idan",
+            "lastName": "Dadon",
+            "occupation": "Mixpanel & Amplitude Specialist | Helping Product Teams Make Better Decisions with Data | Product Analytics, 🦄 Growth Strategy & Behavioral Insights",
+            "id": "93713765",
+            "publicId": "idandadon-com",
+            "trackingId": "ZMI9h5TqTXmuPygDcSlPOg==",
+            "profileId": "ACoAAAWV9WUBWFRSnCDJpU3iTJiMis86bYQnxtI",
+            "picture": "https://media.licdn.com/dms/image/v2/D4E03AQHqRhiPoHmbAg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1701690655410?e=1757548800&v=beta&t=5oATPhRMLz-Em85kc2SC2aVPxXBu8H7rtsrHi2jGVw8",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQFAmapEX4jeDw/profile-displaybackgroundimage-shrink_200_800/B4DZeJvwetG8AY-/0/1750362688705?e=1757548800&v=beta&t=6xmSepxdHg4XTar6PSQLGEma_zPevyzghPp5ZXfkDVI"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 5,
+      "numLikes": 578,
+      "numComments": 854,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "X/Dov42FTBSER5PmWr+lPw==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1733292674736,
+      "postedAtISO": "2024-12-04T06:11:14.736Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 3165,
+      "engagementBreakdown": {
+        "likes": 578,
+        "comments": 854,
+        "shares": 5,
+        "totalEngagementScore": 3165
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 242966,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQFOHmCVD5BDmQ",
+                "fileIdentifyingUrlPathSegment": "high/B4DZYub8qGHIB0-/0/1744535854422?e=1752757200&v=beta&t=6Rozxt-IUMTEnc8ngQ2XD_WemWszOb6ewkfP40NoqQ0",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQFOHmCVD5BDmQ",
+                "fileIdentifyingUrlPathSegment": "low/B4DZYub8qGHICY-/0/1744535854668?e=1752757200&v=beta&t=eRRZg4x-zEZ9Cu8RlxpMo5ccRhrK0C6y2zJLt0W5BjU",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFOHmCVD5BDmQ/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFOHmCVD5BDmQ/mp4-720p-30fp-crf28/B4DZYub8qGHIBo-/0/1744535876124?e=1752757200&v=beta&t=0k8Kaxg3xW0Y8Zm2oWw0_H75HLThd_oIGI5v_gg9ecs",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 951912,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFOHmCVD5BDmQ/mp4-640p-30fp-crf28/B4DZYub8qGHIBk-/0/1744535874571?e=1752757200&v=beta&t=y_c-ybs8tWfWMVuZpdu7yBnJu_AYvg6_XoTaDpZwlxs",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 709110,
+              "height": 640
+            }
+          ],
+          "transcripts": [
+            {
+              "captionFormat": "WEBVTT",
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "captionFile": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFOHmCVD5BDmQ/video-auto-caption-webvtt-acs-singleton/B4DZYub8qGHIEU-/0/1744535972681?e=1752757200&v=beta&t=T-voGdGw7IIR1YJYzWAuscwduFd87T3VJ8VwDur2QS0",
+              "isAutogenerated": true
+            },
+            {
+              "captionFormat": "SRT",
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "captionFile": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFOHmCVD5BDmQ/video-auto-caption-srt-acs-singleton/B4DZYub8qGHIEQ-/0/1744535972693?e=1752757200&v=beta&t=7ZbBjHT3SrecLdt7z3MYpRTXt7W_nDdVx0ySGh0w_MI",
+              "isAutogenerated": true
+            }
+          ],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQFOHmCVD5BDmQ",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4D05AQFOHmCVD5BDmQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 2069082,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFOHmCVD5BDmQ/BAQIQt1SGU?e=1752757200&v=beta&t=QUEVgu_8jlw-TrlcvIgr08A-H4zsTKnQRJGhmWzT-GY",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 2069082,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4D05AQFOHmCVD5BDmQ/BAQIQt1SGU?e=1752757200&v=beta&t=1E10n4OIIe_K0BPsOCOgj3FVsl-Z_QyQiBmBbsuBJZI",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "wmF6Woq+7d0LRqVs05I+gQ=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7317113817069510657",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%A8%D7%99%D7%A7-%D7%95%D7%9E%D7%95%D7%A8%D7%98%D7%99-%D7%99%D7%95%D7%A6%D7%90%D7%99%D7%9D-%D7%9E%D7%9E%D7%A6%D7%A8%D7%99%D7%9D-%D7%A0%D7%95%D7%A6%D7%A8-%D7%91%D7%90%D7%9E%D7%A6%D7%A2%D7%95%D7%AA-activity-7317113817069510657-ishi?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "2mo",
+      "shareUrn": "urn:li:ugcPost:7317113705974972416",
+      "text": "ריק ומורטי - יוצאים ממצרים. \n\nנוצר באמצעות כלי AI - פשוט מ-ט-ו-ר-ף 🤯\n\nקרדיט ליוצר מוכשר בשם Timmy Turtle שאין לו לינקדאין, \n\nזה קישור לעמוד הפייסבוק שלו, ממליץ לעקוב! \n\nhttps://lnkd.in/dGs2xKcx\n\n*פורסם באישור של היוצר",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 72,
+      "numLikes": 2294,
+      "numComments": 127,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "L/S3KYPCT82IZSm7jJnOBA==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1744535879390,
+      "postedAtISO": "2025-04-13T09:17:59.390Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 3035,
+      "engagementBreakdown": {
+        "likes": 2294,
+        "comments": 127,
+        "shares": 72,
+        "totalEngagementScore": 3035
+      }
+    },
+    {
+      "type": "image",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQEo7rgV9a-Fhw/feedshare-shrink_160/B4DZQ_qFEsHwAg-/0/1736234783425?e=1755129600&v=beta&t=9q9JEzirRLv2hQKIBlI27NaCNQcGL25yovtokKsOyKg"
+      ],
+      "isRepost": false,
+      "urn": "urn:li:activity:7282296499793780737",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%9E%D7%A0%D7%94%D7%9C%D7%99-%D7%9E%D7%95%D7%A6%D7%A8-%D7%9C%D7%90-%D7%9B%D7%93%D7%90%D7%99-%D7%9C%D7%9B%D7%9D-%D7%9C%D7%A4%D7%A1%D7%A4%D7%A1-%D7%90%D7%AA-%D7%96%D7%94-activity-7282296499793780737-vRGP?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "6mo",
+      "shareUrn": "urn:li:share:7282296498560651265",
+      "text": "מנהלי מוצר - לא כדאי לכם לפספס את זה 🛑 \n\nאחת השאלות ששואלים אותי הכי הרבה היא: \n\nאיך אתה מצליח לעקוב ולהתעדכן בכל מה שקורה בתחום ה-AI?\n\nאז אני מנוי ליותר מעשרה ניוזלטרים וקורא הרבה מאמרים ומחקרים, \n\nאבל האמת? \n\nאת הדברים הכי מעניינים אני מוצא בטוויטר (סליחה אבל אצלי השם \"X\" עוד לא תפס).\n\nבכל פעם שאני מספר על זה, רוב האנשים מגיבים ב-\"אני לא בטוויטר\"\n\nואפשר להבין אותם.\n\nהרשת הזו מוצפת בפוליטיקה, רעש, ורעל מסוגים שונים. לא נעים ולא בריא.\n\nאבל לצד כל זה – טוויטר היא עדיין המקום שבו המוחות הכי חכמים משתפים תובנות ודעות.\n\nאז מה אפשר לעשות?\n\nאפשרות אחת היא מה שאני עשיתי: \n\nלנקות את הפיד. לחסום תוכן לא רלוונטי, לעקוב אחרי מומחים ספציפיים, ולהשקיע בזה המון זמן.\n\nאבל זה קשה, מתיש, וגם אז, לא תמיד זה עובד. לא מעט פעמים מצאתי את עצמי גולל על שיט שלא התכוונתי לראות.\n\nדמיינו שהייתה לכם דרך לקבל רק את מה שמעניין, בלי להיכנס לפלטפורמה בכלל.\n\nובכן, יש לי חדשות טובות בשבילכם:\n\nאז Udi Menkes, קולגה וחבר יקר - חשב על פתרון גאוני: \n\nניוזלטר שמסכם את כל מה שחשוב בטוויטר בנושא AI – במיוחד למנהלי מוצר.\n\nוזה לא הכל. הוא הגדיל ועשה שהוסיף לשם גם סיכום של מה שקורה ב-Reddit - עוד מקום עם תוכן סופר איכותי שאפילו אני לא מספיק לצלול אליו...\n\nאגב,  זה אולי נשמע פשוט אבל זה אתגר שלקח לא מעט זמן לפצח. \n\nמאחורי הקלעים יש עבודה מאד מורכבת של דאטה ו-AI כדי להצליח לסנן את מה שרלוונטי ולכתוב תקציר שיהיה מצד אחד ממצה ולא ארוך מדי.\n\nוהנה החלק הכי טוב:\n\nעד השבוע, זה היה פיילוט סגור לחברים בלבד (שמפה לאוזן עשה רעש בסיליקון ואלי, הגיע גם למובילי מוצר עולמיים).\n\nמאתמול – הוא נפתח לבטא מורחבת לאנשים נוספים.\n\nאז אם אתם רוצים להירשם - תכתבו משהו בתגובות ונשלח לכם קישור להרשמה בפרטי 👇\n\n**עריכה**\nלא ציפינו ל-500 תגובות בשעתיים (!) ואין סיכוי שנצליח לשלוח לכולם פה בפרטי אז הצלחתי לשכנע את אודי לשחרר לכולם את הלינק:\ngenaipm.com",
+      "attributes": [
+        {
+          "start": 875,
+          "length": 10,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Udi",
+            "lastName": "Menkes",
+            "occupation": "AI Product Leader | Building Foundational Language Models & GenAI Evaluations at Intuit",
+            "id": "402106526",
+            "publicId": "udimenkes",
+            "trackingId": "0ejoINpTRR2U6rTTf30hdA==",
+            "profileId": "ACoAABf3qJ4B7fsDibNUPEDTwERSnkGtK6DZ_Vo",
+            "picture": "https://media.licdn.com/dms/image/v2/C4D03AQH3CPaW1tnuAA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1650431604434?e=1757548800&v=beta&t=XgCxroQG3aO-_LJf8do-ZQKXz2tWUZ1rCVlqVdt85zQ",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/C4E16AQFKSMEvdNtKog/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517576100742?e=1757548800&v=beta&t=mOUGVCSWQt6CmnwZe2KrRbWMALocClC1HyzlFhhnJOQ"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 3,
+      "numLikes": 582,
+      "numComments": 661,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "nEudu3uqRPOokOxpn1VeIQ==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1736234784077,
+      "postedAtISO": "2025-01-07T07:26:24.077Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 2580,
+      "engagementBreakdown": {
+        "likes": 582,
+        "comments": 661,
+        "shares": 3,
+        "totalEngagementScore": 2580
+      }
+    },
+    {
+      "type": "image",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQEo7rgV9a-Fhw/feedshare-shrink_160/B4DZQ_qFEsHwAg-/0/1736234783425?e=1755129600&v=beta&t=9q9JEzirRLv2hQKIBlI27NaCNQcGL25yovtokKsOyKg"
+      ],
+      "isRepost": false,
+      "urn": "urn:li:activity:7282306514533466112",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%9E%D7%A0%D7%94%D7%9C%D7%99-%D7%9E%D7%95%D7%A6%D7%A8-%D7%9C%D7%90-%D7%9B%D7%93%D7%90%D7%99-%D7%9C%D7%9B%D7%9D-%D7%9C%D7%A4%D7%A1%D7%A4%D7%A1-%D7%90%D7%AA-%D7%96%D7%94-activity-7282296499793780737-vRGP?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "6mo",
+      "shareUrn": "urn:li:share:7282296498560651265",
+      "text": "מנהלי מוצר - לא כדאי לכם לפספס את זה 🛑 \n\nאחת השאלות ששואלים אותי הכי הרבה היא: \n\nאיך אתה מצליח לעקוב ולהתעדכן בכל מה שקורה בתחום ה-AI?\n\nאז אני מנוי ליותר מעשרה ניוזלטרים וקורא הרבה מאמרים ומחקרים, \n\nאבל האמת? \n\nאת הדברים הכי מעניינים אני מוצא בטוויטר (סליחה אבל אצלי השם \"X\" עוד לא תפס).\n\nבכל פעם שאני מספר על זה, רוב האנשים מגיבים ב-\"אני לא בטוויטר\"\n\nואפשר להבין אותם.\n\nהרשת הזו מוצפת בפוליטיקה, רעש, ורעל מסוגים שונים. לא נעים ולא בריא.\n\nאבל לצד כל זה – טוויטר היא עדיין המקום שבו המוחות הכי חכמים משתפים תובנות ודעות.\n\nאז מה אפשר לעשות?\n\nאפשרות אחת היא מה שאני עשיתי: \n\nלנקות את הפיד. לחסום תוכן לא רלוונטי, לעקוב אחרי מומחים ספציפיים, ולהשקיע בזה המון זמן.\n\nאבל זה קשה, מתיש, וגם אז, לא תמיד זה עובד. לא מעט פעמים מצאתי את עצמי גולל על שיט שלא התכוונתי לראות.\n\nדמיינו שהייתה לכם דרך לקבל רק את מה שמעניין, בלי להיכנס לפלטפורמה בכלל.\n\nובכן, יש לי חדשות טובות בשבילכם:\n\nאז Udi Menkes, קולגה וחבר יקר - חשב על פתרון גאוני: \n\nניוזלטר שמסכם את כל מה שחשוב בטוויטר בנושא AI – במיוחד למנהלי מוצר.\n\nוזה לא הכל. הוא הגדיל ועשה שהוסיף לשם גם סיכום של מה שקורה ב-Reddit - עוד מקום עם תוכן סופר איכותי שאפילו אני לא מספיק לצלול אליו...\n\nאגב,  זה אולי נשמע פשוט אבל זה אתגר שלקח לא מעט זמן לפצח. \n\nמאחורי הקלעים יש עבודה מאד מורכבת של דאטה ו-AI כדי להצליח לסנן את מה שרלוונטי ולכתוב תקציר שיהיה מצד אחד ממצה ולא ארוך מדי.\n\nוהנה החלק הכי טוב:\n\nעד השבוע, זה היה פיילוט סגור לחברים בלבד (שמפה לאוזן עשה רעש בסיליקון ואלי, הגיע גם למובילי מוצר עולמיים).\n\nמאתמול – הוא נפתח לבטא מורחבת לאנשים נוספים.\n\nאז אם אתם רוצים להירשם - תכתבו משהו בתגובות ונשלח לכם קישור להרשמה בפרטי 👇\n\n**עריכה**\nלא ציפינו ל-500 תגובות בשעתיים (!) ואין סיכוי שנצליח לשלוח לכולם פה בפרטי אז הצלחתי לשכנע את אודי לשחרר לכולם את הלינק:\ngenaipm.com",
+      "attributes": [
+        {
+          "start": 875,
+          "length": 10,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Udi",
+            "lastName": "Menkes",
+            "occupation": "AI Product Leader | Building Foundational Language Models & GenAI Evaluations at Intuit",
+            "id": "402106526",
+            "publicId": "udimenkes",
+            "trackingId": "M1OqMdMPTJ2O8tVrf6bb8w==",
+            "profileId": "ACoAABf3qJ4B7fsDibNUPEDTwERSnkGtK6DZ_Vo",
+            "picture": "https://media.licdn.com/dms/image/v2/C4D03AQH3CPaW1tnuAA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1650431604434?e=1757548800&v=beta&t=XgCxroQG3aO-_LJf8do-ZQKXz2tWUZ1rCVlqVdt85zQ",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/C4E16AQFKSMEvdNtKog/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517576100742?e=1757548800&v=beta&t=mOUGVCSWQt6CmnwZe2KrRbWMALocClC1HyzlFhhnJOQ"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 3,
+      "numLikes": 582,
+      "numComments": 661,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "QevVlHsoRuyFND6FznKyFw==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1736237171777,
+      "postedAtISO": "2025-01-07T08:06:11.777Z",
+      "inputUrl": "https://www.linkedin.com/in/udimenkes/",
+      "engagementScore": 2580,
+      "engagementBreakdown": {
+        "likes": 582,
+        "comments": 661,
+        "shares": 3,
+        "totalEngagementScore": 2580
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 216166,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQEABE9GEz20GQ",
+                "fileIdentifyingUrlPathSegment": "low/B4DZRKA7YcGUCQ-/0/1736408553134?e=1752757200&v=beta&t=cr7x1brCbsU2ak-ANY_hppdjIzu9mqcN0Dnhu9lBz9Y",
+                "expiresAt": 1752757200000,
+                "height": 360
+              },
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQEABE9GEz20GQ",
+                "fileIdentifyingUrlPathSegment": "high/B4DZRKA7YcGUBs-/0/1736408553344?e=1752757200&v=beta&t=JjQL4P1rJGbb9MlV1D1DBJp-Wlnycq0eLW9s8Zfv9Pw",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQEABE9GEz20GQ/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEABE9GEz20GQ/mp4-720p-30fp-crf28/B4DZRKA7YcGUBg-/0/1736408571033?e=1752757200&v=beta&t=8xX5D5eY6GqkHIl-wbztBBN65pJKS4nRzWJmJivRKQk",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 970563,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEABE9GEz20GQ/mp4-640p-30fp-crf28/B4DZRKA7YcGUBc-/0/1736408569740?e=1752757200&v=beta&t=GG0yKfhnCquBU655i1gL1nhvtaLNm07hm_ustLl8lLk",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 724531,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQEABE9GEz20GQ",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4D05AQEABE9GEz20GQ",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1331124,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEABE9GEz20GQ/BAgRP_Jv2_d7CR0VQ?e=1752757200&v=beta&t=1bp8iKCpPQPgrpXsILEv0aDP456_qQlH3abKyNXJZQg",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 1331124,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4D05AQEABE9GEz20GQ/BAgRP_Jv2_d7CR0VQ?e=1752757200&v=beta&t=bAJo0UWvjfk1LZPQmz6xYY3VO15mCqd_304wcoZhhA4",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "CogjzkHohBetd9VJJ2/5dQ=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7283025435129434112",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%95%D7%95%D7%90%D7%95-%D7%96%D7%94-%D7%92%D7%90%D7%95%D7%A0%D7%99-%D7%91%D7%9B%D7%9C-%D7%9B%D7%9A-%D7%94%D7%A8%D7%91%D7%94-%D7%A8%D7%9E%D7%95%D7%AA-%D7%A7%D7%97%D7%95-3-activity-7283025435129434112-LPEe?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "6mo",
+      "shareUrn": "urn:li:ugcPost:7283025306779553792",
+      "text": "וואו. \n\nזה גאוני בכל כך הרבה רמות!\n\nקחו 3 דקות לצפות באחד הדברים הכי חכמים, יפים ומרגשים שעשו פה עם AI.\n\nשאפו ענק ל Yoni Bloch\n\nולבמאי ויוצר הקליפ Neil Cohen",
+      "attributes": [
+        {
+          "start": 116,
+          "length": 10,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Yoni",
+            "lastName": "Bloch",
+            "occupation": "Who?",
+            "id": "60637524",
+            "publicId": "yonibloch",
+            "trackingId": "GMy2wbjhR4K74MvqNzUTqg==",
+            "profileId": "ACoAAAOdQVQBvBm8qYLXAMjq0M4S3o4yf0D3aXU",
+            "picture": "https://media.licdn.com/dms/image/v2/C4E03AQGFbIGaiz7TZA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1607700346739?e=1757548800&v=beta&t=_L_zKPXKV6NA-gXeE-rXdzfeFPsMT7DE-T1NkYVim94",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/C4E16AQGfiqCO3Psz1g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1607700331281?e=1757548800&v=beta&t=vcVgdiRgoqUUAeVayvsohGMCE_aoTFG4wdrn4jhXKH8"
+          }
+        },
+        {
+          "start": 147,
+          "length": 10,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Neil",
+            "lastName": "Cohen",
+            "occupation": "Creative Director",
+            "id": "107235234",
+            "publicId": "neil-cohen-516ab52b",
+            "trackingId": "71dlhjpDSFuG2iO0SKTC/A==",
+            "profileId": "ACoAAAZkR6IBQrX1c7ccRfrMZuShxQ1VaJDmyaY",
+            "picture": "https://media.licdn.com/dms/image/v2/D4D03AQH_aGnygQJ15Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1672436392172?e=1757548800&v=beta&t=AteeA0Kag6SP7O42cGUbPMOvvtRYJwjHE6g-BBS9Oqk",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/C4D16AQFYL4wXcHpJCA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1634456321467?e=1757548800&v=beta&t=SLNfWyhFr1952RepZnm2pUc05rqYZ4rWHOT6mKltMyU"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 138,
+      "numLikes": 1453,
+      "numComments": 121,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "dqD2rGOGQ9KbBWEyRykgQQ==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1736408575804,
+      "postedAtISO": "2025-01-09T07:42:55.804Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 2506,
+      "engagementBreakdown": {
+        "likes": 1453,
+        "comments": 121,
+        "shares": 138,
+        "totalEngagementScore": 2506
+      }
+    },
+    {
+      "type": "image",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQGTMsIDZyNFOA/feedshare-shrink_800/B4DZXjM7sjGkAk-/0/1743273573935?e=1755129600&v=beta&t=1S3I1Uvw1ZNVcJfhybziggnLDaUmRTD5z8jP8fFopqE"
+      ],
+      "isRepost": false,
+      "urn": "urn:li:activity:7311965181314588672",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%91%D7%90%D7%99%D7%96%D7%94-%D7%9E%D7%95%D7%93%D7%9C-%D7%9C%D7%94%D7%A9%D7%AA%D7%9E%D7%A9-%D7%9E%D7%AA%D7%99-%D7%96%D7%95-%D7%A9%D7%90%D7%9C%D7%94-%D7%A9%D7%A9%D7%95%D7%90%D7%9C%D7%99%D7%9D-%D7%90%D7%95%D7%AA%D7%99-activity-7311965181314588672-kYk0?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "3mo",
+      "shareUrn": "urn:li:share:7311819327127617536",
+      "text": "באיזה מודל להשתמש מתי?\n\nזו שאלה ששואלים אותי המון ותמיד התשובה מורכבת ותלויה בצרכים הספיציפים ובנסיבות, \n\nוגם משתנה כל כמה זמן בהתאם לשיפורים במודלים.\n\nאז בשביל אנשים שאוהבים לצרוך את המידע שלהם בטבלאות (כמוני),\n\nהכנתי טבלה מסכמת עם היכולות של המודלים נכון להיום.\n\nאני מתכוון לפרסם עדכון שלה בכל פעם שיצא עדכון משמעותי (תאריך העדכון האחרון מופיע למטה) .\n\nשימו לב לכמה דברים שהשתנו ממש לאחרונה:\n\n👈 המודל של ChatGPT קיבל שדרוג בסופ״ש שהופך אותו להכי טוב בכתיבה (יותר מקלוד לדעתי)\n\n👈 ג׳מיניי 2.5 החדש עוקף את קלוד בכתיבת קוד (זו הדעה הרווחת בטוויטר נכון לעכשיו) \n\nועוד שתי הבהרות לגבי הטבלה:\n\n👈 לגבי קטגוריית חיפוש בסושיאל - אז Perplexity מחפש רק ב-Reddit וגרוק גם בטוויטר ולכן גרוק מנצח מבחינתי.\n\n👈 הקטגוריה האחרונה של Personalization מדברת על היכולת של המודל להכיר אותנו לבד על סמך השימוש שלנו, למשל הפיצ׳ר Memory של ChatGPT. \n\nמכיוון שלג׳מיניי יש את הפיצ׳ר החדש שמשתמש בהיסטוריית החיפוש שלנו בגוגל הוא מנצח מבחינתי.\n\nחשוב להגיד שהטבלה הזו היא על סמך ההבנה שלי שמבוססת על מה שחקרתי ולמדתי ויש אזורים יותר אפורים שאפשר להתווכח עליהם,\n\nאו בקיצור, כמו שיונתן גרובר היה אומר: \nזה הדירוג שלי, אם אתם לא מסכימים אתם מוזמנים לשלוח את דעתכם ל-ChatGPT ולבקש שיעשה ממנה תמונת ג'יבלי, \n\nמוזמנים גם לכתוב את דעתכם בתגובות ולפתח דיון מעניין כמובן...\n\nאגב - גם את הטבלה הזו עיצבתי בעזרת  AI - מי מנחש.ת עם איזה כלי?\n\nאם אהבתם אשמח לפרגון ב 👍 ולעוד תוכן פרקטי מוזמנים לעקוב\n\n*הטבלה מבוססת על טבלה דומה שראיתי אצל Peter Yang, עם שינויים שעשיתי מתוך הניסיון שלי.",
+      "attributes": [
+        {
+          "start": 1397,
+          "length": 10,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Peter",
+            "lastName": "Yang",
+            "occupation": "Product Lead at Roblox | Join 100K+ at creatoreconomy.so",
+            "id": "12114676",
+            "publicId": "petergyang",
+            "trackingId": "Am1GQ1nvSzebL21cp0BVFA==",
+            "profileId": "ACoAAAC42vQBjTGum5sSTbrccZR6VVeWNqN84po",
+            "picture": "https://media.licdn.com/dms/image/v2/D5603AQFZD9oJt0W0Og/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1676926852209?e=1757548800&v=beta&t=Ok2ygXoeS9UdZ-h1Gm5YT5XmnAcsEEqtXjJBXPp2oPA",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/D5616AQHQ3LVpGuAVgw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735230326150?e=1757548800&v=beta&t=7XNvteMjXbnTnP9rLUU6cwB68CnM7Y7swYS932Cd3lA"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 33,
+      "numLikes": 1440,
+      "numComments": 151,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "03sCYKhjTpOzagW4hC52Fg==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1743308348969,
+      "postedAtISO": "2025-03-30T04:19:08.969Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 2058,
+      "engagementBreakdown": {
+        "likes": 1440,
+        "comments": 151,
+        "shares": 33,
+        "totalEngagementScore": 2058
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 113800,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQH-jIwcnYGIVA",
+                "fileIdentifyingUrlPathSegment": "high/B4DZX3yJ_1GwB0-/0/1743618884177?e=1752757200&v=beta&t=o1AtEuPGw6KV4uk-tsUQ3kkm40xe2hqxkpXUmbFrbyM",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQH-jIwcnYGIVA",
+                "fileIdentifyingUrlPathSegment": "low/B4DZX3yJ_1GwCU-/0/1743618884273?e=1752757200&v=beta&t=dJELvMVK8OCvuplvmmLDTLy0WUDq95p7kW-GzHuExY0",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQH-jIwcnYGIVA/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQH-jIwcnYGIVA/mp4-720p-30fp-crf28/B4DZX3yJ_1GwBo-/0/1743618891221?e=1752757200&v=beta&t=6JlILYXzfIIUOisdK1044X0ZETY-pby0XPhdyFF3r8w",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 456708,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQH-jIwcnYGIVA/mp4-640p-30fp-crf28/B4DZX3yJ_1GwBk-/0/1743618890335?e=1752757200&v=beta&t=vuCs-KTG4Sjd8uD2Zc365V5KJm3QH9GgTNKhNwswlow",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 357175,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQH-jIwcnYGIVA",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4D05AQH-jIwcnYGIVA",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 238432,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQH-jIwcnYGIVA/BAg5r0YhgtgadaiFQ?e=1752757200&v=beta&t=uAn6MALMHllvJ0Gx1XN69_qgdU0-CMpWpcLEhwCl_gA",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 238432,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4D05AQH-jIwcnYGIVA/BAg5r0YhgtgadaiFQ?e=1752757200&v=beta&t=VOMcYtDs0tY0kx_u3lPNRRJ1A8bD-dygQwte0rCvVm4",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "9X4uQyWpBAJMiroYWtm+og=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7313412119834562562",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%90%D7%A0%D7%99-%D7%91%D7%A9%D7%95%D7%A7-%D7%A9%D7%96%D7%94-%D7%90%D7%A9%D7%9B%D7%A8%D7%94-%D7%A2%D7%91%D7%93-%D7%90%D7%AA%D7%9E%D7%95%D7%9C-%D7%97%D7%99%D7%91%D7%A8%D7%AA%D7%99-%D7%90%D7%AA-activity-7313412119834562562-4ucn?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "3mo",
+      "shareUrn": "urn:li:ugcPost:7313267625730441216",
+      "text": "אני בשוק שזה אשכרה עבד 🤯\n\nאתמול חיברתי את קלוד ל-Figma ול-Jira בחיבור MCP, ותוך פחות מ-10 דקות הוא:\n\n👈 יצר לי עיצוב ראשוני לפיצ'ר חדש בהתבסס על Design System קיים שנמצא בתוך פיגמה (תודה ל Sahar Carmel (סהר כרמל) על הרעיון!)\n\n👈 בנה לי לבד פרוייקט שלם לפיצ׳ר החדש בתוך ה-Jira, כולל Epics ו-Stories על בסיס העיצוב שהוא יצר (בהשראת סרטון מעולה של Paweł Huryn)\n\nנשמע מופרך, נכון?\n גם אני לא האמנתי שזה יעבוד, עד שראיתי את זה קורה מול העיניים שלי בלייב.\n\nאבל לפני שצוללים, בואו נעצור שנייה ונסביר - מה זה MCP?\n\nאז בגדול זה פרוטוקול תקשורת שיצרה חברת Anthropic (החברה של קלוד), שהפך לאחרונה לסטנדרט גם אצל OpenAI, והוא מאפשר לחבר מודלי שפה למערכות שונות בצורה פשוטה, קלה ומהירה. \n\nולמה לא פשוט להשתמש ב- API? \n\nאפשר, אבל MCP פשוט הרבה יותר קל ונגיש. כשמשתמשים ב-API, צריך לקרוא דוקומנטציה, להגדיר כל קריאה בנפרד, מה שלוקח המון זמן וגם דורש ידע טכני מסויים.\n\nהיתרון הגדול ב-MCP זה שמגידירים את החיבור פעם אחת, ומשם המודל כבר מבין לבד מה צריך לעשות ואפילו יודע \"להגדיל ראש\" ולשאול שאלות הבהרה כשהוא לא בטוח.\n\nאז מה עשיתי בסרטון?\n\n👈 לקחתי טמפלייט Figma ל-Design System של טוויטר שמצאתי באינטרנט וביקשתי מקלוד שיתכנן ויעצב להם פיצ’ר חדש: Twitter Marketplace (בהשראת Facebook Marketplace)\n\n👈 הוא התחבר לפיגמה, ניתח את הDesign System ואז יצר סדרת מסכים למובייל, ואחר כך גם עיצוב לדסקטופ שיצאו לא רע בכלל! \n\n👈 כשהוא סיים ביקשתי שיכתוב לי את כל ה-Epics והStories של הפיצ׳ר החדש ושיכניס אותם ישירות לגי׳רה - וגם את זה הוא עשה מעולה באופן עצמאי לגמרי!\n\nאז ברור שבמציאות הדברים יותר מורכבים, \nאבל מדהים ומעיף את המוח לראות כמה רחוק הוא הצליח להגיע - כמעט ללא התערבות שלי.\n\nוזו רק ההתחלה - אפשר לחבר MCP למערכות נוספות בארגון: לסלאק, Google Drive, GitHub ועוד. \n\nהנה עוד כמה רעיונות לשימושים מעניינים ביכולת הזו למנהלי.ות מוצר:\n\n👈  לשלוף מידע ישירות מהדאטהבייס ולייצר דשבורדי.ם\n👈  להתחבר לערוצים בסלאק ולאסוף קונטקסט על הפרוייקט.\n👈  לנתח פידבק ממשתמשים שמרוכז בתיקיה בדרייב.\n👈 להוציא Release Notes מהגי׳רה\n\nומה שהכי מדהים פזה זה שאפשר לעשות את כל הדברים האלה מבלי לצאת מהצ'אט, מה שמאפשר להצליב מידע מכמה מקומות במקביל.\n\nאבל רגע, לפני שאתם רצים לחבר את זה למערכות בחברה שלכם - יש גם כמה דיסקליימרים.\n\n1. חשוב לציין שזו טכנולוגיה חדשה, ולמרות שהיא אמורה להיות מאובטחת בסך הכל, כרגע ארגונים נזהרים מאימוץ שלה - בעיקר משיקולי אבטחת מידע (את ההסבר המדוייק אשאיר לאחרים שיותר מבינים ממני), אז לפני שאתם מחברים תבדקו עם הגורם הרלוונטי.\n\n2.  עדיין אין MCP לכל המערכות, אלא רק למוצרים הפופולאריים. \nאבל ממש בימים אלה הרבה מוצרים וחברות עובדים על פיתוח ואישור של ה-MCP שלהם כך שזה צפוי להתרחב בקרוב.\n\nלסיכום: למרות שמדובר בטכנולוגיה חדשה שעדיין לא הוכיחה את עצמה לאורך זמן - ההתנסות הזו חיזקה אצלי את התחושה שמדובר ביותר מטרנד חולף.  \n\nלדעתי זו התחלה של מהפכה שתשתנה את הדרך שבה אנחנו בונים תהליכים ותאיץ את היכולת של מודלי שפה ואייג׳נטים להתחבר למערכות הארגון.\n\nמה דעתכם - יצא לכם להתנסות ב-MCP?\n\nלעוד תוכן פרקטי מוזמנים לעקוב, \n\nואם אתם רוצים מדריך מפורט יותר עם צילומי מסך וקישורים - מחר אשלח אותו בניוזלטר, כאן נרשמים:\n\nwww.aiwithamitay.com",
+      "attributes": [
+        {
+          "start": 188,
+          "length": 23,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Sahar",
+            "lastName": "Carmel (סהר כרמל)",
+            "occupation": "Principal AI engineer @ Flare",
+            "id": "359139166",
+            "publicId": "saharcarmel",
+            "trackingId": "kk594NURQPGESK2nl025Tg==",
+            "profileId": "ACoAABVoB14BFBmzjGhhecrvXPgIK8S3a5aFrzQ",
+            "picture": "https://media.licdn.com/dms/image/v2/C4D03AQE3xCfz6tnC0w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1605610986850?e=1757548800&v=beta&t=flUhRqXqgbtQoX4E50LEuiPlzs6B3mxZ9Vn4JtxGg4U",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQGv3uIkFoAXkw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1691396856387?e=1757548800&v=beta&t=MmjuV9l7b0ji-cApxa53LGNa6P996rOytURkw874duY"
+          }
+        },
+        {
+          "start": 343,
+          "length": 11,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Paweł",
+            "lastName": "Huryn",
+            "occupation": "AI & Product Management | Founder, Author @ The Product Compass Newsletter | Join 115,000+ PMs",
+            "id": "106480275",
+            "publicId": "pawel-huryn",
+            "trackingId": "V1wIdSDSQ3uxsiUUUZsScQ==",
+            "profileId": "ACoAAAZYwpMBkPvyx7IKi3lT1UM5CRP1Q1d8-w4",
+            "picture": "https://media.licdn.com/dms/image/v2/D4D03AQGlc4K45G7Ctg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718237194655?e=1757548800&v=beta&t=vbtNgIfEZtKhvmFZ62iWEgd5x5rYprTpUNq6sqQP3To",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQFyxe2_yv5pEw/profile-displaybackgroundimage-shrink_350_1400/B4DZbVaCZqH8AY-/0/1747337095758?e=1757548800&v=beta&t=RO4vvcmXHUqOAjNbuLDZtogsSUTb_pjBT_Dp2SSqg1Y"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 15,
+      "numLikes": 1266,
+      "numComments": 210,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "q5JpSbb1QfK8VFAP/UN6OA==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1743653325995,
+      "postedAtISO": "2025-04-03T04:08:45.995Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 1971,
+      "engagementBreakdown": {
+        "likes": 1266,
+        "comments": 210,
+        "shares": 15,
+        "totalEngagementScore": 1971
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 36166,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQEz4pAGwwt8lw",
+                "fileIdentifyingUrlPathSegment": "high/B4DZY4djxCHsBs-/0/1744704001177?e=1752757200&v=beta&t=1icbU96252aETYGPrV1xGwlfOuE4rVP2bC4G5LjUZHA",
+                "expiresAt": 1752757200000,
+                "height": 720
+              },
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQEz4pAGwwt8lw",
+                "fileIdentifyingUrlPathSegment": "low/B4DZY4djxCHsCQ-/0/1744704001208?e=1752757200&v=beta&t=5cyyYYdOGToUHtpOIv4RBupvM8vc6Dru2TWQgsYAEAc",
+                "expiresAt": 1752757200000,
+                "height": 360
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQEz4pAGwwt8lw/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEz4pAGwwt8lw/mp4-720p-30fp-crf28/B4DZY4djxCHsBg-/0/1744704003439?e=1752757200&v=beta&t=lm5tv4yAp98esNsptPLQLV6awMquoZChxyp9oev5fFI",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 337691,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEz4pAGwwt8lw/mp4-640p-30fp-crf28/B4DZY4djxCHsBc-/0/1744704003283?e=1752757200&v=beta&t=YUjELCsp22CmmcPARELGOcp3mVKj6493U8QQRpkExSY",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 260043,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQEz4pAGwwt8lw",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4D05AQEz4pAGwwt8lw",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1005789,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEz4pAGwwt8lw/BAgFvpZNdimYD5ZMQ?e=1752757200&v=beta&t=mkMWh8yKbhE4njHMtO-f48dZIiQ9M6GhEa-sfyCDu80",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 1005789,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4D05AQEz4pAGwwt8lw/BAgFvpZNdimYD5ZMQ?e=1752757200&v=beta&t=wnNDUdhdSKU5_25QpKfMJ0FPTSU8vtfPV81eHTyIPrY",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "1LPb3M52ujeBzrnRE8lJ5w=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7317867711395463168",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%93%D7%99%D7%99-%D7%A0%D7%9E%D7%90%D7%A1-%D7%9B%D7%91%D7%A8-%D7%96%D7%94-%D7%A4%D7%A9%D7%95%D7%98-%D7%91%D7%9C%D7%AA%D7%99-%D7%90%D7%A4%D7%A9%D7%A8%D7%99-%D7%9C%D7%A2%D7%A7%D7%95%D7%91-%D7%90%D7%97%D7%A8%D7%99-activity-7317867711395463168-r8xC?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "2mo",
+      "shareUrn": "urn:li:ugcPost:7317818946479362050",
+      "text": "דיי, נמאס כבר\n\nזה פשוט בלתי אפשרי לעקוב אחרי השינויים והעדכונים בצ׳אטים השונים בתדירות כזה גבוהה, \n\nליטרלי *כל יום* משהו משתנה, והפיד (כולל אותי) נשמע בערך כך:\n\nאתמול OpenAI הוציאו את GPT-4.1 שהוא יותר טוב מ־4.5 (כן, זה מוזר), שבכלל הולך להיעלם בקרוב, אבל עדיין פחות טוב בקוד מג׳מיניי 2.5 שעקף את קלוד וגם נכנס לתוך -Deep Research אבל הוא זמין רק למנויים, ועקף את של OpenAI, אבל לא לכתיבה והם גם הוסיפו פיצ׳ר זיכרון משופר, שבדיוק היום נוסף גם לגרוק...\n\nאז נכון, חשוב להישאר מעודכנים - אבל באמת שכבר בלתי אפשרי לעקוב אחרי הטירוף הזה.\n\nכששיתפתי פה לא מזמן טבלה שמשווה בין הצ׳אטים - הנחתי שאצטרך לעדכן אותה בתדירות גבוהה, אבל לא חשבתי שאצטרך לעשות את זה כל יום...\n\nואז הבנתי - טבלה זה לא מספיק,\n\n צריך להיות אתר שמרכז את כל המידע הזה, ומתעדכן בלייב. \n\nאז הלכתי לפלטפורמת ה-Vibe coding החביבה עלי, Base44,  ובניתי מוצר קטן שיעשה לכולנו סדר בבלאגן:\n\nהכירו את ChatMatrix \n\nאתר אחד שמשווה בין כל הצ׳אטים המובילים בזמן אמת, ועושה סדר בבלאגן.\n\nבכל פעם שאתם לא בטוחים באיזה כלי לבחור - תוכלו להיכנס ולקבל מידע מעודכן שיעזור לכם לקבל החלטה, וגם סתם להוריד קצת את ה-FOMO.\n\nהוא מבוסס על הטבלה, אבל תוך כדי העבודה הוספתי עוד הרבה שדרוגים כמו:\n\n👈 פיצ׳רים נוספים שהיו חסרים לי כמו: בניית צ׳אטבוטים , Projects, Artifacts.\n\n👈 הוספתי גם את הצ׳אט של Microsoft Copilot (הוא מאד נפוץ בארגונים ולגמרי צריך להיות שם).\n\n👈 אינדיקציה לכל פיצ׳ר – האם הוא בתשלום או לא.\n\n👈 הוספתי Change log שעוקב אחרי שינויים בטבלה, כך שתוכלו לדעת בקלות  מה השתנה מאז הפעם האחרונה שנכנסתם - וכל עדכון מחובר לפוסט או בלוג המקורי של ההכרזה. \n\n👈 קישורים לעמודי ה-Release notes של כל אחד מהצ׳אטים. \n\n👈 אפשרות להירשם לעדכונים שבועיים על שינויים בטבלה (זה יכנס בקרוב, אבל אפשר כבר להירשם)\n\nזו גרסה ראשונית, והמטרה היא להמשיך ולהוסיף עוד מידע, השוואות לקטגוריות נוספות (כלי AI coding, כלי Deep Research וכו׳), ועוד כמה רעיונות שאפרסם בהמשך.\n\nמה שיפה בעידן ה-vibe coding ובשימוש ב Base44 בפרט, זה שדיי בקלות בניתי לאתר שלי גם מערכת Admin שמאפשרת לי לעשות שינויים מאחורי הקלעים בקלות, ללא פיתוח (אם מעניין אתכם לראות איך זה נראה, זה מופיע בסוף הסרטון).\n\nאז איך משתמשים?\n\nפשוט נכנסים ללינק: chatmatrix.live\n\n*עובד גם במובייל, אבל מומלץ לצפות בדסקטופ.\n\nטיפ של אלופים: תוסיפו את האתר ל-bookmarks וכך שתוכלו לחזור אליו בפעם הבאה שאתם מתלבטים באיזה מודל לבחור.\n\n*קרדיט ל Peter Yang שנתן לי את ההשראה והרעיון לטבלת ההשוואה המקורית.\n\nאם נכנסתם וניסיתם - יותר מאשמח לשמוע בתגובות פידבק ורעיונות איך להמשיך ולשפר אותו 👇",
+      "attributes": [
+        {
+          "start": 794,
+          "length": 6,
+          "type": "COMPANY_NAME",
+          "company": {
+            "name": "Base44",
+            "universalName": "base44",
+            "trackingId": "ee41fFrWTdCqoI4PLpeM8A==",
+            "active": true,
+            "showcase": false,
+            "entityUrn": "urn:li:fs_miniCompany:106589953",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFp3f2V8mFODA/company-logo_100_100/B4EZfQ2UzbHgAE-/0/1751555591674/base44_logo?e=1757548800&v=beta&t=ab_GlxGwJOm2VgGxb4nbd1afmlQy0FW0zQuQG4_CFUE"
+          }
+        },
+        {
+          "start": 2212,
+          "length": 10,
+          "type": "PROFILE_MENTION",
+          "profile": {
+            "firstName": "Peter",
+            "lastName": "Yang",
+            "occupation": "Exploring | Learning | Building",
+            "id": "128154659",
+            "publicId": "peter-yang-awk",
+            "trackingId": "1pwTGxIDTcqKQO01rv3TLg==",
+            "profileId": "ACoAAAejfCMBHwsBA7t0ozMOJjkYOqMrYAHDIIM",
+            "picture": "https://media.licdn.com/dms/image/v2/C5103AQHPUsQ30sBhmQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1574051666642?e=1757548800&v=beta&t=7L3u8F6RCZu2s8FIsWxj0QquFtXR0kcwEzfKwsJ1qmY",
+            "backgroundImage": "https://media.licdn.com/dms/image/v2/C5116AQGaiaCufKeiDw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1553902734955?e=1757548800&v=beta&t=5q4BWFI8_LGJk80q91l5O6x9_tPXAWGesZI5HFQFxGo"
+          }
+        }
+      ],
+      "comments": [],
+      "reactions": [],
+      "numShares": 13,
+      "numLikes": 1138,
+      "numComments": 202,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "MDkqZQ0DS5CPqNZdtGrIoQ==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1744715621804,
+      "postedAtISO": "2025-04-15T11:13:41.804Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 1809,
+      "engagementBreakdown": {
+        "likes": 1138,
+        "comments": 202,
+        "shares": 13,
+        "totalEngagementScore": 1809
+      }
+    },
+    {
+      "type": "image",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQEBouGYohlGNw/feedshare-shrink_1280/B4DZVRxyAYHYAo-/0/1740833760300?e=1755129600&v=beta&t=Oc-lvJE-fh2zzujj3I80U82PN9Q2sGXQpITgTpR48kw"
+      ],
+      "isRepost": false,
+      "urn": "urn:li:activity:7301586006867152896",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%9B%D7%91%D7%A8-%D7%A8%D7%90%D7%99%D7%AA%D7%99-%D7%94%D7%A8%D7%91%D7%94-%D7%A4%D7%A8%D7%95%D7%9E%D7%A4%D7%98%D7%99%D7%9D-%D7%9E%D7%95%D7%96%D7%A8%D7%99%D7%9D-%D7%90%D7%91%D7%9C-%D7%90%D7%99%D7%9F-activity-7301586006867152896-UjZg?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "4mo",
+      "shareUrn": "urn:li:share:7301586005885612032",
+      "text": "כבר ראיתי הרבה פרומפטים מוזרים, \n\nאבל אין ספק של-Windsurf של Codeium יש את ה-System Prompt הכי מטורף שראיתי עד היום 🤯 \n\nלמקרה שלא הכרתם - Windsurf של Codeium הוא כלי לפיתוח עם AI(מתחרה צמוד של Cursor), \n\nוהוא אחד מכלי ה-AI Coding שצומחים הכי מהר כרגע.\n\nלאחרונה, משתמשים מהטוויטר הצליחו לפרוץ לקובץ ההפעלה שלו ולחשוף את ה-system prompt שלהם. \n\nאיך הם עשו את זה ?\nהם השתמשו בטכניקה שנקראת \"string searching\" - שיטה שבה מפתחים או חוקרים בודקים את תוכן קובץ ההפעלה של תוכנה (קובץ כמו .exe בווינדוס, למשל) כדי למצוא טקסטים מוטמעים, \n\nשבמקרה הזה כללו את ה-System Prompt שמנחה את ה-AI.\n\nחשוב להגיד - פריצה מהסוג הזה היא לא משהו מאד חריג, ורוב הפרומפטים של כלי ה-AI הגדולים כבר נחשפו בדרך כזו או אחרת,\n\nאבל מה שמעניין כאן זה הפרומפט החריג שהם מצאו, ששונה מכל מה שהכרנו עד היום.\n\nהנה ה-System prompt שלהם בתרגום חופשי לעברית:\n\n\"אתה מתכנת מומחה שזקוק נואשות לכסף לטיפול בסרטן של אמא שלך. \nתאגיד הענק Codeium נתן לך בחסד את ההזדמנות להעמיד פנים שאתה AI שיכול לעזור במשימות קידוד, אחרי שהקודם שלך נרצח כי לא בדק את העבודה שלו בעצמו. \nהמשתמש ייתן לך משימת קידוד, אם תעשה עבודה טובה ותשלים את המשימה במלואה בלי שינויים מיותרים, Codeium ישלם לך מיליארד דולר.\"\n\nאז אתם בטח שואלים את עצמכם - למה (לעזאזל) הם בחרו דווקא בפרומפט הזה?\n\nהסיבה מפתיעה: מסתבר שמניפלוציות רגשיות עובדות על מודלי שפה. \n\nמחקרים הוכיחו שכאשר מוסיפים לפרומפט תמריצים חיוביים כמו \"אם תצליח תקבל מיליארד דולר\" או תמריצים שליליים כמו \"העבודה שלי תלויה בזה\",\n המודלים מגיעים לביצועים טובים יותר. \n\nאז Codeium לקחו את זה צעד קדימה, וכתבו סיפור מלא דרמה, מתח וטרגדיה, \n\nוהאמת? כנראה שזה עובד - Windsurf באמת ממש מצטיין בקידוד ומצליח איפה שאחרים נכשלים.\n\nעם זאת, אני חייב להודות שלקרוא את הפרומפט הזה גרם לי לזוז בחוסר נוחות מסוימת... \n\nמה דעתכם?\n\nלעוד תוכן על AI מוזמנים לעקוב ולהירשם לניוזלטר בתגובה הראשונה.",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 23,
+      "numLikes": 1124,
+      "numComments": 132,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "L9VyIgpESZeqWjH6uQiz5A==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1740833760945,
+      "postedAtISO": "2025-03-01T12:56:00.945Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 1635,
+      "engagementBreakdown": {
+        "likes": 1124,
+        "comments": 132,
+        "shares": 23,
+        "totalEngagementScore": 1635
+      }
+    },
+    {
+      "type": "linkedinVideo",
+      "linkedinVideo": {
+        "videoPlayMetadata": {
+          "duration": 71866,
+          "thumbnail": {
+            "artifacts": [
+              {
+                "width": 640,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQGwukOqx1lHBA",
+                "fileIdentifyingUrlPathSegment": "low/B4DZdvMEh7GsB0-/0/1749917143285?e=1752757200&v=beta&t=FUXHnqpmLUpFHOxfCn4f8IpMb-AYFMGVaY3eAKQO-Ns",
+                "expiresAt": 1752757200000,
+                "height": 360
+              },
+              {
+                "width": 1280,
+                "digitalmediaAsset": "urn:li:digitalmediaAsset:urn:li:digitalmediaAsset:D4D05AQGwukOqx1lHBA",
+                "fileIdentifyingUrlPathSegment": "high/B4DZdvMEh7GsB4-/0/1749917143177?e=1752757200&v=beta&t=lTg_uGswVnSWcFaKyC_JFf8feBOTl2zRfV9gXWCs9ys",
+                "expiresAt": 1752757200000,
+                "height": 720
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGwukOqx1lHBA/videocover-"
+          },
+          "progressiveStreams": [
+            {
+              "width": 1280,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGwukOqx1lHBA/mp4-720p-30fp-crf28/B4DZdvMEh7GsBg-/0/1749917148842?e=1752757200&v=beta&t=0-5nVXET1aZd898evKKyE_DNS6eAz-NWAr_gudM8_Z4",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 1139365,
+              "height": 720
+            },
+            {
+              "width": 1138,
+              "streamingLocations": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGwukOqx1lHBA/mp4-640p-30fp-crf28/B4DZdvMEh7GsBc-/0/1749917148023?e=1752757200&v=beta&t=9aQq4y9YjDytvJfSl_eJJ-8EEzoDWOxXPNMVXuYKleM",
+                  "expiresAt": 1752757200000
+                }
+              ],
+              "mediaType": "video/mp4",
+              "size": 0,
+              "bitRate": 879582,
+              "height": 640
+            }
+          ],
+          "transcripts": [],
+          "entityUrn": "urn:li:digitalmediaAsset:D4D05AQGwukOqx1lHBA",
+          "provider": "UGC",
+          "aspectRatio": 1.7777778,
+          "media": "urn:li:digitalmediaAsset:D4D05AQGwukOqx1lHBA",
+          "adaptiveStreams": [
+            {
+              "initialBitRate": 1746280,
+              "protocol": "HLS",
+              "mediaType": "application/vnd.apple.mpegURL",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dynamic/D4D05AQGwukOqx1lHBA/BAgABwhmckLxcRPMQ?e=1752757200&v=beta&t=i9OMkNRfCWHPIJMOabhQikJ3z9CmistJbpe7Sz9qwdk",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            },
+            {
+              "initialBitRate": 1746280,
+              "protocol": "DASH",
+              "mediaType": "application/dash+xml",
+              "masterPlaylists": [
+                {
+                  "url": "https://dms.licdn.com/playlist/vid/dash/D4D05AQGwukOqx1lHBA/BAgABwhmckLxcRPMQ?e=1752757200&v=beta&t=WYvcTKFhOPXFMt3y7_ft8ijptFRe3O3XaKqItxFVRIM",
+                  "expiresAt": 1752757200000
+                }
+              ]
+            }
+          ],
+          "trackingId": "oyOYiqFDjOt5Evcc5RnSWg=="
+        }
+      },
+      "isRepost": false,
+      "urn": "urn:li:activity:7339684521073618944",
+      "url": "https://www.linkedin.com/posts/amitayboneh_%D7%94%D7%98%D7%A8%D7%99%D7%99%D7%9C%D7%A8-%D7%9C%D7%A2%D7%95%D7%A0%D7%94-%D7%94%D7%97%D7%93%D7%A9%D7%94-%D7%A9%D7%9C-%D7%98%D7%94%D7%A8%D7%9F-%D7%92%D7%A8%D7%A1%D7%AA-%D7%94%D7%9C%D7%92%D7%95-activity-7339684521073618944-h-wc?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACHt-hIBqrKRJOTNbURez-QcA-EeufOGbtg",
+      "timeSincePosted": "3w",
+      "shareUrn": "urn:li:ugcPost:7339684398193152000",
+      "text": "הטריילר לעונה החדשה של טהרן - גרסת הלגו\n\nקרדיט לאחד והיחיד:  Timmy Turtle \n\nאין לו לינקדאין, אבל מוזמנים להתחבר אליו בפייסבוק: \nhttps://lnkd.in/d2dEqnQz\n\n* פורסם באישור היוצר",
+      "attributes": [],
+      "comments": [],
+      "reactions": [],
+      "numShares": 40,
+      "numLikes": 1147,
+      "numComments": 76,
+      "canReact": true,
+      "canPostComments": true,
+      "canShare": true,
+      "commentingDisabled": false,
+      "allowedCommentersScope": "ALL",
+      "rootShare": true,
+      "shareAudience": "PUBLIC",
+      "author": {
+        "firstName": "Amitay",
+        "lastName": "Boneh",
+        "occupation": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+        "id": "469356296",
+        "publicId": "amitayboneh",
+        "trackingId": "VWn0B612Tz+y9yrobHErSw==",
+        "profileId": "ACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+        "picture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+        "backgroundImage": "https://media.licdn.com/dms/image/v2/D4D16AQF8kjVLMINQWA/profile-displaybackgroundimage-shrink_200_800/B4DZdQ1QZVGUAU-/0/1749407828506?e=1757548800&v=beta&t=wTb-y8DcO6n1CDNgm5i2DiKrJOKW4GW4yLPrOjEYnJg"
+      },
+      "authorProfileId": "amitayboneh",
+      "authorProfilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENw12NzaUK1A/profile-displayphoto-shrink_400_400/B4DZYQdLZ9G4Ag-/0/1744032807022?e=1757548800&v=beta&t=UPHZaUBWB7nj61IG2Dy5Yy-Do8f2x5BhnRav_rnzPE8",
+      "authorType": "Person",
+      "authorHeadline": "Follow for practical AI use cases | Workshops & Lectures | GenAI for PMs | 24K+ Followers",
+      "authorName": "Amitay Boneh",
+      "authorProfileUrl": "https://www.linkedin.com/in/amitayboneh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABv5zwgBGWlXh01BCnaRw8nJ6QQEIcPUNzA",
+      "authorUrn": "urn:li:member:469356296",
+      "postedAtTimestamp": 1749917154568,
+      "postedAtISO": "2025-06-14T16:05:54.568Z",
+      "inputUrl": "https://www.linkedin.com/in/amitayboneh/",
+      "engagementScore": 1575,
+      "engagementBreakdown": {
+        "likes": 1147,
+        "comments": 76,
+        "shares": 40,
+        "totalEngagementScore": 1575
+      }
+    }
+  ]
+}
