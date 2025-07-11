@@ -1,0 +1,17 @@
+---
+alwaysApply: true
+description: High-level project overview for Cursor.
+---
+## Rule 1: Project Overview
+
+You are working on **Social Media Agent**, an automated pipeline that ingests web links (blogs, GitHub repositories, YouTube videos, tweets, etc.), extracts key details, and generates human-reviewable LinkedIn/Twitter posts or threads through a LangGraph workflow with optional human-in-the-loop interruptions. A companion **Agent Inbox** Next.js application lets users review, edit, or approve generated content.
+
+**Tech Stack:** Node.js & TypeScript back-end with LangGraph and LangChain; React 18 + Next.js 14 front-end; Anthropic & OpenAI LLMs; Google Vertex AI for YouTube; FireCrawl web scraping; Arcade social-media auth; Twitter & LinkedIn APIs; Slack API; GitHub API; YouTube Data API; Supabase storage; Playwright for screenshots.
+
+**Project Goals:**
+1. Automate creation of concise, on-brand social posts from any relevant link.
+2. Provide a seamless human-in-the-loop interface so marketing teams can scale content production safely.
+
+**Current State:** Feature-rich MVP – core LangGraph flows, extensive prompt library, tests, and detailed docs are present. The system is usable for development and small-scale production, but still rapidly evolving.
+
+For deeper details see [README.md](mdc:README.md) and [FEATURES.md](mdc:FEATURES.md).

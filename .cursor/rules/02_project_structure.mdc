@@ -1,0 +1,45 @@
+---
+alwaysApply: true
+description: Directory map and patterns for Social Media Agent.
+---
+## Rule 2: Project Structure
+
+**Core Architecture:**
+- `cheeky-social-media-agent/src/` – TypeScript back-end implementing LangGraph agents
+  - `agents/` – one folder per agent graph (e.g. `generate-post/`, `curate-data/`).  Each contains:
+    - `index.ts` / `<agent>-graph.ts` – registers and wires nodes
+    - `state.ts` – typed LangGraph state
+    - `nodes/` – individual node handlers
+    - `prompts/` – prompt templates
+    - `constants.ts`, `types.ts`, `utils.ts` as needed
+  - `clients/` – API wrappers for Twitter, LinkedIn, Slack, GitHub, YouTube, Supabase, etc.
+  - `utils/` – generic helpers (dates, scheduling, filesystem, etc.)
+  - `evals/` – evaluation suites
+  - `tests/` – Jest tests (unit & integration)
+- `cheeky-social-media-agent/scripts/` – CLI utilities (cron management, backfill, ingest) invoked via `yarn <script>`.
+- `cheeky-social-media-agent/docs/` – project & prompt documentation; `static/` holds diagrams.
+- `memory-v2/` – experimental Python LangGraph memory prototype.
+- `slack-messaging/` – lightweight Python package for Slack message utilities.
+- `cheeky-agent-inbox/` – Next.js 14 React front-end for human-in-the-loop review
+  - `src/app/` – App router entry (`layout.tsx`, `page.tsx`)
+  - `src/components/agent-inbox/` – complex inbox UI, context, hooks
+  - `src/components/ui/` – shadcn-style UI primitives
+  - `hooks/`, `lib/` – shared client helpers
+  - `public/` – static assets (images, icons)
+
+**Key Files:**
+- `cheeky-social-media-agent/langgraph.json` – LangGraph project manifest used by CLI
+- `cheeky-social-media-agent/src/agents/generate-post/generate-post-graph.ts` – primary agent graph entry point
+- `cheeky-social-media-agent/src/agents/shared/shared-state.ts` – common state definition reused across agents
+- `cheeky-social-media-agent/jest.config.js` – Jest testing setup
+- `cheeky-social-media-agent/package.json` / `cheeky-agent-inbox/package.json` – dependency & script definitions
+- `cheeky-agent-inbox/next.config.mjs` – Next.js configuration
+- `.env.*.example` – environment variable templates for different setups
+
+**Patterns:**
+- Directory and file names use **kebab-case**; React components are **PascalCase** within files.
+- Agents follow **LangGraph pattern**: `state.ts` → individual `nodes/` → `<agent>-graph.ts` with edge routing.
+- Constants are `UPPER_SNAKE_CASE`; Zod used for runtime validation.
+- Tests named `*.test.ts` (unit) or `*.int.test.ts` (integration) and run via Jest.
+- Scripts are TypeScript files executed with `tsx` via yarn scripts.
+- Configuration lives at project root; monorepo managed via separate package.json per app (backend & inbox).

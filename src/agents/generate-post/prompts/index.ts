@@ -6,7 +6,7 @@ import {
   CONTENT_VALIDATION_PROMPT as LANGCHAIN_CONTENT_VALIDATION_PROMPT,
 } from "./prompts.langchain.js";
 import { EXAMPLES } from "./examples.js";
-import { useLangChainPrompts } from "../../utils.js";
+import { useLangChainPrompts, activePromptProfile } from "../../utils.js";
 
 export const TWEET_EXAMPLES = EXAMPLES.map(
   (example, index) => `<example index="${index}">\n${example}\n</example>`,
@@ -85,7 +85,42 @@ The following are rules to follow when determining whether or not to approve con
 - You only want to approve content which can be used as marketing material, or other content to promote the content above.
 </validation-rules>`;
 
+// Import profile prompts statically
+import * as nisanPrompts from "./profiles/nisan.js";
+import * as galPrompts from "./profiles/gal.js";
+
+function getProfilePrompts(profileName: string) {
+  if (profileName === "nisan") {
+    return {
+      businessContext: nisanPrompts.BUSINESS_CONTEXT,
+      tweetExamples: nisanPrompts.TWEET_EXAMPLES,
+      postStructureInstructions: nisanPrompts.POST_STRUCTURE_INSTRUCTIONS,
+      postContentRules: nisanPrompts.POST_CONTENT_RULES,
+      contentValidationPrompt: nisanPrompts.CONTENT_VALIDATION_PROMPT,
+    };
+  }
+  if (profileName === "gal") {
+    return {
+      businessContext: galPrompts.BUSINESS_CONTEXT,
+      tweetExamples: galPrompts.TWEET_EXAMPLES,
+      postStructureInstructions: galPrompts.POST_STRUCTURE_INSTRUCTIONS,
+      postContentRules: galPrompts.POST_CONTENT_RULES,
+      contentValidationPrompt: galPrompts.CONTENT_VALIDATION_PROMPT,
+    };
+  }
+  return null;
+}
+
 export function getPrompts() {
+  // Check for profile-specific prompts first
+  const profile = activePromptProfile();
+  if (profile) {
+    const profilePrompts = getProfilePrompts(profile);
+    if (profilePrompts) {
+      return profilePrompts;
+    }
+  }
+
   // NOTE: you should likely not have this set, unless you want to use the LangChain prompts
   if (useLangChainPrompts()) {
     return {

@@ -154,6 +154,6 @@ export const BASE_GENERATE_POST_CONFIG: typeof GeneratePostConfigurableAnnotatio
     [POST_TO_LINKEDIN_ORGANIZATION]: undefined,
     [TEXT_ONLY_MODE]: false,
     origin: undefined,
-    [SKIP_CONTENT_RELEVANCY_CHECK]: undefined,
+    [SKIP_CONTENT_RELEVANCY_CHECK]: true,
     [SKIP_USED_URLS_CHECK]: undefined,
   };

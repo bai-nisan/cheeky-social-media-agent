@@ -12,7 +12,7 @@ ${getPrompts().tweetExamples}
 Now that you've seen some examples, lets's cover the structure of the LinkedIn/Twitter post you should follow.
 ${getPrompts().postStructureInstructions}
 
-This structure should ALWAYS be followed. And remember, the shorter and more engaging the post, the better (your yearly bonus depends on this!!).
+This structure should ALWAYS be followed. (your yearly bonus depends on this!!).
 
 Here are a set of rules and guidelines you should strictly follow when creating the LinkedIn/Twitter post:
 <rules>

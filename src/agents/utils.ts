@@ -595,6 +595,15 @@ export function capitalize(string: string): string {
 }
 
 /**
+ * Returns the active prompt profile name from environment variable
+ *
+ * @returns {string | undefined} The prompt profile name ("nisan", "gal") or undefined for default
+ */
+export function activePromptProfile(): string | undefined {
+  return process.env.PROMPT_PROFILE;
+}
+
+/**
  * Returns true if LangChain prompts should be used
  *
  * @returns {boolean} True if LangChain prompts should be used
