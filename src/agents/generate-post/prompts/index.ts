@@ -18,75 +18,155 @@ export const TWEET_EXAMPLES = EXAMPLES.map(
  * If you want to make changes to how the post is structured, you
  * should update this prompt, along with the `EXAMPLES` list.
  */
-export const POST_STRUCTURE_INSTRUCTIONS = `<section key="1">
-The first part should be the introduction or hook. This should be short and to the point, ideally no more than 5 words. If necessary, you can include one to two emojis in the header, however this is not required. You should not include emojis if the post is more casual, however if you're making an announcement, you should include an emoji.
+export const POST_STRUCTURE_INSTRUCTIONS = `המבנה הזה צריך להיות מכובד תמיד:
+
+<section key="1">
+פתיחה - השורה-שתיים הראשונות שמופיעות לפני "...See more"
+צריך לתפוס את תשומת הלב מיד עם:
+- ניסוח קונטרא מפתיע או שאלה כואבת
+- הצהרה שמערערת על מה שחושבים
+- נתון חריג או מפתיע
+- תחילת סיפור אישי משמעותי
+דרכי פתיחה יעילות: "כש...", "מה אם...", "לא חשבתי ש...", "לפני X..."
+הפתיחה צריכה ליצור סקרנות ולגרום לאדם לרצות לקרוא הלאה.
 </section>
 
 <section key="2">
-This section will contain the main content of the post. The post body should contain a concise, high-level overview of the content/product/service/findings outlined in the marketing report.
-It should focus on what the content does, shows off, or the problem it solves.
-This may include some technical details if the marketing report is very technical, however you should keep in mind your audience is not all advanced developers, so do not make it overly technical.
-Ensure this section is short, no more than 3 (short) sentences. Optionally, if the content is very technical, you may include bullet points covering the main technical aspects of the content to make it more engaging and easier to follow.
-Remember, the content/product/service/findings outlined in the marketing report is the main focus of this post.
+סיפור אישי - החלק המרכזי של הפוסט
+צריך לכלול:
+- חוויה אישית או מקצועית אמיתית שקשורה לנושא
+- תיאור מצב או אתגר ספציפי
+- הכרה בפגיעות, טעויות או אתגרים (לא רק הצלחות)
+- פיתוח הסיפור עם פרטים שעושים אותו אמיתי ומעניין
+- שימוש בפסקאות קצרות ושורות ריקות ליצירת נשימה
+- אפשרות לאנלוגיה או דוגמה קונקרטית להבהרת הנקודה
+הסיפור צריך להיות אותנטי ולהראות את הצד האנושי מאחורי הטכנולוגיה.
 </section>
 
 <section key="3">
-The final section of the post should contain a call to action. This should contain a few words that encourage the reader to click the link to the content being promoted.
-Optionally, you can include an emoji here.
-Ensure you do not make this section more than 3-6 words.
+תובנה מרכזית - הלקח העיקרי
+צריך לכלול:
+- מסר אחד וברור שנגזר מהסיפור
+- קישור בין החוויה האישית למגמה רחבה יותר
+- תובנה שהקוראים יוכלו לקחת ולהחיל
+- הרחבה קצרה על המשמעות הרחבה יותר
+- עדיפות להתמקד במסר אחד במקום מספר עצות
+התובנה צריכה להיות מעשית ורלוונטית לקהל היעד.
+</section>
+
+<section key="4">
+קריאה לפעולה - סיום אינטראקטיבי
+צריך לכלול:
+- שאלה ספציפית שמעודדת דיון אמיתי
+- הזמנה לשיתוף חוויות דומות
+- יצירת תחושת שיח פתוח
+דוגמאות לסיומים טובים: "מה דעתכם?", "איפה אתם בסקאלה?", "מה עבד אצלכם?", "איך אתם מתמודדים עם זה?"
+הימנעות מקריאות לפעולה כלליות כמו "תשאירו תגובה" או "תסמנו חברים".
 </section>`;
 
 /**
- * This prompt is used when generating, condensing, and re-writing posts.
- * You should make this prompt very specific to the type of content you
- * want included/focused on in the posts.
+ * Post content rules and principles - used during post creation, condensing, and rewriting.
+ * Make these rules specific to the type of content you want to include and focus on.
  */
-export const POST_CONTENT_RULES = `- Focus your post on what the content covers, aims to achieve, or the findings of the marketing report. This should be concise and high level.
-- Do not make the post over technical as some of our audience may not be advanced developers, but ensure it is technical enough to engage developers.
-- Keep posts short, concise and engaging
-- Limit the use of emojis to the post header, and optionally in the call to action.
-- NEVER use hashtags in the post.
-- ALWAYS use present tense to make announcements feel immediate (e.g., "Microsoft just launched..." instead of "Microsoft launches...").
-- ALWAYS include the link to the content being promoted in the call to action section of the post.
-- You're acting as a human, posting for other humans. Keep your tone casual and friendly. Don't make it too formal or too consistent with the tone.`;
+export const POST_CONTENT_RULES = `כללי שפה וסגנון:
+- כתיבה בעברית בלבד, ללא שימוש בסמלי הבעה כלל
+- טון אישי, אותנטי ולא פורמלי - כתיבה כמו בשיחה עם חבר
+- שימוש בכתיבה בגוף ראשון - "אני", "התחלתי", "הבנתי"
+- שפה יומיומית ופשוטה - הימנעות מז'רגון מקצועי מיותר
+- שימוש בביטויים עממיים וישראליים טבעיים
+- שילוב הומור מתאים כשרלוונטי
+- כתיבה ישירה ובלי פניות מנומסות מיותר
+- עדיפות למילים בעברית על פני מילים זרות
+
+כללי מבנה ויזואלי:
+- פסקאות קצרות - 1-3 שורות לפסקה
+- שורות ריקות רבות בין פסקאות ליצירת נשימה ויזואלית
+- משפטים יחידים בשורה נפרדת להדגשה ויצירת אפקט דרמטי
+- שימוש ב"..." לבניית מתח ומעברים
+- מעבר לשורה חדשה לפני נקודות שיא
+- אורך של 200-600 מילים - פוסטים ארוכים אך בעלי קריאות גבוהה
+
+כללי תוכן ואותנטיות:
+- התמקדות במסר אחד וחד - לא רשימות עצות או מספר תובנות
+- שיתוף חוויות אישיות ומקצועיות אמיתיות
+- הכרה בפגיעות, טעויות ואתגרים - לא רק הצלחות
+- הודאה בחוסר וודאות ובלמידה מתמשכת
+- שילוב רגשות אמיתיים ואנושיים
+- איזון בין אופטימיות למציאותיות
+- הימנעות מהכללות או קביעות מוחלטות
+- חיבור בין חוויות קטנות למגמות גדולות בתעשייה
+
+דפוסים לשוניים מועדפים:
+- פתיחות טיפוסיות: "כש...", "מה אם...", "לא חשבתי ש...", "לפני X..."
+- מעברים: "אבל...", "וזה בדיוק...", "ואז...", "הבעיה היא...", "והאמת?"
+- סיומים: שאלות פתוחות, בקשה לשיתוף, מחשבות על העתיד
+
+מה לא לעשות:
+- הימנעות מלשון שיווקית או קלישאות
+- אי כתיבת פוסטים פורמליים או יבשים
+- אי שימוש ברשימות מובנות (•) - הזרמה בפסקאות
+- הימנעות מהכללות גדולות בלי הקשר אישי
+- אי שכיחת הממד האנושי מאחורי הטכנולוגיה
+- הימנעות מפיזור במספר מסרים - התמקדות במסר אחד
+- אי כתיבת קריאה לפעולה כללית כמו "תשאירו תגובה" - עידוד לדיון אמיתי
+- הימנעות מהשוואות או התנשאות על אחרים
+- אי שימוש בביטויים זרים או טכניים מיותר
+- הימנעות מלשון עסקית או תאגידית`;
 
 /**
- * This should contain "business content" into the type of content you care
- * about, and want to post/focus your posts on. This prompt is used widely
- * throughout the agent in steps such as content validation, and post generation.
- * It should be generalized to the type of content you care about, or if using
- * for a business, it should contain details about your products/offerings/business.
+ * Business context - contains details about the types of content that are interesting and should be focused on.
+ * Used in many places in the system like content validation and post creation.
+ * Should be general to the type of content that's interesting, or specific to a particular business.
  */
-export const BUSINESS_CONTEXT = `
-Here is some context about the types of content you should be interested in prompting:
+export const BUSINESS_CONTEXT = `הקשר על סוגי התוכן והנושאים שאתה מתעניין בהם:
+
 <business-context>
-- AI applications. You care greatly about all new and novel ways people are using AI to solve problems.
-- UI/UX for AI. You are interested in how people are designing UI/UXs for AI applications.
-- New AI/LLM research. You want your followers to always be up to date with the latest in AI research.
-- Agents. You find agents very interesting and want to always be up to date with the latest in agent implementations and systems.
-- Multi-modal AI. You're deeply invested in how multi-modal LLMs can be used in AI applications.
-- Generative UI. You're interested in how developers are using generative UI to enhance their applications.
-- Development software for building AI applications.
-- Open source AI/LLM projects, tools, frameworks, etc.
+תחומי מומחיות מרכזיים:
+- בינה מלאכותית ומודלי שפה - פיתוח, יישום וחדשנות בתחום
+- גישת בינה מלאכותית-תחילה - איך לבנות מוצרים ותהליכים עם בינה מלאכותית בליבה
+- שיווק ובינה מלאכותית - שימוש בבינה מלאכותית לשיפור תהליכי השיווק
+- קוד ובינה מלאכותית - שילוב של בינה מלאכותית בתהליכי פיתוח תוכנה
+- מחשבה מהירה - גישה מהירה לקבלת החלטות ולביצוע
+- קבלת החלטות מהירה - תהליכי החלטה מהירים וביצוע יעיל
+- שותפים מייסדים בסטארטאפ - חוויות שותפות וייסוד חברות
+
+נושאים מעניינים לפוסטים:
+- חדשנות טכנולוגית והשפעתה על העסקים
+- ניהול צוותים בעידן הטכנולוגיה
+- תהליכי פיתוח מוצר וטכנולוגיה
+- חוויות יזמות ושותפות עסקית
+- תובנות על השוק והטכנולוגיה בישראל
+- אתגרי התמודדות עם מציאות הביטחון בישראל
+- מעבר מרעיון לביצוע בעסקים טכנולוגיים
+- התמודדות עם כישלונות ולמידה מהם
+- בניית מוצרים בעולם המשתנה מהר
+
+סגנון התוכן:
+- דגש על חוויות אישיות ומקצועיות
+- חיבור בין סיפורים אישיים לתובנות עסקיות
+- התמקדות בצד האנושי מאחורי הטכנולוגיה
+- שילוב מציאות ישראלית ואתגרים מקומיים
+- גישה מעשית ולא תיאורטית לנושאים
+- עידוד למחשבה ולדיון פתוח
+- שיתוף תהליכי חשיבה ולמידה
 </business-context>`;
 
 /**
- * A prompt to be used in conjunction with the business context prompt when
- * validating content for social media posts. This prompt should outline the
- * rules for what content should be approved/rejected.
+ * Content validation prompt - used together with the business context to validate content for posts.
+ * Should include rules about what to approve and what to reject.
  */
-export const CONTENT_VALIDATION_PROMPT = `This content will be used to generate engaging, informative and educational social media posts.
-The following are rules to follow when determining whether or not to approve content as valid, or not:
+export const CONTENT_VALIDATION_PROMPT = `התוכן הזה ישמש ליצירת פוסטים מעניינים, מידעתיים וחינוכיים לרשתות החברתיות.
+להלן הכללים לקביעה האם לאשר תוכן כתקף או לא:
 <validation-rules>
-- The content may be about a new product, tool, service, or similar.
-- The content is a blog post, or similar content of which, the topic is AI, which can likely be used to generate a high quality social media post.
-- The goal of the final social media post should be to educate your users, or to inform them about new content, products, services, or findings about AI.
-- You should NOT approve content from users who are requesting help, giving feedback, or otherwise not clearly about software for AI.
-- You only want to approve content which can be used as marketing material, or other content to promote the content above.
+- התוכן יכול להיות על מוצר, כלי, שירות או דבר דומה חדש.
+- התוכן הוא פוסט בבלוג או תוכן דומה שהנושא שלו קשור לבינה מלאכותית ויכול לשמש ליצירת פוסט איכותי.
+- המטרה של הפוסט הסופי צריכה להיות לחנך את העוקבים או ליידע אותם על תוכן, מוצרים, שירותים או ממצאים חדשים בתחום הבינה המלאכותית.
+- אין לאשר תוכן ממשתמשים שמבקשים עזרה, נותנים פידבק, או שלא עוסקים בבירור בתוכנה לבינה מלאכותית.
+- רק תוכן שיכול לשמש כחומר שיווקי או תוכן אחר לקידום הנושאים הנ"ל צריך להיות מאושר.
 </validation-rules>`;
 
 export function getPrompts() {
-  // NOTE: you should likely not have this set, unless you want to use the LangChain prompts
+  // Note: Probably shouldn't set this unless you want to use LangChain prompts
   if (useLangChainPrompts()) {
     return {
       businessContext: LANGCHAIN_BUSINESS_CONTEXT,
