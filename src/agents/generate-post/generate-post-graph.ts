@@ -13,7 +13,6 @@ import {
 } from "./generate-post-state.js";
 import { generateContentReport } from "./nodes/generate-report/index.js";
 import { generatePost } from "./nodes/generate-post/index.js";
-import { condensePost } from "./nodes/condense-post.js";
 import { isTextOnly, removeUrls, shouldPostToLinkedInOrg } from "../utils.js";
 import { verifyLinksGraph } from "../verify-links/verify-links-graph.js";
 import { authSocialsPassthrough } from "./nodes/auth-socials.js";
@@ -58,12 +57,8 @@ function rewriteOrEndConditionalEdge(
 async function condenseOrHumanConditionalEdge(
   state: GeneratePostState,
   config: LangGraphRunnableConfig,
-): Promise<"condensePost" | "humanNode" | "findImagesSubGraph" | typeof END> {
-  const cleanedPost = removeUrls(state.post || "");
-  if (cleanedPost.length > 280 && state.condenseCount <= 3) {
-    return "condensePost";
-  }
-
+): Promise<"humanNode" | "findImagesSubGraph" | typeof END> {
+  // Skip condensing logic for now; route based on text-only mode.
   const isTextOnlyMode = isTextOnly(config);
   if (isTextOnlyMode) {
     return routeToCuratedInterruptOrContinue(state, config);
@@ -88,10 +83,10 @@ async function checkIfUrlsArePreviouslyUsed(
   );
 }
 
-async function generateReportOrEndConditionalEdge(
+async function generateReportOrPostConditionalEdge(
   state: GeneratePostState,
   config: LangGraphRunnableConfig,
-): Promise<"generateContentReport" | typeof END> {
+): Promise<"generateContentReport" | "generatePost" | typeof END> {
   const urlsAlreadyUsed = await checkIfUrlsArePreviouslyUsed(
     [...(state.relevantLinks ?? []), ...state.links],
     config,
@@ -101,6 +96,11 @@ async function generateReportOrEndConditionalEdge(
   // page contents extracted from any of the URLs.
   if (urlsAlreadyUsed || !state.pageContents?.length) {
     return END;
+  }
+
+  // If useRawContentForPost is true, skip report generation and go directly to post generation
+  if (config.configurable?.useRawContentForPost) {
+    return "generatePost";
   }
 
   return "generateContentReport";
@@ -147,8 +147,6 @@ const generatePostBuilder = new StateGraph(
 
   // Generates a Tweet/LinkedIn post based on the report content.
   .addNode("generatePost", generatePost)
-  // Attempt to condense the post if it's too long.
-  .addNode("condensePost", condensePost)
   // Interrupts the node for human in the loop.
   .addNode("humanNode", humanNode<GeneratePostState, GeneratePostUpdate>)
   // Schedules the post for Twitter/LinkedIn.
@@ -168,11 +166,11 @@ const generatePostBuilder = new StateGraph(
   .addEdge(START, "authSocialsPassthrough")
   .addEdge("authSocialsPassthrough", "verifyLinksSubGraph")
 
-  // After verifying the different content types, we should generate a report on them.
+  // After verifying the different content types, we should generate a report on them or go directly to post generation.
   .addConditionalEdges(
     "verifyLinksSubGraph",
-    generateReportOrEndConditionalEdge,
-    ["generateContentReport", END],
+    generateReportOrPostConditionalEdge,
+    ["generateContentReport", "generatePost", END],
   )
 
   // Once generating a report, we should confirm the report exists (meaning the content is relevant).
@@ -184,16 +182,6 @@ const generatePostBuilder = new StateGraph(
   // After generating the post for the first time, check if it's too long,
   // and if so, condense it. Otherwise, route to the human node.
   .addConditionalEdges("generatePost", condenseOrHumanConditionalEdge, [
-    "condensePost",
-    "findImagesSubGraph",
-    "humanNode",
-    END,
-  ])
-  // After condensing the post, we should verify again that the content is below the character limit.
-  // Once the post is below the character limit, we can find & filter images. This needs to happen after the post
-  // has been generated because the image validator requires the post content.
-  .addConditionalEdges("condensePost", condenseOrHumanConditionalEdge, [
-    "condensePost",
     "findImagesSubGraph",
     "humanNode",
     END,

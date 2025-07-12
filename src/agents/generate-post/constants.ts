@@ -101,3 +101,6 @@ export const TEXT_ONLY_MODE = "textOnlyMode";
 export const SKIP_CONTENT_RELEVANCY_CHECK = "skipContentRelevancyCheck";
 
 export const SKIP_USED_URLS_CHECK = "skipUsedUrlsCheck";
+
+// LLM Provider selection
+export const LLM_PROVIDER = "llmProvider";

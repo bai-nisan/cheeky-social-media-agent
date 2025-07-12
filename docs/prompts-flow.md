@@ -4,8 +4,51 @@ This document outlines all prompts used in the report and post generation workfl
 
 ## Overview
 
-The social media agent uses a multi-stage prompt pipeline:
+The social media agent uses a multi-stage prompt pipeline with two possible paths:
+
+**Traditional Path (Default):**
 1. **Content Ingestion** → 2. **Report Generation** → 3. **Post/Thread Generation** → 4. **Human Review** → 5. **Reflection & Learning**
+
+**Raw Content Path (Optional):**
+1. **Content Ingestion** → 2. **Post/Thread Generation** (using raw content) → 3. **Human Review** → 4. **Reflection & Learning**
+
+The raw content path can be enabled by setting `useRawContentForPost: true` in the configuration. This bypasses report generation and creates posts directly from the ingested content, useful when you have a clear post idea and want to skip the marketing analysis step.
+
+## LLM Provider Configuration
+
+The system supports multiple LLM providers for post generation:
+
+### Supported Providers
+- **Anthropic Claude** (default): Uses Claude Sonnet 4 for post generation
+- **OpenAI GPT**: Uses GPT-4o for post generation
+
+### Configuration
+Set the LLM provider via the `llmProvider` configurable parameter:
+- `"anthropic"` (default): Uses ChatAnthropic
+- `"openai"`: Uses ChatOpenAI
+
+### Environment Variables
+Configure model parameters via environment variables:
+
+**For OpenAI:**
+- `OPENAI_API_KEY`: Required API key
+- `OPENAI_MODEL`: Model name (default: "gpt-4o")
+- `OPENAI_TEMPERATURE`: Temperature setting (default: "0.5")
+
+**For Anthropic:**
+- `ANTHROPIC_API_KEY`: Required API key  
+- `ANTHROPIC_MODEL`: Model name (default: "claude-sonnet-4-20250514")
+- `ANTHROPIC_TEMPERATURE`: Temperature setting (default: "0.5")
+
+### Usage Example
+```typescript
+const config = {
+  configurable: {
+    llmProvider: "openai", // or "anthropic"
+    useRawContentForPost: true
+  }
+};
+```
 
 ## Report Generation Flow
 
@@ -54,13 +97,17 @@ The social media agent uses a multi-stage prompt pipeline:
 ### 3. Generate Social Media Post
 - **Location**: `src/agents/generate-post/nodes/generate-post/prompts.ts`
 - **Prompt**: `GENERATE_POST_PROMPT`
-- **Purpose**: Converts marketing reports into LinkedIn/Twitter posts
+- **Purpose**: Converts marketing reports OR raw content into LinkedIn/Twitter posts
 - **What it does**:
-  - Reads marketing report thoroughly
+  - **Traditional Mode**: Reads marketing report thoroughly and creates posts based on the analysis
+  - **Raw Content Mode**: Analyzes raw content directly and extracts key insights for post creation
   - Takes notes on engagement strategies (in `<thinking>` tags)
   - Creates a single post following specific structure (hook, body, call-to-action)
   - Keeps posts short, engaging, and developer-focused
   - Outputs wrapped in `<post>` tags
+- **Input Format**:
+  - Traditional: Content wrapped in `<report>` tags
+  - Raw Content: Content wrapped in `<content>` tags
 
 ## Thread Generation Flow
 

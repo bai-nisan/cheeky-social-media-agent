@@ -5,6 +5,7 @@ import {
   SKIP_CONTENT_RELEVANCY_CHECK,
   SKIP_USED_URLS_CHECK,
   TEXT_ONLY_MODE,
+  LLM_PROVIDER,
 } from "./constants.js";
 import { DateType } from "../types.js";
 import { VerifyLinksResultAnnotation } from "../verify-links/verify-links-state.js";
@@ -147,6 +148,19 @@ export const GeneratePostConfigurableAnnotation = Annotation.Root({
    * skip saving the URLs in the store.
    */
   [SKIP_USED_URLS_CHECK]: Annotation<boolean | undefined>(),
+  /**
+   * Whether to use raw content for post generation instead of generating a marketing report.
+   * When true, the generate-post node will create posts directly from the ingested raw content.
+   * @default true
+   */
+  useRawContentForPost: Annotation<boolean | undefined>({
+    reducer: (_state, update) => update,
+    default: () => true,
+  }),
+  /**
+   * The LLM provider to use for post generation.
+   */
+  [LLM_PROVIDER]: Annotation<string | undefined>(),
 });
 
 export const BASE_GENERATE_POST_CONFIG: typeof GeneratePostConfigurableAnnotation.State =
@@ -156,4 +170,6 @@ export const BASE_GENERATE_POST_CONFIG: typeof GeneratePostConfigurableAnnotatio
     origin: undefined,
     [SKIP_CONTENT_RELEVANCY_CHECK]: true,
     [SKIP_USED_URLS_CHECK]: undefined,
+    useRawContentForPost: true,
+    [LLM_PROVIDER]: undefined,
   };
