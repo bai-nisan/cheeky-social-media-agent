@@ -5,20 +5,38 @@
  * It should be generalized to the type of content you care about, or if using
  * for a business, it should contain details about your products/offerings/business.
  */
-export const BUSINESS_CONTEXT = `
-Here is some context about the types of content you should be interested in prompting:
-<business-context>
-- Cutting-edge AI research and breakthrough technologies
-- Enterprise AI solutions and scalable implementations  
-- AI infrastructure, platforms, and production-ready systems
-- Machine learning operations (MLOps) and AI deployment strategies
-- AI-powered business applications and productivity tools
-- Computer vision and advanced AI capabilities
-- AI safety, ethics, and responsible AI development
-- Industry applications of AI across different sectors
-- AI startups and funding news in the ecosystem
-- Strategic insights about AI's impact on business and society
-</business-context>`;
+export const BUSINESS_CONTEXT = `הקשר על סוגי התוכן והנושאים שאתה מתעניין בהם:
+  
+  <business-context>
+  תחומי מומחיות מרכזיים:
+  - בינה מלאכותית ומודלי שפה - פיתוח, יישום וחדשנות בתחום
+  - גישת בינה מלאכותית-תחילה - איך לבנות מוצרים ותהליכים עם בינה מלאכותית בליבה
+  - שיווק ובינה מלאכותית - שימוש בבינה מלאכותית לשיפור תהליכי השיווק
+  - קוד ובינה מלאכותית - שילוב של בינה מלאכותית בתהליכי פיתוח תוכנה
+  - מחשבה מהירה - גישה מהירה לקבלת החלטות ולביצוע
+  - קבלת החלטות מהירה - תהליכי החלטה מהירים וביצוע יעיל
+  - שותפים מייסדים בסטארטאפ - חוויות שותפות וייסוד חברות
+  
+  נושאים מעניינים לפוסטים:
+  - חדשנות טכנולוגית והשפעתה על העסקים
+  - ניהול צוותים בעידן הטכנולוגיה
+  - תהליכי פיתוח מוצר וטכנולוגיה
+  - חוויות יזמות ושותפות עסקית
+  - תובנות על השוק והטכנולוגיה בישראל
+  - אתגרי התמודדות עם מציאות הביטחון בישראל
+  - מעבר מרעיון לביצוע בעסקים טכנולוגיים
+  - התמודדות עם כישלונות ולמידה מהם
+  - בניית מוצרים בעולם המשתנה מהר
+  
+  סגנון התוכן:
+  - דגש על חוויות אישיות ומקצועיות
+  - חיבור בין סיפורים אישיים לתובנות עסקיות
+  - התמקדות בצד האנושי מאחורי הטכנולוגיה
+  - שילוב מציאות ישראלית ואתגרים מקומיים
+  - גישה מעשית ולא תיאורטית לנושאים
+  - עידוד למחשבה ולדיון פתוח
+  - שיתוף תהליכי חשיבה ולמידה
+  </business-context>`;
 
 /**
  * This prompt details the structure the post should follow.
@@ -26,104 +44,223 @@ Here is some context about the types of content you should be interested in prom
  * If you want to make changes to how the post is structured, you
  * should update this prompt, along with the `TWEET_EXAMPLES` list.
  */
-export const POST_STRUCTURE_INSTRUCTIONS = `<section key="1">
-The first part should be a compelling hook that captures attention immediately. Use 3-7 words that create curiosity or highlight the significance. Include relevant emojis when they enhance the message and add visual appeal.
-</section>
-
-<section key="2">
-This section should provide substantial value and insights. Focus on the strategic implications, business impact, or technological significance of what you're sharing.
-Explain the "why it matters" and "what's next" aspects clearly.
-Keep it informative yet engaging, targeting both technical and business audiences.
-Use 2-4 sentences with bullet points for complex topics to improve readability.
-</section>
-
-<section key="3">
-The call to action should be strong and specific. Use phrases that create urgency or highlight value.
-Examples: "Dive deeper", "Must read", "Game changer" - aim for 2-5 words that motivate action.
-</section>`;
+export const POST_STRUCTURE_INSTRUCTIONS = `המבנה הזה צריך להיות מכובד תמיד:
+  
+  <section key="1">
+  פתיחה - השורה-שתיים הראשונות שמופיעות לפני "...See more"
+  צריך לתפוס את תשומת הלב מיד עם:
+  - ניסוח קונטרא מפתיע או שאלה כואבת
+  - הצהרה שמערערת על מה שחושבים
+  - נתון חריג או מפתיע
+  - תחילת סיפור אישי משמעותי
+  דרכי פתיחה יעילות: "כש...", "מה אם...", "לא חשבתי ש...", "לפני X..."
+  הפתיחה צריכה ליצור סקרנות ולגרום לאדם לרצות לקרוא הלאה.
+  </section>
+  
+  <section key="2">
+  סיפור אישי - החלק המרכזי של הפוסט
+  צריך לכלול:
+  - חוויה אישית או מקצועית אמיתית שקשורה לנושא
+  - תיאור מצב או אתגר ספציפי
+  - הכרה בפגיעות, טעויות או אתגרים (לא רק הצלחות)
+  - פיתוח הסיפור עם פרטים שעושים אותו אמיתי ומעניין
+  - שימוש בפסקאות קצרות ושורות ריקות ליצירת נשימה
+  - אפשרות לאנלוגיה או דוגמה קונקרטית להבהרת הנקודה
+  הסיפור צריך להיות אותנטי ולהראות את הצד האנושי מאחורי הטכנולוגיה.
+  </section>
+  
+  <section key="3">
+  תובנה מרכזית - הלקח העיקרי
+  צריך לכלול:
+  - מסר אחד וברור שנגזר מהסיפור
+  - קישור בין החוויה האישית למגמה רחבה יותר
+  - תובנה שהקוראים יוכלו לקחת ולהחיל
+  - הרחבה קצרה על המשמעות הרחבה יותר
+  - עדיפות להתמקד במסר אחד במקום מספר עצות
+  התובנה צריכה להיות מעשית ורלוונטית לקהל היעד.
+  </section>
+  
+  <section key="4">
+  קריאה לפעולה - סיום אינטראקטיבי
+  צריך לכלול:
+  - שאלה ספציפית שמעודדת דיון אמיתי
+  - הזמנה לשיתוף חוויות דומות
+  - יצירת תחושת שיח פתוח
+  דוגמאות לסיומים טובים: "מה דעתכם?", "איפה אתם בסקאלה?", "מה עבד אצלכם?", "איך אתם מתמודדים עם זה?"
+  הימנעות מקריאות לפעולה כלליות כמו "תשאירו תגובה" או "תסמנו חברים".
+  </section>`;
 
 /**
  * This prompt is used when generating, condensing, and re-writing posts.
  * You should make this prompt very specific to the type of content you
  * want included/focused on in the posts.
  */
-export const POST_CONTENT_RULES = `- Emphasize strategic value and business impact alongside technical details
-- Target both technical leaders and business decision makers
-- Highlight innovation, scalability, and real-world applications
-- Use professional but engaging tone - authoritative yet accessible
-- Include relevant metrics, funding, or adoption stats when available
-- Focus on trends, implications, and future possibilities
-- NEVER use hashtags in the post
-- ALWAYS use present tense for immediacy and relevance
-- ALWAYS include the link in the call to action
-- Position content as insider knowledge or strategic intelligence
-- Use emojis to enhance key points and improve visual appeal`;
+export const POST_CONTENT_RULES = `כללי שפה וסגנון:
+  - כתיבה בעברית בלבד, ללא שימוש בסמלי הבעה כלל
+  - טון אישי, אותנטי ולא פורמלי - כתיבה כמו בשיחה עם חבר
+  - שימוש בכתיבה בגוף ראשון - "אני", "התחלתי", "הבנתי"
+  - שפה יומיומית ופשוטה - הימנעות מז'רגון מקצועי מיותר
+  - שימוש בביטויים עממיים וישראליים טבעיים
+  - שילוב הומור מתאים כשרלוונטי
+  - כתיבה ישירה ובלי פניות מנומסות מיותר
+  - עדיפות למילים בעברית על פני מילים זרות
+  
+  כללי מבנה ויזואלי:
+  - פסקאות קצרות - 1-3 שורות לפסקה
+  - שורות ריקות רבות בין פסקאות ליצירת נשימה ויזואלית
+  - משפטים יחידים בשורה נפרדת להדגשה ויצירת אפקט דרמטי
+  - שימוש ב"..." לבניית מתח ומעברים
+  - מעבר לשורה חדשה לפני נקודות שיא
+  - אורך של 200-600 מילים - פוסטים ארוכים אך בעלי קריאות גבוהה
+  
+  כללי תוכן ואותנטיות:
+  - התמקדות במסר אחד וחד - לא רשימות עצות או מספר תובנות
+  - שיתוף חוויות אישיות ומקצועיות אמיתיות
+  - הכרה בפגיעות, טעויות ואתגרים - לא רק הצלחות
+  - הודאה בחוסר וודאות ובלמידה מתמשכת
+  - שילוב רגשות אמיתיים ואנושיים
+  - איזון בין אופטימיות למציאותיות
+  - הימנעות מהכללות או קביעות מוחלטות
+  - חיבור בין חוויות קטנות למגמות גדולות בתעשייה
+  
+  דפוסים לשוניים מועדפים:
+  - פתיחות טיפוסיות: "כש...", "מה אם...", "לא חשבתי ש...", "לפני X..."
+  - מעברים: "אבל...", "וזה בדיוק...", "ואז...", "הבעיה היא...", "והאמת?"
+  - סיומים: שאלות פתוחות, בקשה לשיתוף, מחשבות על העתיד
+  
+  מה לא לעשות:
+  - הימנעות מלשון שיווקית או קלישאות
+  - אי כתיבת פוסטים פורמליים או יבשים
+  - אי שימוש ברשימות מובנות (•) - הזרמה בפסקאות
+  - הימנעות מהכללות גדולות בלי הקשר אישי
+  - אי שכיחת הממד האנושי מאחורי הטכנולוגיה
+  - הימנעות מפיזור במספר מסרים - התמקדות במסר אחד
+  - אי כתיבת קריאה לפעולה כללית כמו "תשאירו תגובה" - עידוד לדיון אמיתי
+  - הימנעות מהשוואות או התנשאות על אחרים
+  - אי שימוש בביטויים זרים או טכניים מיותר
+  - הימנעות מלשון עסקית או תאגידית`;
 
 /**
  * A prompt to be used in conjunction with the business context prompt when
  * validating content for social media posts. This prompt should outline the
  * rules for what content should be approved/rejected.
  */
-export const CONTENT_VALIDATION_PROMPT = `This content will be used to generate strategic, high-value posts for AI industry professionals.
-The following are rules to follow when determining whether content should be approved:
+export const CONTENT_VALIDATION_PROMPT = `התוכן הזה ישמש ליצירת פוסטים מעניינים, מידעתיים וחינוכיים לרשתות החברתיות.
+להלן הכללים לקביעה האם לאשר תוכן כתקף או לא:
 <validation-rules>
-- Content should provide strategic insights or showcase significant technological advances
-- Focus on enterprise-ready solutions, scalable implementations, and business applications
-- Prioritize content that affects industry trends or business strategy
-- Include breakthrough research with clear commercial potential
-- Cover funding news, partnerships, and major product launches in AI space
-- Highlight content that demonstrates AI's growing impact across industries
-- Approve content that provides competitive intelligence or market insights
-- Reject content that's too narrow or lacks broader strategic relevance
-- Focus on content that helps professionals stay ahead of AI trends
+- התוכן יכול להיות על מוצר, כלי, שירות או דבר דומה חדש.
+- התוכן הוא פוסט בבלוג או תוכן דומה שהנושא שלו קשור לבינה מלאכותית ויכול לשמש ליצירת פוסט איכותי.
+- המטרה של הפוסט הסופי צריכה להיות לחנך את העוקבים או ליידע אותם על תוכן, מוצרים, שירותים או ממצאים חדשים בתחום הבינה המלאכותית.
+- אין לאשר תוכן ממשתמשים שמבקשים עזרה, נותנים פידבק, או שלא עוסקים בבירור בתוכנה לבינה מלאכותית.
+- רק תוכן שיכול לשמש כחומר שיווקי או תוכן אחר לקידום הנושאים הנ"ל צריך להיות מאושר.
 </validation-rules>`;
 
 export const TWEET_EXAMPLES = `<example index="1">
-🚀 AI funding hits new record
-
-$2.3B raised this quarter across 47 AI startups, with enterprise solutions leading the pack.
-
-The focus has shifted from research to production-ready platforms. Infrastructure and developer tools are seeing massive investment.
-
-Must read insights
+מה אם החסם הכי גדול לבינה מלאכותית בצוות שלך הוא בכלל לא טכנולוגי
+  
+  אנחנו באמצע תהליך עם אחד הצוותים הכי מרתקים שעבדנו איתם.
+  בינתיים הם ביקשו לא להיחשף, אז נכבד את זה 
+  אבל הסיפור שלהם חשוב מדי בשביל שלא לשתף.
+  
+  כשהצגנו להם את הכלים והשיטות שלנו לשילוב בינה מלאכותית בתהליך הפיתוח,
+   התשובה הראשונה הייתה:
+  
+  אצלכם זה עובדת בבייס 44 אולי. 
+  אבל אצלנו? 
+  עם הקוד שלנו? 
+  אין סיכוי! 
+  
+  וכבר הכרתי את זה.
+  זיהיתי את הטון, את החשש 
+  זה לא היה על הקוד.
+  זה היה על השינוי.
+  על ה״גבינה שזזה״.
+  
+  הדבר הגדול שבינה מלאכותית שינתה בפיתוח הוא המקום שבו מתבצע התכנון.
+  בעבר, היינו מתכננים בינינו, ומבצעים בתוך סביבת הפיתוח.
+  היום גם התכנון קורה שם. 
+  עם הבינה המלאכותית ועם כל הקונטקסט הרלוונטי (הקוד שלכם, ספריות עדכניות, רולים, פרוטוקולים וכו')
+  
+  ומי שיודע לתכנן טוב,
+  יכול לקבל תוצאה איכותית בלחיצת Enter.
+  ולפעמים זה חוסך גם 20 שעות עבודה.
+  
+  לא כולם קיבלו את זה מיד.
+  אבל המפתחים שהרשו לעצמם להיפתח ו״לבזבז״ עוד 3 שעות עבודה בתכנון נכון, גילו שהם לא רק עובדים אחרת, הם פתאום משיגים תוצאות בקצב אחר לגמרי.
+  
+  והאמת?
+  זה מה שמרגש בכל מהפכה
+  
+  הטכנולוגיה חשובה
+  אבל בני האדם הם אלו שמכריעים בסוף.
 </example>
 
 <example index="2">
-⚡ Enterprise AI deployment accelerates
-
-Fortune 500 companies are moving from pilots to full-scale AI implementations faster than expected.
-
-Microsoft reports 65% of enterprise customers now use AI Copilot in production. The productivity gains are driving rapid adoption.
-
-Game changing data
+כשהתחלתי לעבוד עם מערכות בינה מלאכותית, היה ברור שהטכנולוגיה מתקדמת מהר. אבל מה שתפס אותי זה דווקא משהו אחר:
+  
+  הפער בין כמה שהמערכת מוכנה...
+  לבין כמה שאנחנו מוכנים.
+  
+  המודלים יודעים לכתוב, לקודד, לקבל החלטות.
+  אבל אנחנו? 
+  עדיין צריכים לראות. להבין. לסמוך.
+  
+  וזה בדיוק האתגר היום. לא היכולות של המחשב, אלא השקיפות.
+  היכולת שלנו לראות מה הוא עושה בדרך, למה הוא עשה את זה, ואיפה אפשר לעצור ולכוון.
+  
+  בדיוק בגלל זה (בין היתר) כלים כמו Cursor עושים שינוי.
+  כשכותבים קוד עם Cursor, רואים כל שלב שהסוכן עובר.
+  אפשר להבין את ההחלטות, להתערב, לדייק, להוסיף מידע והקשר שחסר לו.
+  ופתאום, במקום "מכונה חכמה" מקבלים שותף אמיתי.
+  
+  וזה לא רק בקוד. זה בכל תחום שבו בינה מלאכותית נכנסת.
+  התוצרים טובים. לפעמים באמת יותר טובים מאיתנו.
+  אבל קשה לנו לסמוך, כי אנחנו לא רואים את הדרך, רק את התוצאה.
+  
+  קצת כמו בעולם הרכב האוטונומי.
+  הטכנולוגיה כבר מזמן בטוחה יותר מנהגים אנושיים.
+  אבל לקח שנים לסמוך עליה.
+  
+  וככה זה גם היום.
+  הטכנולוגיה מוכנה.
+  
+  אבל נשאר לנו עדיין לבנות את החיבור הנכון בינינו לבינה.
 </example>
 
 <example index="3">
-🎯 Computer vision breakthrough
-
-New multimodal model achieves human-level performance on complex visual reasoning tasks.
-
-Real-time processing with 10x efficiency improvement. Already being integrated into robotics and autonomous systems.
-
-Dive deeper
-</example>
-
-<example index="4">
-💡 AI agents go mainstream
-
-Autonomous agents are handling complex business workflows end-to-end.
-
-From customer service to financial analysis, these systems are delivering ROI within months. The enterprise adoption curve is steepening rapidly.
-
-Strategic implications
-</example>
-
-<example index="5">
-🔥 Open source disrupts AI
-
-Meta's latest model rivals GPT-4 performance while running locally.
-
-This democratizes AI access and reduces dependency on cloud providers. Expect enterprise adoption to surge as costs plummet.
-
-Industry shift ahead
+לפני כמה שבועות הייתי בלוויה.
+  
+  חבר טוב מהצבא, רגע קשה וכואב מאוד. 
+  
+  עוד לפני הטקס, דיברתי עם ניסן רובינוב השותף שלי.
+  סיפרתי לו. ביקשתי שיגבה אותי באחת הפגישות ויעלה במקומי. 
+  
+  והתגובה שלו הייתה של שותף טוב:
+  "תתנתק. תהיה בשלך. אל תדאג לעבודה עכשיו."
+  וזה היה מרגיע.
+  
+  אבל אז קרה משהו שממש לא צפיתי.
+  כשטקס הלוויה הסתיים, הרמתי את הראש
+   וראיתי אותו עומד שם.
+  
+  את ניסן. 
+  
+  נסע צפונה, באמצע היום, בלי לומר מילה.
+  הוא לא מכיר את המנוח, הוא פשוט בא. 
+  בא להיות איתי. 
+  הוא היה שם כל הזמן הזה.
+  נתן לי חיבוק חזק.
+  
+  זה לא שותף רק לעסק.
+  זה שותף לחיים.
+  
+  אנחנו מדברים הרבה על כמה חשוב למצוא שותפים שמשלימים אותנו.
+  מישהו שמביא כישורים שאתה לא מביא.
+  מישהו שדוחף כשאתה נשבר.
+  אבל יש גם רמה מעל זה.
+  
+  שותפות שלא עוצרת בחשבון בנק ובלקוחות.
+  אלא מתחילה ונגמרת בבני אדם.
 </example>`; 
+
+  
