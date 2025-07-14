@@ -25,18 +25,14 @@ A sharp hook (1–2 lines) highlighting a surprising data point, painful questio
 </section>
 
 <section key="2">
-TL;DR — start with the post *type* in square brackets (e.g. [Tip], [Opinion], [Future Thought]) followed by one concise sentence summarising the post.
+Main story: free-length narrative of the subject (can be a full LinkedIn post).
 </section>
 
 <section key="3">
-Main story: free-length narrative of the subject (can be a full LinkedIn post or a multi-tweet thread).
-</section>
-
-<section key="4">
 Takeaway: one sentence distilling the practical value for the reader.
 </section>
 
-<section key="5">
+<section key="4">
 CTA: a specific question that invites comments (e.g. "What’s your take on this approach?").
 </section>`;
 

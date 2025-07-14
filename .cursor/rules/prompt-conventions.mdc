@@ -1,0 +1,76 @@
+---
+description: Prompt conventions, best practices, and configuration patterns
+globs: **/prompts.ts,**/prompts/**,**/*prompts*.ts
+alwaysApply: false
+---
+# Prompt Conventions and Best Practices
+
+## Output Structure Conventions
+
+### XML Tag Wrapping
+- **Reports**: Wrap output in `<report>` tags
+- **Posts**: Wrap output in `<post>` tags  
+- **Thinking**: Use `<thinking>` tags for AI reasoning/notes
+- **Total Posts**: Use `<total-posts>` tags for thread counts
+
+### Content Structure Standards
+- **Post Format**: 5-word hook + 3-sentence body + 3-6 word call-to-action
+- **Thread Format**: 3-10 posts targeting AI enthusiasts and developers
+- **Report Format**: 3-part (introduction, business context, additional details) or 4-part (O1 model with extra details section)
+
+## Content Guidelines
+
+### Target Audience & Topics
+- **Focus Areas**: AI applications, agents, RAG, multi-modal AI, voice agents, computer use
+- **Audience**: Developers, AI enthusiasts, technical professionals
+- **Tone**: Casual, present tense, developer-focused
+
+### Style Rules
+- **Emojis**: Limited use, not excessive
+- **Hashtags**: Avoid using hashtags
+- **Voice**: Present tense, conversational
+- **Length**: Keep posts concise and engaging
+
+## Configuration Patterns
+
+### LLM Provider Configuration
+```typescript
+const config = {
+  configurable: {
+    llmProvider: "anthropic" | "openai", // Default: "anthropic"
+    useRawContentForPost: boolean        // Default: false
+  }
+};
+```
+
+### Environment Variables
+- **OpenAI**: `OPENAI_API_KEY`, `OPENAI_MODEL`, `OPENAI_TEMPERATURE`
+- **Anthropic**: `ANTHROPIC_API_KEY`, `ANTHROPIC_MODEL`, `ANTHROPIC_TEMPERATURE`
+
+## Prompt Switching Mechanisms
+
+### Default vs LangChain Prompts
+- **Default Prompts**: [src/agents/generate-post/prompts/index.ts](mdc:src/agents/generate-post/prompts/index.ts)
+- **LangChain Prompts**: [src/agents/generate-post/prompts/prompts.langchain.ts](mdc:src/agents/generate-post/prompts/prompts.langchain.ts)
+- **Switching**: Through main prompts configuration for different target audiences
+
+### Path Selection
+- **Traditional Path**: Content → Report → Post/Thread
+- **Raw Content Path**: Content → Post/Thread (enabled with `useRawContentForPost: true`)
+
+## Best Practices
+
+### Content Processing
+- **Traditional Mode**: Use marketing report analysis for post creation
+- **Raw Content Mode**: Extract key insights directly from source content
+- **O1 Model Path**: Pre-extract key details before report generation
+
+### Learning Integration
+- **Reflection**: Analyze user feedback patterns for continuous improvement
+- **Rule Updates**: Integrate new rules while removing conflicts and duplicates
+- **Examples**: Maintain 16 real post examples for consistent style reference
+
+### Decision Making
+- **Post vs Thread**: New products/papers → threads; smaller features → single posts
+- **Content Grouping**: Group related tweets by topic for batch processing
+- **Validation**: Apply relevance criteria based on AI applications and business context

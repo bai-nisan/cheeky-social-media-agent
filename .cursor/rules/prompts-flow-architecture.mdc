@@ -1,0 +1,30 @@
+---
+alwaysApply: true
+description: Understanding the prompts flow architecture and pipeline structure
+---
+
+# Prompts Flow Architecture
+
+The social media agent uses a multi-stage prompt pipeline with **two possible paths**:
+
+## Pipeline Paths
+
+**Traditional Path (Default):**
+1. Content Ingestion → 2. Report Generation → 3. Post/Thread Generation → 4. Human Review → 5. Reflection & Learning
+
+**Raw Content Path (Optional):**
+1. Content Ingestion → 2. Post/Thread Generation (using raw content) → 3. Human Review → 4. Reflection & Learning
+
+- Enable raw content path with `useRawContentForPost: true` in configuration
+- Raw content path bypasses report generation for direct post creation
+- Useful when you have clear post ideas and want to skip marketing analysis
+
+## LLM Provider Support
+
+The system supports multiple LLM providers:
+- **Anthropic Claude** (default): Claude Sonnet 4
+- **OpenAI GPT**: GPT-4o
+
+Configure via `llmProvider` parameter (`"anthropic"` or `"openai"`) and respective environment variables for API keys, models, and temperature settings.
+
+For detailed prompts documentation, see [docs/prompts-flow.md](mdc:docs/prompts-flow.md).

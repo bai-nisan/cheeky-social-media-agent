@@ -1,0 +1,37 @@
+---
+description: Navigate and understand prompt locations and organization
+globs: **/prompts.ts,**/prompts/**,**/*prompts*.ts
+alwaysApply: false
+---
+# Prompt Locations and Organization
+
+## Core Prompt Locations
+
+### Report Generation
+- [src/agents/generate-report/prompts.ts](mdc:src/agents/generate-report/prompts.ts) - `EXTRACT_KEY_DETAILS_PROMPT`, `GENERATE_REPORT_PROMPT_O1`
+- [src/agents/generate-post/nodes/generate-report/prompts.ts](mdc:src/agents/generate-post/nodes/generate-report/prompts.ts) - `GENERATE_REPORT_PROMPT`
+
+### Post Generation
+- [src/agents/generate-post/prompts/index.ts](mdc:src/agents/generate-post/prompts/index.ts) - Core business context, structure, and content rules
+- [src/agents/generate-post/prompts/examples.ts](mdc:src/agents/generate-post/prompts/examples.ts) - 16 real post examples for style reference
+- [src/agents/generate-post/nodes/generate-post/prompts.ts](mdc:src/agents/generate-post/nodes/generate-post/prompts.ts) - `GENERATE_POST_PROMPT`
+- [src/agents/generate-post/prompts/prompts.langchain.ts](mdc:src/agents/generate-post/prompts/prompts.langchain.ts) - LangChain-specific prompts
+
+### Thread Generation
+- [src/agents/generate-thread/nodes/generate-thread-plan.ts](mdc:src/agents/generate-thread/nodes/generate-thread-plan.ts) - Thread planning
+- [src/agents/generate-thread/nodes/generate-thread-posts.ts](mdc:src/agents/generate-thread/nodes/generate-thread-posts.ts) - Individual tweet generation
+- [src/agents/generate-thread/nodes/rewrite-thread.ts](mdc:src/agents/generate-thread/nodes/rewrite-thread.ts) - Thread editing based on feedback
+
+### Supporting Prompts
+- [src/agents/curate-data/nodes/tweets/prompts.ts](mdc:src/agents/curate-data/nodes/tweets/prompts.ts) - Tweet grouping
+- [src/agents/supervisor/nodes/group-reports.ts](mdc:src/agents/supervisor/nodes/group-reports.ts) - Report similarity detection
+- [src/agents/supervisor/nodes/determine-post-type.ts](mdc:src/agents/supervisor/nodes/determine-post-type.ts) - Post vs thread decision
+- [src/agents/reflection/prompts.ts](mdc:src/agents/reflection/prompts.ts) - Learning and rule updates
+
+## Prompt Conventions
+
+- Prompts use structured output with XML tags (`<report>`, `<post>`, `<thinking>`)
+- Business context focuses on AI applications, agents, RAG, multi-modal AI
+- Post structure: 5-word hook + 3-sentence body + 3-6 word call-to-action
+- Style: casual, present tense, minimal emojis, developer-focused
+- Thread format: 3-10 posts targeting AI enthusiasts and developers

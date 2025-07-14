@@ -1,0 +1,74 @@
+---
+description: Understanding the different generation flows and their purposes
+globs: **/generate-thread/**,**/generate-post/**,**/generate-report/**
+alwaysApply: false
+---
+# Generation Flows and Processes
+
+## Report Generation Flow
+
+### Traditional Report Generation
+1. **Extract Key Details** (Optional O1 path) - Pre-processes content to extract technical details
+2. **Generate Marketing Report** - Transforms raw content into structured 3-part marketing reports
+   - Introduction, business context relation, additional details
+   - Focuses on technical details for developer audience
+   - Outputs markdown wrapped in `<report>` tags
+
+### Alternative O1 Model Path
+- Uses pre-extracted key details as emphasis points
+- Creates 4-part report with extra section for additional details
+- Located in [src/agents/generate-report/prompts.ts](mdc:src/agents/generate-report/prompts.ts)
+
+## Post Generation Flow
+
+### 1. Business Context & Rules Setup
+- **Business Context**: Defines target content (AI applications, agents, RAG, etc.)
+- **Structure Instructions**: 5-word hook + 3-sentence body + 3-6 word call-to-action
+- **Content Rules**: Casual tone, present tense, no hashtags, limited emojis
+- **Validation**: Relevance criteria for AI applications and business context
+
+### 2. Style Reference
+- Uses 16 real post examples from [src/agents/generate-post/prompts/examples.ts](mdc:src/agents/generate-post/prompts/examples.ts)
+- Provides style reference for AI to emulate
+
+### 3. Post Generation Modes
+- **Traditional Mode**: Reads marketing report and creates posts based on analysis
+- **Raw Content Mode**: Analyzes raw content directly for key insights
+- Takes notes on engagement strategies in `<thinking>` tags
+- Outputs wrapped in `<post>` tags
+
+## Thread Generation Flow
+
+### 1. Plan Thread Structure
+- Creates detailed outline with intro, body sections, conclusion
+- Designs 3-10 post threads targeting AI enthusiasts and developers
+- Outputs total post count in `<total-posts>` tags
+
+### 2. Generate Individual Posts
+- **First Post**: Engaging hook/intro under 280 characters
+- **Body Posts**: Maintains coherence and flow with previous posts
+- **Final Post**: Conclusion with call-to-action and summary
+- **Style Rules**: Tweet formatting guidelines for readability
+
+### 3. Thread Rewriting
+- Edits threads based on user feedback while maintaining structure
+- Reviews original thread and plan
+- Applies user-requested changes with reflections/rules in mind
+
+## Supporting Generation Features
+
+### Content Curation
+- Groups tweets by topic (new models/tools, UI/UX patterns, prompting strategies)
+- Allows tweets in multiple groups
+- Identifies specific products/tools mentioned
+
+### Supervisor Decision Making
+- **Report Grouping**: Identifies related reports for thread creation potential
+- **Post Type Decision**: Analyzes complexity and interest level
+  - New products/papers → threads
+  - Smaller features → single posts
+
+### Learning & Reflection
+- **Reflection**: Analyzes user feedback patterns, compares original vs revised posts
+- **Rule Updates**: Integrates new rules, combines similar rules, removes conflicts
+- Enables continuous improvement based on human feedback
