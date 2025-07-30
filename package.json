@@ -32,7 +32,9 @@
     "get:used_links": "yarn tsx scripts/get-all-used-links.ts",
     "graph:delete:run_thread": "yarn tsx scripts/delete-run-thread.ts",
     "langgraph:up": "langgraph up --watch --port 54367",
-    "langgraph:in_mem:up": "npx @langchain/langgraph-cli dev --port 54367"
+    "langgraph:in_mem:up": "npx @langchain/langgraph-cli dev --port 54367",
+    "twitter:search": "yarn tsx scripts/twitter-search.ts",
+    "twitter:post": "yarn tsx scripts/twitter-post.ts"
   },
   "dependencies": {
     "@arcadeai/arcadejs": "^1.0.0",
@@ -52,7 +54,7 @@
     "cheerio": "^1.0.0",
     "date-fns": "^4.1.0",
     "date-fns-tz": "^3.2.0",
-    "dotenv": "^16.4.7",
+    "dotenv": "^17.2.1",
     "express": "^4.21.2",
     "express-session": "^1.18.1",
     "file-type": "^19.6.0",
@@ -63,7 +65,7 @@
     "passport-twitter": "^1.0.4",
     "playwright": "^1.49.1",
     "snoowrap": "^1.23.0",
-    "twitter-api-v2": "^1.18.2",
+    "twitter-api-v2": "^1.24.0",
     "uuid": "^11.0.4",
     "xml2js": "^0.6.2",
     "zod": "^3.23.8"
