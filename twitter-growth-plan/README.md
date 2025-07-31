@@ -61,6 +61,9 @@ Strategic plan for growing Twitter (X) presence and engagement to build thought 
 - [ ] Curated industry news with commentary
 - [ ] Engagement with other thought leaders
 
+### Future Context Enhancement
+- [ ] **Archive Integration**: Add many previous posts to AI context for better content consistency and style understanding
+
 ## Posting Strategy
 
 ### Frequency & Timing

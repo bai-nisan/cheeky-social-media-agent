@@ -34,7 +34,15 @@
     "langgraph:up": "langgraph up --watch --port 54367",
     "langgraph:in_mem:up": "npx @langchain/langgraph-cli dev --port 54367",
     "twitter:search": "yarn tsx scripts/twitter-search.ts",
-    "twitter:post": "yarn tsx scripts/twitter-post.ts"
+    "twitter:post": "yarn tsx scripts/twitter-post.ts",
+    "reply:search": "yarn tsx scripts/enhanced-reply-search.ts",
+    "reply:view": "yarn tsx scripts/view-reply-opportunities.ts",
+    "reply:generate": "yarn tsx scripts/generate-reply.ts",
+    "reply:signal": "yarn tsx scripts/view-reply-opportunities.ts signal",
+    "reply:fresh": "yarn tsx scripts/view-reply-opportunities.ts fresh",
+    "reply:dillion": "yarn tsx scripts/view-reply-opportunities.ts dillion",
+    "reply:high": "yarn tsx scripts/view-reply-opportunities.ts high",
+    "daily:replies": "yarn reply:search && yarn reply:signal"
   },
   "dependencies": {
     "@arcadeai/arcadejs": "^1.0.0",

@@ -1,0 +1,38 @@
+{
+  "name": "linkedin-growth-plan",
+  "version": "1.0.0",
+  "description": "LinkedIn growth automation and content management tools for Hebrew AI thought leadership",
+  "main": "index.js",
+  "scripts": {
+    "metricool:brands": "cd .. && yarn tsx linkedin-growth-plan/scripts/metricool-client.ts brands",
+    "metricool:analytics": "cd .. && yarn tsx linkedin-growth-plan/scripts/metricool-client.ts analytics",
+    "metricool:posts": "cd .. && yarn tsx linkedin-growth-plan/scripts/metricool-client.ts posts",
+    "metricool:followers": "cd .. && yarn tsx linkedin-growth-plan/scripts/metricool-client.ts followers",
+    "template:content": "cd .. && yarn tsx linkedin-growth-plan/scripts/content-template-helper.ts",
+    "track:performance": "cd .. && yarn tsx linkedin-growth-plan/scripts/performance-tracker.ts",
+    "habits:weekly": "cd .. && yarn tsx linkedin-growth-plan/scripts/weekly-habits-reminder.ts"
+  },
+  "keywords": [
+    "linkedin",
+    "growth",
+    "ai",
+    "marketing",
+    "hebrew",
+    "automation",
+    "social-media",
+    "content-strategy"
+  ],
+  "author": "Gal Kimron",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.15.1",
+    "tsx": "^4.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galkimron/cheeky-social-media-agent"
+  }
+} 
