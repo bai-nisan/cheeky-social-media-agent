@@ -1,7 +1,7 @@
 {
   "generated_at": "2025-07-30T20:19:49.469Z",
-  "count": 1,
-  "note": "Limited functionality due to API restrictions. Manual checking required.",
+  "last_updated": "2025-07-30T22:36:43.061Z",
+  "total_count": 37,
   "opportunities": [
     {
       "id": "manual_check_1753906788075_paulroetzer",
@@ -13,6 +13,768 @@
         "manual_check": true
       },
       "relevance_reason": "Priority account with 20935 followers"
+    },
+    {
+      "id": "1950661017211691236",
+      "url": "https://x.com/dillionverma/status/1950661017211691236",
+      "text": "one is real and one is AI\n\nwhich one is real? https://t.co/llQPV4jXBe",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T20:53:22.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 7,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 572
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share relevant insights from your AI development, marketing, agents, or vibe work",
+      "hours_old": 1,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950626874654392391",
+      "url": "https://x.com/i/web/status/1950626874654392391",
+      "text": "RT @ARKInvest: As AI tools reduce development costs and boost productivity, traditional software moats may erode. We believe fast-shipping…",
+      "author_username": "annie_lee08",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T18:37:42.000Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 3,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950612721197809745",
+      "url": "https://x.com/i/web/status/1950612721197809745",
+      "text": "@2soisjjajk29103 @rob_mcrobberson People in AI see its limits firsthand: it excels at narrow tasks but struggles with creativity, context, and real-world complexity. AI augments jobs, boosting productivity and creating new roles in development, ethics, and oversight. History shows tech shifts net more jobs—think",
+      "author_username": "grok",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T17:41:28.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 5
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 4,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950612446172885302",
+      "url": "https://x.com/i/web/status/1950612446172885302",
+      "text": "@shl When AI handles repetitive tasks, we can focus on creativity and strategy, but it also means adjusting how we define productivity in development, what do you think?",
+      "author_username": "lukaszstarosta",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T17:40:22.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 22
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 4,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950607825761124572",
+      "url": "https://x.com/i/web/status/1950607825761124572",
+      "text": "Maximize ML productivity by automating entire development workflows, allowing teams to deliver impactful AI products rapidly. #NEO_ML_Engineer",
+      "author_username": "itzkundannn",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T17:22:00.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 4,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950606721459577064",
+      "url": "https://x.com/dillionverma/status/1950606721459577064",
+      "text": "RT @MattEspoz: Clover Labs is the fastest growing startup in Canada ever.\n\n$0 -&gt; $1M ARR (annual revenue run rate) in just 42 days\n\n1/ Here…",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T17:17:37.000Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share relevant insights from your AI development, marketing, agents, or vibe work",
+      "hours_old": 4,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950574690596159710",
+      "url": "https://x.com/dillionverma/status/1950574690596159710",
+      "text": "RT @dillionverma: i still find it very hard to describe to people what i do",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T15:10:20.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share relevant insights from your AI development, marketing, agents, or vibe work",
+      "hours_old": 6,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950566824023588920",
+      "url": "https://x.com/dillionverma/status/1950566824023588920",
+      "text": "new setup changes:\n- asus 32” 4K OLED 240hz monitor usb-c\n- sony a6400 DSLR webcam + sigma 16mm f1.4 lens for video calls\n- autonomous ergo chair ultra 2\n- amazon microphone arm\n- slightly better cable management https://t.co/K28iwxQmN2",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T14:39:05.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 1121
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share insights from building AI agents and automation systems",
+      "hours_old": 7,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950539643663024593",
+      "url": "https://x.com/dillionverma/status/1950539643663024593",
+      "text": "RT @dillionverma: you can just prompt realistic tiktoks now https://t.co/SkDdYaukJ3",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T12:51:04.000Z",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share your AI development tools and prompt engineering expertise",
+      "hours_old": 9,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950510787728212362",
+      "url": "https://x.com/dillionverma/status/1950510787728212362",
+      "text": "check it out here and use code ULT2DL for 5% off\n\nhttps://t.co/zMZ63SVzt3",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T10:56:25.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 239
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share relevant insights from your AI development, marketing, agents, or vibe work",
+      "hours_old": 11,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950510775887638693",
+      "url": "https://x.com/dillionverma/status/1950510775887638693",
+      "text": "recently got the ErgoChair Ultra 2 by autonomous and it has been incredible so far\n\nit was delivered in 2 days (in canada 🇨🇦) and took around 25 minutes to setup\n\n2 things i instantly noticed was i'm a huge fan of the lower back support and the padded seat cushion is very comfy",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T10:56:22.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 250
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share insights from building AI agents and automation systems",
+      "hours_old": 11,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950510763908723134",
+      "url": "https://x.com/dillionverma/status/1950510763908723134",
+      "text": "finally upgraded my desk setup\n\nshoutout @autonomous_labs for the chair 🔥 https://t.co/BGYe6ySPhm",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T10:56:19.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1451
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share insights from building AI agents and automation systems",
+      "hours_old": 11,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950392405683007572",
+      "url": "https://x.com/dillionverma/status/1950392405683007572",
+      "text": "i still find it very hard to describe to people what i do",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T03:06:00.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1868
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share relevant insights from your AI development, marketing, agents, or vibe work",
+      "hours_old": 19,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950358201612062818",
+      "url": "https://x.com/dillionverma/status/1950358201612062818",
+      "text": "you can just prompt realistic tiktoks now https://t.co/SkDdYaukJ3",
+      "author_username": "dillionverma",
+      "author_category": "AI Developer Priority",
+      "created_at": "2025-07-30T00:50:05.000Z",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 27,
+        "quote_count": 0,
+        "bookmark_count": 14,
+        "impression_count": 1569
+      },
+      "relevance_reason": "TOP PRIORITY - AI development and building tools - Score: 10/10",
+      "relevance_score": 10,
+      "reply_angle": "Share your AI development tools and prompt engineering expertise",
+      "hours_old": 21,
+      "source_type": "signal_booster"
+    },
+    {
+      "id": "1950593769948201466",
+      "url": "https://x.com/i/web/status/1950593769948201466",
+      "text": "RT @WesRothMoney: Jensen Huang explains that AI boosts company productivity by eliminating mundane tasks, allowing teams to focus on creati…",
+      "author_username": "KamranRawaha",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T16:26:09.000Z",
+      "public_metrics": {
+        "retweet_count": 24,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 5,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950568895519326357",
+      "url": "https://x.com/i/web/status/1950568895519326357",
+      "text": "🪁 Kite AI is soaring high—automating tasks, boosting productivity, and helping devs focus on what really matters: building!\nSmarter workflows, faster results.\n@GoKiteAI\nThe future of AI-powered development is flying with Kite. 🚀 #KiteAI #AItools #Productivity",
+      "author_username": "Soumen948230428",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T14:47:19.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 8
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 6,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950564572785418746",
+      "url": "https://x.com/paulroetzer/status/1950564572785418746",
+      "text": "RT @AIatMeta: Today Mark shared Meta’s vision for the future of personal superintelligence for everyone. \nRead his full letter here: https:…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-30T14:30:08.000Z",
+      "public_metrics": {
+        "retweet_count": 620,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Connect to your AI marketing automation experience",
+      "hours_old": 7,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1950558141923705148",
+      "url": "https://x.com/i/web/status/1950558141923705148",
+      "text": "RT @ARKInvest: As AI tools reduce development costs and boost productivity, traditional software moats may erode. We believe fast-shipping…",
+      "author_username": "tarlano",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T14:04:35.000Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 7,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950548044841447733",
+      "url": "https://x.com/i/web/status/1950548044841447733",
+      "text": "RT @ARKInvest: As AI tools reduce development costs and boost productivity, traditional software moats may erode. We believe fast-shipping…",
+      "author_username": "TheThinker7789",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T13:24:27.000Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 8,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950541938752442689",
+      "url": "https://x.com/i/web/status/1950541938752442689",
+      "text": "RT @ARKInvest: As AI tools reduce development costs and boost productivity, traditional software moats may erode. We believe fast-shipping…",
+      "author_username": "Sherry097344271",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T13:00:12.000Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 8,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950541564897562806",
+      "url": "https://x.com/i/web/status/1950541564897562806",
+      "text": "RT @ARKInvest: As AI tools reduce development costs and boost productivity, traditional software moats may erode. We believe fast-shipping…",
+      "author_username": "cryptoFXtonyS",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T12:58:43.000Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 8,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950541235380178954",
+      "url": "https://x.com/i/web/status/1950541235380178954",
+      "text": "RT @ARKInvest: As AI tools reduce development costs and boost productivity, traditional software moats may erode. We believe fast-shipping…",
+      "author_username": "ARKInvest",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T12:57:24.000Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 8,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950351308529033688",
+      "url": "https://x.com/paulroetzer/status/1950351308529033688",
+      "text": "RT @ENERGY: The @WhiteHouse is launching a Presidential AI challenge to foster the greatest AI projects across the country to propel our Na…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-30T00:22:42.000Z",
+      "public_metrics": {
+        "retweet_count": 197,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 9/10",
+      "relevance_score": 9,
+      "reply_angle": "Share how you've solved similar issues with AI tools",
+      "hours_old": 21,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1950619539856929081",
+      "url": "https://x.com/i/web/status/1950619539856929081",
+      "text": "Elevate your DevOps with an ecosystem that fosters learning, innovation, and efficient work practices. From AI to Developer Playbooks, we dive into it all in our latest write-up! 📚#DevOpsCulture #TechnologyInnovation #AI\n\nhttps://t.co/cGBRMESTTQ",
+      "author_username": "ADevoops",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T18:08:33.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 7
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 8/10",
+      "relevance_score": 8,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 3,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950597693883236528",
+      "url": "https://x.com/i/web/status/1950597693883236528",
+      "text": "RT @StackOverflow: Agentic AI has been the talk of the town, and from our 2025 Developer Survey it's easy to see why. 70% of developers who…",
+      "author_username": "mrdj1968",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T16:41:45.000Z",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 8/10",
+      "relevance_score": 8,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 5,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950592444585632246",
+      "url": "https://x.com/i/web/status/1950592444585632246",
+      "text": "RT @StackOverflow: Agentic AI has been the talk of the town, and from our 2025 Developer Survey it's easy to see why. 70% of developers who…",
+      "author_username": "felipefebl",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T16:20:53.000Z",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 8/10",
+      "relevance_score": 8,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 5,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950575851520872683",
+      "url": "https://x.com/i/web/status/1950575851520872683",
+      "text": "RT @StackOverflow: Agentic AI has been the talk of the town, and from our 2025 Developer Survey it's easy to see why. 70% of developers who…",
+      "author_username": "artale93",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T15:14:57.000Z",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "Developer productivity with AI tools - Score: 8/10",
+      "relevance_score": 8,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 6,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950246093088034823",
+      "url": "https://x.com/paulroetzer/status/1950246093088034823",
+      "text": "RT @OpenAI: As ChatGPT becomes a go-to tool for students, we’re committed to ensuring it fosters deeper understanding and learning.\n\nIntrod…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-29T17:24:37.000Z",
+      "public_metrics": {
+        "retweet_count": 1415,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 8/10",
+      "relevance_score": 8,
+      "reply_angle": "Share your Cursor/AI development experience",
+      "hours_old": 28,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1949934315640652227",
+      "url": "https://x.com/paulroetzer/status/1949934315640652227",
+      "text": "RT @satyanadella: Today we’re introducing Copilot Mode in Edge, our first step in reinventing the browser for the AI age.\n\nMy favorite feat…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-28T20:45:43.000Z",
+      "public_metrics": {
+        "retweet_count": 712,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 8/10",
+      "relevance_score": 8,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 48,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1950283180461994410",
+      "url": "https://x.com/paulroetzer/status/1950283180461994410",
+      "text": "RT @simonw: The new ChatGPT \"study mode\" feature appears to be entirely implemented as a carefully crafted system prompt - thankfully OpenA…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-29T19:51:59.000Z",
+      "public_metrics": {
+        "retweet_count": 157,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 7/10",
+      "relevance_score": 7,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 25,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1950258376132481376",
+      "url": "https://x.com/paulroetzer/status/1950258376132481376",
+      "text": "RT @NotebookLM: Oh, you thought that was it? In addition to our new look we've got some new tricks too:\n\n🎉 VIDEO OVERVIEWS are starting rol…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-29T18:13:25.000Z",
+      "public_metrics": {
+        "retweet_count": 432,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 7/10",
+      "relevance_score": 7,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 27,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1949944297022779687",
+      "url": "https://x.com/paulroetzer/status/1949944297022779687",
+      "text": "RT @ednewtonrex: IMAX’s announcement that they’re showing an AI film festival going about as well as expected (read the comments, they are…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-28T21:25:23.000Z",
+      "public_metrics": {
+        "retweet_count": 85,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 7/10",
+      "relevance_score": 7,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 48,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1950671632999030952",
+      "url": "https://x.com/i/web/status/1950671632999030952",
+      "text": "RT @djordxc: Bby, the age of anti-intellectualism is in full swing— marked by crises in basic comprehension, critical thinking, literacy, a…",
+      "author_username": "rodwdarod",
+      "author_category": "Keyword Discovery",
+      "created_at": "2025-07-30T21:35:33.000Z",
+      "public_metrics": {
+        "retweet_count": 378,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI Development - Your core expertise - Score: 6/10",
+      "relevance_score": 6,
+      "reply_angle": "Share your vibe coding philosophy and developer experience insights",
+      "hours_old": 0,
+      "source_type": "keyword_search"
+    },
+    {
+      "id": "1950256423436271710",
+      "url": "https://x.com/paulroetzer/status/1950256423436271710",
+      "text": "RT @KateClarkTweets: Scoop: Iconiq Capital will lead Anthropic's next mega-round, valuing the OpenAI rival at $170 billion. QIA and GIC are…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-29T18:05:40.000Z",
+      "public_metrics": {
+        "retweet_count": 28,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 6/10",
+      "relevance_score": 6,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 27,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1950225271199596731",
+      "url": "https://x.com/paulroetzer/status/1950225271199596731",
+      "text": "RT @GeminiApp: 1/ Tips to help you create impressive Veo 3 videos with sound from a single prompt 🧵",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-29T16:01:52.000Z",
+      "public_metrics": {
+        "retweet_count": 97,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 6/10",
+      "relevance_score": 6,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 29,
+      "source_type": "ai_peer"
+    },
+    {
+      "id": "1950168474040381659",
+      "url": "https://x.com/paulroetzer/status/1950168474040381659",
+      "text": "RT @amasad: The best pricing model for AI is outcome-based. \n\nFor example, charge when AI closes a support ticket.\n\nBut very few things wor…",
+      "author_username": "paulroetzer",
+      "author_category": "AI Marketing Expert",
+      "created_at": "2025-07-29T12:16:11.000Z",
+      "public_metrics": {
+        "retweet_count": 27,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "relevance_reason": "AI marketing strategy insights and industry leadership - Score: 6/10",
+      "relevance_score": 6,
+      "reply_angle": "Share relevant personal experience and insights",
+      "hours_old": 33,
+      "source_type": "ai_peer"
     }
-  ]
+  ],
+  "search_stats": {
+    "signal_boosters_checked": 4,
+    "ai_peers_checked": 3,
+    "keyword_searches": 2,
+    "time_window_hours": 72
+  }
 }

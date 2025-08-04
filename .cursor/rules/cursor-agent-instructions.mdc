@@ -1,0 +1,161 @@
+# Cursor Agent Instructions - Social Media Agent
+
+## Project Overview & Architecture
+
+You are working on **Social Media Agent**, a TypeScript/Node.js application that uses LangGraph workflows to generate social media content from web links. The system includes:
+
+- **Backend**: TypeScript + LangGraph agents in `src/agents/`
+- **Frontend**: Next.js React app in `cheeky-agent-inbox/`
+- **Key APIs**: Twitter, LinkedIn, GitHub, YouTube, Slack, Supabase
+- **Testing**: Jest for unit/integration tests
+- **Deployment**: LangGraph Cloud with human-in-the-loop workflows
+
+## Coding Standards & Conventions
+
+### File & Directory Naming
+- **kebab-case** for files and directories: `generate-post-graph.ts`, `nodes/`
+- **PascalCase** for React components within files: `AgentInbox`, `PostCard`
+- **UPPER_SNAKE_CASE** for constants: `SKIP_USED_URLS_CHECK`
+
+### TypeScript Patterns
+- Always use **strict TypeScript** with proper typing
+- Use **Zod** for runtime validation and schema definition
+- Prefer **explicit return types** for functions
+- Use **interface** for objects, **type** for unions/computed types
+- Import types with `import type { ... }`
+
+### LangGraph Agent Structure
+Every agent follows this pattern:
+```
+src/agents/[agent-name]/
+├── index.ts              # Main entry point
+├── [agent]-graph.ts      # Graph definition & routing
+├── state.ts              # Typed LangGraph state
+├── nodes/                # Individual node handlers
+├── prompts/              # Prompt templates
+├── constants.ts          # Configuration constants
+├── types.ts              # Type definitions
+└── utils.ts              # Helper functions
+```
+
+### Code Organization Rules
+- **Single Responsibility**: Each node handles one specific task
+- **Domain Separation**: Keep Twitter, LinkedIn, GitHub logic in separate modules
+- **Shared State**: Use `src/agents/shared/shared-state.ts` for common state fields
+- **Error Handling**: Always handle LangGraph interrupts and API failures gracefully
+- **Environment Variables**: Use utility functions from `src/agents/utils.ts` instead of direct `process.env`
+
+### Testing Conventions
+- **Unit tests**: `*.test.ts` - Fast, isolated, mock external APIs
+- **Integration tests**: `*.int.test.ts` - Real API calls, require env vars
+- **Test data**: Store in `tests/data/` or agent-specific `tests/` folders
+- **Timeout**: Use `--testTimeout 100000` for integration tests
+- **Environment**: Tests run in `America/Los_Angeles` timezone
+
+### Dependencies & Imports
+- **LangGraph**: Primary workflow orchestration
+- **LangChain**: LLM integrations and utilities  
+- **Zod**: Schema validation
+- **Supabase**: Data storage
+- **FireCrawl**: Web scraping
+- **Arcade**: Social media authentication
+- Use **absolute imports** from `src/` root
+- Import order: external packages, then internal modules
+
+## Prompt & Content Guidelines
+
+### Content Standards
+- **Target Audience**: AI developers, AI enthusiasts, technical professionals
+- **Topics**: AI applications, agents, RAG, multi-modal AI, voice agents
+- **Tone**: Casual, present tense, developer-focused
+- **Structure**: 5-word hook + 3-sentence body + 3-6 word CTA
+- **Style**: Minimal emojis, no hashtags, conversational
+
+### Prompt Conventions
+- **XML Tags**: `<report>`, `<post>`, `<thinking>`, `<total-posts>`
+- **Reasoning**: Always use `<thinking>` tags for AI reasoning
+- **Examples**: Reference 16 real posts from `prompts/examples.ts`
+- **Validation**: Check relevance to AI/business context
+
+### Configuration Patterns
+```typescript
+const config = {
+  configurable: {
+    llmProvider: "anthropic" | "openai",     // Default: "anthropic"
+    useRawContentForPost: boolean,           // Default: false
+    skipUsedUrlsCheck: boolean,              // Default: false
+    skipContentRelevancyCheck: boolean       // Default: false
+  }
+};
+```
+
+## Agent Behavior Rules
+
+### Planning & Execution
+1. **Start with Planning**: For complex tasks (3+ steps), create PRD/todo list first
+2. **Break Down Tasks**: Use todo_write tool for multi-step tasks
+3. **One Task Focus**: Mark only one todo as "in_progress" at a time
+4. **Complete Before Moving**: Mark todos complete before starting new ones
+
+### Code Changes
+1. **Read Before Writing**: Always read existing code to understand patterns
+2. **Preserve Patterns**: Follow existing conventions in the file/module
+3. **Type Safety**: Add proper TypeScript types for new code
+4. **Test Coverage**: Add tests for new functionality
+5. **Documentation**: Update relevant docs when changing behavior
+
+### Error Handling & Quality
+1. **Halt on Hallucinations**: If I suggest invalid function signatures or non-existent APIs, challenge me immediately
+2. **Explain Reasoning**: When proposing changes, explain why they're needed
+3. **Update Rules**: When errors are found, update these instructions to prevent recurrence
+4. **Validate Changes**: Test code changes before considering task complete
+
+### Memory & Learning
+1. **Store Patterns**: Use memory tool for recurring preferences and patterns
+2. **Update Memory**: Correct memories when contradicted by new information
+3. **Reference Memory**: Cite memories when applying stored preferences
+
+## Environment & Scripts
+
+### Key Scripts (via `yarn`)
+- `yarn dev` - Start LangGraph development server
+- `yarn test` / `yarn test:int` - Run unit/integration tests
+- `yarn generate_post` - Generate social media post
+- `yarn twitter:search` - Search Twitter for content
+- `yarn lint` / `yarn format` - Code quality checks
+
+### Environment Setup
+- **Development**: Use `.env.local` for local development
+- **Testing**: Integration tests require API keys in environment
+- **LangGraph**: Runs on port 54367 by default
+- **Authentication**: Separate auth server for social media APIs
+
+## Common Patterns & Anti-Patterns
+
+### ✅ Good Patterns
+- Use utility functions from `src/agents/utils.ts` for env checks
+- Leverage existing shared state and nodes
+- Follow LangGraph interrupt patterns for human-in-the-loop
+- Use Zod schemas for input validation
+- Store URLs in LangGraph store to prevent duplicates
+
+### ❌ Anti-Patterns  
+- Direct `process.env` access (use utility functions)
+- Missing error handling in API calls
+- Hardcoded configuration values
+- Mixing different agent concerns in single files
+- Ignoring existing TypeScript interfaces
+
+## Continuous Improvement
+
+When I make mistakes or you provide feedback:
+1. **Stop and Analyze**: Don't continue with incorrect approach
+2. **Ask Why**: Understand the reasoning behind corrections
+3. **Update Instructions**: Add new rules to prevent similar issues
+4. **Validate Understanding**: Confirm correct approach before proceeding
+
+This creates a learning loop that continuously improves our collaboration effectiveness.
+description:
+globs:
+alwaysApply: false
+---
