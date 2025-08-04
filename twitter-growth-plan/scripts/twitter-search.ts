@@ -2,8 +2,8 @@ import { config } from "dotenv";
 import { TwitterApi } from "twitter-api-v2";
 import { resolve } from "path";
 
-// Load .env from parent directory (main project root)
-const envPath = resolve(process.cwd(), "../.env");
+// Load .env from twitter-growth-plan directory
+const envPath = resolve(process.cwd(), ".env");
 const result = config({ path: envPath });
 
 // Debug: Show if .env loaded successfully
