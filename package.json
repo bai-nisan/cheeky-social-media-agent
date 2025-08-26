@@ -42,7 +42,16 @@
     "reply:fresh": "yarn tsx scripts/view-reply-opportunities.ts fresh",
     "reply:dillion": "yarn tsx scripts/view-reply-opportunities.ts dillion",
     "reply:high": "yarn tsx scripts/view-reply-opportunities.ts high",
-    "daily:replies": "yarn reply:search && yarn reply:signal"
+    "daily:replies": "yarn reply:search && yarn reply:signal",
+    "tweet": "yarn tsx twitter-growth-plan/buffer-integration/schedule-post.ts",
+    "thread": "yarn tsx twitter-growth-plan/buffer-integration/schedule-thread.ts",
+    "scheduled": "yarn tsx twitter-growth-plan/buffer-integration/manage-scheduled.ts",
+    "buffer:test": "yarn tsx twitter-growth-plan/buffer-integration/test-setup.ts",
+    "ayr:tweet": "yarn tsx twitter-growth-plan/ayrshare-integration/schedule-post.ts",
+    "ayr:thread": "yarn tsx twitter-growth-plan/ayrshare-integration/schedule-thread.ts",
+    "ayr:manage": "yarn tsx twitter-growth-plan/ayrshare-integration/manage-scheduled.ts",
+    "ayr:test": "yarn tsx twitter-growth-plan/ayrshare-integration/test-setup.ts",
+    "schedule:tweet": "yarn tsx scripts/schedule-specific-tweet.ts"
   },
   "dependencies": {
     "@arcadeai/arcadejs": "^1.0.0",
@@ -69,6 +78,7 @@
     "google-auth-library": "^9.15.0",
     "langsmith": "0.2.15-rc.6",
     "moment": "^2.30.1",
+    "node-fetch": "^3.3.2",
     "passport": "^0.7.0",
     "passport-twitter": "^1.0.4",
     "playwright": "^1.49.1",

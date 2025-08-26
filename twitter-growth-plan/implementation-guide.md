@@ -6,7 +6,16 @@
 **Starting Point**: 0 followers, 0 content  
 **Goal**: Continuously hyper-relevant growth in AI marketing niche  
 **Capacity**: 1 tweet daily + 1 thread weekly  
-**Time Budget**: 30-60 minutes per day  
+**Time Budget**: 30-60 minutes per day
+
+### Zero-to-Followers Strategy
+**Essential for growing from 0 followers:**
+1. **Pick Your Niche First** - AI marketing expertise clearly defined
+2. **Set Tweet Notifications** - Turn on notifications for 10-15 key influencers
+3. **Be a Thoughtful Reply Guy** - Add genuine value, not just agreement
+4. **Target Small Accounts** - 5-15 followers daily from quality responses
+5. **Use Images/Videos in Replies** - Algorithm boost for visual content
+6. **Get X Premium** - Required ($8/mo) for reply visibility  
 
 ---
 
