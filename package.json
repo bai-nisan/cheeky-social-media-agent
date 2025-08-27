@@ -28,7 +28,7 @@
     "cron:delete": "yarn tsx scripts/crons/delete-cron.ts",
     "cron:list": "yarn tsx scripts/crons/list-crons.ts",
     "graph:backfill": "yarn tsx scripts/backfill.ts",
-    "get:scheduled_runs": "yarn tsx scripts/get-scheduled-runs.ts",
+
     "get:used_links": "yarn tsx scripts/get-all-used-links.ts",
     "graph:delete:run_thread": "yarn tsx scripts/delete-run-thread.ts",
     "langgraph:up": "langgraph up --watch --port 54367",
@@ -42,16 +42,7 @@
     "reply:fresh": "yarn tsx scripts/view-reply-opportunities.ts fresh",
     "reply:dillion": "yarn tsx scripts/view-reply-opportunities.ts dillion",
     "reply:high": "yarn tsx scripts/view-reply-opportunities.ts high",
-    "daily:replies": "yarn reply:search && yarn reply:signal",
-    "tweet": "yarn tsx twitter-growth-plan/buffer-integration/schedule-post.ts",
-    "thread": "yarn tsx twitter-growth-plan/buffer-integration/schedule-thread.ts",
-    "scheduled": "yarn tsx twitter-growth-plan/buffer-integration/manage-scheduled.ts",
-    "buffer:test": "yarn tsx twitter-growth-plan/buffer-integration/test-setup.ts",
-    "ayr:tweet": "yarn tsx twitter-growth-plan/ayrshare-integration/schedule-post.ts",
-    "ayr:thread": "yarn tsx twitter-growth-plan/ayrshare-integration/schedule-thread.ts",
-    "ayr:manage": "yarn tsx twitter-growth-plan/ayrshare-integration/manage-scheduled.ts",
-    "ayr:test": "yarn tsx twitter-growth-plan/ayrshare-integration/test-setup.ts",
-    "schedule:tweet": "yarn tsx scripts/schedule-specific-tweet.ts"
+    "daily:replies": "yarn reply:search && yarn reply:signal"
   },
   "dependencies": {
     "@arcadeai/arcadejs": "^1.0.0",

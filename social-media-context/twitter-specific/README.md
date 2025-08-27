@@ -29,7 +29,7 @@ How to engage and build relationships on Twitter:
 ### `/technical-setup/`
 Twitter automation and technical integration:
 - **api-configuration.md** - Twitter API setup and credentials
-- **scheduling-tools.md** - Buffer, native scheduling, automation options
+- **scheduling-tools.md** - Native scheduling, automation options
 - **automation-scripts/** - Twitter-specific scripts and tools
 - **analytics-collection.md** - Twitter metrics gathering and tracking
 

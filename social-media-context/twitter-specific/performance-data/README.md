@@ -38,6 +38,6 @@ These analytics will be implemented after:
 ## Data Sources
 
 - Twitter native analytics
-- Third-party analytics tools (Buffer, Hootsuite, etc.)
+- Third-party analytics tools (Hootsuite, etc.)
 - Manual engagement tracking
 - Automated performance collection scripts 

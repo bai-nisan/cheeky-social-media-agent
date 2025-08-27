@@ -26,17 +26,9 @@ If you don't want to post to Slack, the script will print the output to the cons
 
 ## Scripts
 
-### Get Scheduled Runs
-
-This script will fetch all scheduled runs and either send them to Slack or print them to the console.
-
-```bash
-yarn get:scheduled_runs
-```
-
 ### Get all used links
 
-This script will fetch and log all links which are currently scheduled, or interrupted and awaiting human intervention.
+This script will fetch and log all links which are currently used in the system.
 
 ```bash
 yarn get:used_links

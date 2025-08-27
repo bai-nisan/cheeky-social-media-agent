@@ -1,0 +1,28 @@
+# Project Ignore - Unused/Inactive Directories
+# These directories exist but are not used by the active TypeScript/Node.js project
+
+# IDE Configuration (not imported by code)
+.cursor/
+.vscode/
+
+# Experimental/Separate Projects (not imported by code)
+memory-v2/
+slack-messaging/
+
+# Old Data/Archives (not imported by code)
+post_extractions/
+
+# Duplicate Context Directories (use social-media-context/ instead)
+general-context/
+linkedin-specific/
+twitter-specific/
+
+# Note: These directories can be safely moved to archive/ or removed
+# without affecting the active project functionality.
+#
+# Active project only uses:
+# - src/ (main TypeScript code)
+# - scripts/ (automation scripts)
+# - social-media-context/ (organized context system)
+# - *-growth-plan/ (strategy documents)
+# - package.json, tsconfig.json, etc. (config files) 

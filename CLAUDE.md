@@ -24,7 +24,7 @@ The Social Media Agent is an AI-powered LangGraph application that automates soc
 ### Core Functionality
 - `yarn generate_post` - Generate a social media post from URL
 - `yarn cron:create` - Create automated posting job
-- `yarn get:scheduled_runs` - View scheduled posts
+
 
 ## Architecture Overview
 

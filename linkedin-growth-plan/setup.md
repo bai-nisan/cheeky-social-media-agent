@@ -133,7 +133,7 @@ AI Development & Marketing Automation Consultant
 - ✅ Supports Hebrew content properly
 - ❌ Limited analytics
 
-**Secondary: Buffer (Optional)**
+
 - ✅ Better analytics  
 - ✅ Multiple platform management
 - ❌ Costs $5-15/month

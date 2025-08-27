@@ -181,6 +181,6 @@ If you want automated posting capabilities:
 When you're ready to scale:
 - **Option 1**: Claude Desktop MCP for automated posting
 - **Option 3**: Custom Twitter CLI tool for Cursor terminal integration
-- **Scheduling tools**: Typefully, Buffer, or Tweet Hunter for content queuing
+- **Scheduling tools**: Typefully or Tweet Hunter for content queuing
 
 But for now, let's focus on building great content and strategy together! 💪 
