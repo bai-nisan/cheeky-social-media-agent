@@ -35,3 +35,12 @@ src/clients/reddit/.secrets/
 __pycache__/
 .mypy_cache/
 .ruff_cache/
+
+# Prevent accidentally adding files to unused/archived directories
+# (These directories exist but are not part of active project - see .projectignore)
+memory-v2/**/*
+slack-messaging/**/*
+post_extractions/**/*
+general-context/**/*
+linkedin-specific/**/*
+twitter-specific/**/*
